@@ -184,13 +184,12 @@ import { getDatabase, ref, onValue, set } from "https://www.gstatic.com/firebase
    CONFIG — fill these three in (see deployment steps)
    ============================================================ */
 const FIREBASE_CONFIG = {
-     apiKey: "AIzaSyCuliqaRewar0AqDveHmjAmKqTemheYpP8",
-     authDomain: "shaw-feed.firebaseapp.com",
-     databaseURL: "https://shaw-feed-default-rtdb.asia-southeast1.firebasedatabase.app",
-     projectId: "shaw-feed",
-     appId: "1:169326183574:web:4729b226ae3ab26d772eb7"
-   };
-
+  apiKey: "AIzaSyCuliqaRewar0AqDveHmjAmKqTemheYpP8",
+  authDomain: "shaw-feed.firebaseapp.com",
+  databaseURL: "https://shaw-feed-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "shaw-feed",
+  appId: "1:169326183574:web:4729b226ae3ab26d772eb7"
+};
 // Your GitHub repo that holds feed.json + the Action.
 const GH_OWNER = "shawmarketing";
 const GH_REPO  = "shaw-feed";
@@ -235,10 +234,23 @@ function fmtUpdated(iso){
 }
 
 /* ---------- Firebase listeners ---------- */
+let topicsSeeded = false;
 if(db){
   onValue(ref(db,"saved"), s => { saved = s.val()||{}; renderSaved(); syncSaveIcons(); });
-  onValue(ref(db,"topics"), s => {
-    if(s.exists() && !topicsDirty){ topics = s.val(); renderTopics(); buildRail(); }
+  onValue(ref(db,"topics"), async s => {
+    if(s.exists() && !topicsDirty){
+      // Firebase has a saved list — use it.
+      topics = s.val(); renderTopics(); buildRail();
+    } else if(!s.exists() && !topicsSeeded){
+      // Firebase empty (first run): seed it from the repo's topics.json.
+      topicsSeeded = true;
+      try{
+        const r = await fetch(TOPICS_URL+Date.now());
+        const seed = await r.json();
+        topics = seed; renderTopics(); buildRail();
+        set(ref(db,"topics"), seed); // write into Firebase so it's editable + persists
+      }catch(e){ console.warn("seed topics failed:", e.message); }
+    }
   });
 }
 
