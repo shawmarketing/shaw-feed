@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Shaw Brief — Daily Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --navy:#10243f;        /* Shaw anchor */
+    --navy-2:#1c3a63;
+    --ink:#0d1825;
+    --amber:#e2a13b;       /* live / action accent */
+    --amber-deep:#c2811f;
+    --paper:#f7f5f0;       /* warm briefing paper */
+    --card:#ffffff;
+    --line:#e4dfd5;
+    --muted:#6b7280;
+    --muted-2:#9aa0a8;
+    --red:#c0392b;
+    --emerald:#1f7a5a;
+    --shadow:0 1px 2px rgba(16,36,63,.04),0 8px 24px rgba(16,36,63,.06);
+    --radius:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+  html,body{background:var(--paper);color:var(--ink);font-family:Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  body{padding-bottom:90px}
+  a{color:inherit;text-decoration:none}
+
+  /* ---------- Masthead ---------- */
+  header{
+    background:var(--navy);color:#fff;padding:18px 18px 14px;
+    position:sticky;top:0;z-index:50;
+    border-bottom:3px solid var(--amber);
+  }
+  .masthead{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;max-width:920px;margin:0 auto}
+  .brand{display:flex;flex-direction:column;gap:2px}
+  .kicker{font:600 11px/1 Inter;letter-spacing:.22em;text-transform:uppercase;color:var(--amber)}
+  .title{font:700 30px/0.95 Fraunces;letter-spacing:-.01em}
+  .title span{font-style:italic;font-weight:400}
+  .status{display:flex;align-items:center;gap:7px;font-size:12px;color:#c7d2df;white-space:nowrap}
+  .dot{width:8px;height:8px;border-radius:50%;background:var(--amber);box-shadow:0 0 0 0 rgba(226,161,59,.6);animation:pulse 2.2s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(226,161,59,.55)}70%{box-shadow:0 0 0 9px rgba(226,161,59,0)}100%{box-shadow:0 0 0 0 rgba(226,161,59,0)}}
+
+  /* ---------- Tabs ---------- */
+  .tabs{display:flex;gap:4px;max-width:920px;margin:14px auto 0;background:rgba(255,255,255,.08);padding:4px;border-radius:11px}
+  .tab{flex:1;text-align:center;padding:9px 6px;border-radius:8px;font:600 13px Inter;color:#b9c4d4;cursor:pointer;border:none;background:none;transition:.15s}
+  .tab.active{background:#fff;color:var(--navy)}
+
+  /* ---------- Layout ---------- */
+  main{max-width:920px;margin:0 auto;padding:16px 14px}
+
+  /* topic filter rail */
+  .rail{display:flex;gap:8px;overflow-x:auto;padding:4px 0 12px;scrollbar-width:none}
+  .rail::-webkit-scrollbar{display:none}
+  .chip{flex:none;padding:7px 13px;border-radius:999px;border:1px solid var(--line);background:var(--card);
+    font:500 13px Inter;color:var(--muted);cursor:pointer;white-space:nowrap;transition:.15s}
+  .chip.active{background:var(--navy);color:#fff;border-color:var(--navy)}
+
+  .toolbar{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:2px 0 14px}
+  .count{font-size:13px;color:var(--muted)}
+  .btn{display:inline-flex;align-items:center;gap:7px;border:none;cursor:pointer;font:600 13px Inter;
+    padding:10px 15px;border-radius:10px;transition:.15s}
+  .btn-amber{background:var(--amber);color:#3a2a08}
+  .btn-amber:active{background:var(--amber-deep)}
+  .btn-amber:disabled{opacity:.55;cursor:default}
+  .btn-ghost{background:var(--card);color:var(--navy);border:1px solid var(--line)}
+  .spin{animation:rot 1s linear infinite}
+  @keyframes rot{to{transform:rotate(360deg)}}
+
+  /* ---------- Cards ---------- */
+  .group-label{font:600 12px/1 Inter;letter-spacing:.14em;text-transform:uppercase;color:var(--amber-deep);
+    margin:22px 2px 10px;display:flex;align-items:center;gap:10px}
+  .group-label::after{content:"";flex:1;height:1px;background:var(--line)}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+    padding:15px 16px;margin-bottom:11px;box-shadow:var(--shadow);position:relative;display:block}
+  .card-top{display:flex;align-items:center;gap:8px;margin-bottom:7px;flex-wrap:wrap}
+  .src{font:600 12px Inter;color:var(--navy)}
+  .time{font-size:12px;color:var(--muted-2)}
+  .tag{font:600 10px Inter;letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:6px;
+    background:#eef1f6;color:var(--navy-2)}
+  .headline{font:600 18px/1.3 Fraunces;color:var(--ink);padding-right:34px}
+  .card:active{transform:scale(.997)}
+  .save{position:absolute;top:13px;right:12px;width:30px;height:30px;border:none;background:none;cursor:pointer;
+    color:var(--muted-2);display:flex;align-items:center;justify-content:center;border-radius:8px}
+  .save:hover{background:var(--paper)}
+  .save.on{color:var(--amber-deep)}
+
+  /* ---------- Empty / loading ---------- */
+  .empty{text-align:center;padding:60px 24px;color:var(--muted)}
+  .empty .em-icon{font-size:34px;margin-bottom:10px}
+  .empty h3{font:600 18px Fraunces;color:var(--ink);margin-bottom:6px}
+  .skel{height:96px;border-radius:var(--radius);background:linear-gradient(90deg,#efece5 25%,#f6f3ee 50%,#efece5 75%);
+    background-size:200% 100%;animation:sh 1.3s infinite;margin-bottom:11px}
+  @keyframes sh{to{background-position:-200% 0}}
+
+  /* ---------- Topics tab ---------- */
+  .topic-block{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px 15px;margin-bottom:11px;box-shadow:var(--shadow)}
+  .topic-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:10px}
+  .topic-name{font:600 16px Fraunces;color:var(--navy)}
+  .q{display:inline-flex;align-items:center;gap:6px;background:var(--paper);border:1px solid var(--line);
+    border-radius:8px;padding:5px 9px;margin:0 6px 6px 0;font-size:13px;color:var(--ink)}
+  .q button{border:none;background:none;color:var(--muted-2);cursor:pointer;font-size:15px;line-height:1;padding:0}
+  .add-row{display:flex;gap:8px;margin-top:8px}
+  input[type=text]{flex:1;border:1px solid var(--line);border-radius:9px;padding:10px 12px;font:400 14px Inter;background:#fff}
+  input[type=text]:focus{outline:none;border-color:var(--amber)}
+  .new-topic{background:var(--card);border:1px dashed var(--amber);border-radius:var(--radius);padding:14px 15px;margin-bottom:11px}
+  .save-banner{position:fixed;left:0;right:0;bottom:74px;display:flex;justify-content:center;z-index:60;pointer-events:none}
+  .save-banner .inner{background:var(--navy);color:#fff;padding:10px 18px;border-radius:999px;font:600 13px Inter;
+    box-shadow:0 8px 24px rgba(16,36,63,.3);display:flex;gap:14px;align-items:center;pointer-events:auto}
+  .save-banner button{background:var(--amber);color:#3a2a08;border:none;padding:7px 14px;border-radius:999px;font:600 13px Inter;cursor:pointer}
+
+  /* ---------- Settings note ---------- */
+  .note{background:#fff;border:1px solid var(--line);border-left:3px solid var(--amber);border-radius:10px;
+    padding:13px 15px;font-size:13px;color:var(--muted);line-height:1.5;margin-bottom:14px}
+  .note b{color:var(--ink)}
+
+  @media(min-width:560px){ .title{font-size:34px} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="masthead">
+    <div class="brand">
+      <div class="kicker">Shaw Intelligence</div>
+      <div class="title">The <span>Brief</span></div>
+    </div>
+    <div class="status"><span class="dot"></span><span id="updated">loading…</span></div>
+  </div>
+  <div class="tabs">
+    <button class="tab active" data-tab="feed">Feed</button>
+    <button class="tab" data-tab="saved">Saved</button>
+    <button class="tab" data-tab="topics">Topics</button>
+  </div>
+</header>
+
+<main>
+  <!-- FEED -->
+  <section id="view-feed">
+    <div class="rail" id="rail"></div>
+    <div class="toolbar">
+      <span class="count" id="feed-count"></span>
+      <button class="btn btn-amber" id="fetch-now">
+        <svg id="fetch-ico" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.6-6.4"/><path d="M21 3v6h-6"/></svg>
+        Fetch now
+      </button>
+    </div>
+    <div id="feed-list"></div>
+  </section>
+
+  <!-- SAVED -->
+  <section id="view-saved" style="display:none">
+    <div id="saved-list"></div>
+  </section>
+
+  <!-- TOPICS -->
+  <section id="view-topics" style="display:none">
+    <div class="note">
+      <b>How topics work.</b> Each topic holds search phrases. The crawler runs them through Google News twice daily (and whenever you tap <b>Fetch now</b>). Add or remove anything here, then tap <b>Save changes</b> — the next fetch uses your updated list.
+    </div>
+    <div id="topics-list"></div>
+    <div class="new-topic">
+      <div class="add-row">
+        <input type="text" id="new-topic-name" placeholder="New topic name (e.g. Luxury Automotive)" />
+        <button class="btn btn-amber" id="add-topic">Add</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div class="save-banner" id="save-banner" style="display:none">
+  <div class="inner"><span id="save-banner-text">You have unsaved topic changes</span><button id="commit-topics">Save changes</button></div>
+</div>
+
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import { getDatabase, ref, onValue, set } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
+
+/* ============================================================
+   CONFIG — fill these three in (see deployment steps)
+   ============================================================ */
+const FIREBASE_CONFIG = {
+  apiKey: "PASTE_API_KEY",
+  authDomain: "PASTE.firebaseapp.com",
+  databaseURL: "https://PASTE-default-rtdb.firebaseio.com",
+  projectId: "PASTE",
+  appId: "PASTE_APP_ID"
+};
+
+// Your GitHub repo that holds feed.json + the Action.
+const GH_OWNER = "shawmarketing";
+const GH_REPO  = "shaw-feed";
+const GH_BRANCH = "main";
+
+// Optional: a fine-grained GitHub token (Actions: read+write) lets the
+// "Fetch now" button trigger a live crawl. Leave "" to disable live fetch
+// (button will just reload the latest feed.json instead).
+const GH_DISPATCH_TOKEN = "";
+/* ============================================================ */
+
+const FEED_URL = `https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${GH_BRANCH}/feed.json?t=`;
+const TOPICS_URL = `https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${GH_BRANCH}/topics.json?t=`;
+
+// ---- Firebase init (saved articles + topic edits sync) ----
+let db = null;
+try {
+  const app = initializeApp(FIREBASE_CONFIG);
+  db = getDatabase(app);
+} catch(e){ console.warn("Firebase not configured yet:", e.message); }
+
+let saved = {};        // id -> article
+let topics = {};       // name -> [queries]
+let topicsDirty = false;
+let feedItems = [];
+let activeFilter = "All";
+
+const $ = s => document.querySelector(s);
+const slug = s => s.toLowerCase().replace(/[^a-z0-9]/g,"").slice(0,40);
+
+function timeAgo(ts){
+  if(!ts) return "";
+  const d = Date.now()-ts, h = d/36e5;
+  if(h<1) return Math.max(1,Math.round(d/6e4))+"m ago";
+  if(h<24) return Math.round(h)+"h ago";
+  return Math.round(h/24)+"d ago";
+}
+function fmtUpdated(iso){
+  if(!iso) return "no feed yet";
+  const d=new Date(iso);
+  return "Updated "+d.toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+}
+
+/* ---------- Firebase listeners ---------- */
+if(db){
+  onValue(ref(db,"saved"), s => { saved = s.val()||{}; renderSaved(); syncSaveIcons(); });
+  onValue(ref(db,"topics"), s => {
+    if(s.exists() && !topicsDirty){ topics = s.val(); renderTopics(); buildRail(); }
+  });
+}
+
+/* ---------- Load feed + topics from repo ---------- */
+async function loadFeed(){
+  try{
+    const r = await fetch(FEED_URL+Date.now());
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    const data = await r.json();
+    feedItems = data.items||[];
+    $("#updated").textContent = fmtUpdated(data.generatedAt);
+    renderFeed();
+  }catch(e){
+    $("#updated").textContent = "feed not ready";
+    $("#feed-list").innerHTML = emptyState("📡","No feed yet","Once the crawler runs (or you tap Fetch now), articles appear here.");
+  }
+}
+async function loadTopicsFromRepo(){
+  // Firebase is source of truth if present; fall back to repo topics.json.
+  if(db) return; // firebase listener handles it
+  try{
+    const r = await fetch(TOPICS_URL+Date.now());
+    topics = await r.json(); renderTopics(); buildRail();
+  }catch(e){ /* ignore */ }
+}
+
+/* ---------- Rendering: FEED ---------- */
+function buildRail(){
+  const names = ["All", ...Object.keys(topics)];
+  $("#rail").innerHTML = names.map(n =>
+    `<button class="chip ${n===activeFilter?'active':''}" data-f="${n}">${n}</button>`).join("");
+  $("#rail").querySelectorAll(".chip").forEach(c=>c.onclick=()=>{
+    activeFilter=c.dataset.f; buildRail(); renderFeed();
+  });
+}
+function renderFeed(){
+  const items = activeFilter==="All" ? feedItems : feedItems.filter(i=>i.topic===activeFilter);
+  $("#feed-count").textContent = `${items.length} article${items.length!==1?"s":""}${activeFilter!=="All"?" · "+activeFilter:""}`;
+  if(!items.length){ $("#feed-list").innerHTML = emptyState("🗞️","Nothing here yet","Try another topic or tap Fetch now."); return; }
+
+  if(activeFilter==="All"){
+    // group by topic
+    const groups={};
+    for(const it of items){ (groups[it.topic]=groups[it.topic]||[]).push(it); }
+    $("#feed-list").innerHTML = Object.entries(groups).map(([g,arr])=>
+      `<div class="group-label">${g}</div>`+arr.map(cardHTML).join("")).join("");
+  } else {
+    $("#feed-list").innerHTML = items.map(cardHTML).join("");
+  }
+  wireCards("#feed-list");
+}
+function cardHTML(it){
+  const id = slug(it.title);
+  const on = saved[id] ? "on" : "";
+  return `<div class="card" data-link="${escapeAttr(it.link)}">
+    <button class="save ${on}" data-save='${escapeAttr(JSON.stringify({id,title:it.title,link:it.link,source:it.source,topic:it.topic,ts:it.ts}))}' aria-label="Save">
+      ${bookmarkSVG(!!saved[id])}
+    </button>
+    <div class="card-top">
+      ${it.source?`<span class="src">${esc(it.source)}</span>`:""}
+      ${it.ts?`<span class="time">· ${timeAgo(it.ts)}</span>`:""}
+      <span class="tag">${esc(it.topic)}</span>
+    </div>
+    <div class="headline">${esc(it.title)}</div>
+  </div>`;
+}
+
+/* ---------- Rendering: SAVED ---------- */
+function renderSaved(){
+  const arr = Object.values(saved).sort((a,b)=>(b.ts||0)-(a.ts||0));
+  if(!arr.length){ $("#saved-list").innerHTML = emptyState("🔖","No saved articles","Tap the bookmark on any article to keep it here. Saves sync across your devices."); return; }
+  $("#saved-list").innerHTML = arr.map(cardHTML).join("");
+  wireCards("#saved-list");
+}
+
+/* ---------- Rendering: TOPICS ---------- */
+function renderTopics(){
+  $("#topics-list").innerHTML = Object.entries(topics).map(([name,queries])=>`
+    <div class="topic-block" data-topic="${escapeAttr(name)}">
+      <div class="topic-head">
+        <span class="topic-name">${esc(name)}</span>
+        <button class="q" data-del-topic="${escapeAttr(name)}" style="color:var(--red);border-color:#f0d4d0;background:#fbeeec">Remove topic</button>
+      </div>
+      <div>${queries.map(q=>`<span class="q">${esc(q)}<button data-del-q="${escapeAttr(name)}|${escapeAttr(q)}">×</button></span>`).join("")}</div>
+      <div class="add-row">
+        <input type="text" placeholder="Add a search phrase…" data-add-input="${escapeAttr(name)}" />
+        <button class="btn btn-ghost" data-add-q="${escapeAttr(name)}">Add</button>
+      </div>
+    </div>`).join("");
+
+  $("#topics-list").querySelectorAll("[data-del-q]").forEach(b=>b.onclick=()=>{
+    const [n,q]=b.dataset.delQ.split("|"); topics[n]=topics[n].filter(x=>x!==q); markDirty(); renderTopics();
+  });
+  $("#topics-list").querySelectorAll("[data-del-topic]").forEach(b=>b.onclick=()=>{
+    if(confirm(`Remove "${b.dataset.delTopic}" and all its phrases?`)){ delete topics[b.dataset.delTopic]; markDirty(); renderTopics(); buildRail(); }
+  });
+  $("#topics-list").querySelectorAll("[data-add-q]").forEach(b=>b.onclick=()=>{
+    const n=b.dataset.addQ, inp=$(`[data-add-input="${cssAttr(n)}"]`), v=inp.value.trim();
+    if(v){ topics[n]=[...(topics[n]||[]),v]; markDirty(); renderTopics(); }
+  });
+}
+
+/* ---------- Save / topic actions ---------- */
+function wireCards(scope){
+  document.querySelectorAll(scope+" .card").forEach(c=>{
+    c.onclick=e=>{ if(e.target.closest(".save")) return; window.open(c.dataset.link,"_blank","noopener"); };
+  });
+  document.querySelectorAll(scope+" .save").forEach(btn=>{
+    btn.onclick=e=>{ e.stopPropagation();
+      const a=JSON.parse(btn.dataset.save);
+      if(saved[a.id]){ delete saved[a.id]; } else { saved[a.id]=a; }
+      if(db) set(ref(db,"saved"), saved);
+      syncSaveIcons();
+    };
+  });
+}
+function syncSaveIcons(){
+  document.querySelectorAll(".save").forEach(btn=>{
+    const a=JSON.parse(btn.dataset.save); const on=!!saved[a.id];
+    btn.classList.toggle("on",on); btn.innerHTML=bookmarkSVG(on);
+  });
+  renderSaved();
+}
+function markDirty(){ topicsDirty=true; $("#save-banner").style.display="flex"; }
+$("#commit-topics").onclick=()=>{
+  if(db) set(ref(db,"topics"),topics);
+  topicsDirty=false; $("#save-banner").style.display="none";
+  toast("Topics saved — next fetch uses your new list");
+};
+$("#add-topic").onclick=()=>{
+  const v=$("#new-topic-name").value.trim();
+  if(v && !topics[v]){ topics[v]=[]; $("#new-topic-name").value=""; markDirty(); renderTopics(); buildRail(); }
+};
+
+/* ---------- Fetch now ---------- */
+$("#fetch-now").onclick=async()=>{
+  const btn=$("#fetch-now"), ico=$("#fetch-ico");
+  if(GH_DISPATCH_TOKEN){
+    btn.disabled=true; ico.classList.add("spin"); btn.lastChild.textContent=" Fetching…";
+    try{
+      const r=await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/crawl.yml/dispatches`,{
+        method:"POST",
+        headers:{Authorization:`Bearer ${GH_DISPATCH_TOKEN}`,Accept:"application/vnd.github+json"},
+        body:JSON.stringify({ref:GH_BRANCH})
+      });
+      if(!r.ok) throw new Error("HTTP "+r.status);
+      toast("Crawl started — refreshing in ~40s");
+      setTimeout(loadFeed, 40000);
+      setTimeout(()=>{ btn.disabled=false; ico.classList.remove("spin"); btn.lastChild.textContent=" Fetch now"; }, 41000);
+    }catch(e){
+      toast("Couldn't start crawl — reloading latest instead");
+      await loadFeed(); btn.disabled=false; ico.classList.remove("spin"); btn.lastChild.textContent=" Fetch now";
+    }
+  } else {
+    ico.classList.add("spin");
+    await loadFeed();
+    setTimeout(()=>ico.classList.remove("spin"),500);
+    toast("Loaded latest feed");
+  }
+};
+
+/* ---------- Tabs ---------- */
+document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
+  document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+  t.classList.add("active");
+  ["feed","saved","topics"].forEach(v=>$("#view-"+v).style.display = v===t.dataset.tab?"block":"none");
+});
+
+/* ---------- helpers ---------- */
+function emptyState(ic,h,p){return `<div class="empty"><div class="em-icon">${ic}</div><h3>${h}</h3><p>${p}</p></div>`;}
+function bookmarkSVG(on){return `<svg width="18" height="18" viewBox="0 0 24 24" fill="${on?'currentColor':'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>`;}
+function esc(s){return String(s||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+function escapeAttr(s){return String(s||"").replace(/"/g,"&quot;").replace(/'/g,"&#39;");}
+function cssAttr(s){return String(s).replace(/"/g,'\\"');}
+let toastT;
+function toast(msg){
+  let el=$("#toast");
+  if(!el){el=document.createElement("div");el.id="toast";
+    el.style.cssText="position:fixed;left:50%;bottom:96px;transform:translateX(-50%);background:#10243f;color:#fff;padding:11px 18px;border-radius:999px;font:600 13px Inter;z-index:80;box-shadow:0 8px 24px rgba(16,36,63,.3);opacity:0;transition:.25s";
+    document.body.appendChild(el);}
+  el.textContent=msg; el.style.opacity="1";
+  clearTimeout(toastT); toastT=setTimeout(()=>el.style.opacity="0",2600);
+}
+
+/* ---------- boot ---------- */
+$("#feed-list").innerHTML='<div class="skel"></div><div class="skel"></div><div class="skel"></div>';
+loadFeed();
+loadTopicsFromRepo();
+</script>
+</body>
+</html>
