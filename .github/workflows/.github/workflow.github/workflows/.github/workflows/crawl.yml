@@ -1,0 +1,38 @@
+name: Shaw Feed Crawl
+
+on:
+  schedule:
+    # Times are UTC. IST = UTC + 5:30.
+    - cron: "30 1 * * *"   # 07:00 IST  — morning brief
+    - cron: "30 12 * * *"  # 18:00 IST  — evening brief
+  workflow_dispatch:        # lets the "Fetch now" button (and you) trigger manually
+
+permissions:
+  contents: write           # needed to commit feed.json back to the repo
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run crawler
+        run: node crawl.js
+
+      - name: Commit feed
+        run: |
+          git config user.name  "shaw-feed-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add feed.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "feed: update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
