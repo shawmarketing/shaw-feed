@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T13:55:30.978Z",
-  "count": 505,
+  "generatedAt": "2026-07-19T04:52:22.215Z",
+  "count": 501,
   "topics": [
     "Mystery Shopping",
     "CX & Market Research",
@@ -12,6 +12,402 @@
   ],
   "items": [
     {
+      "title": "PentestCode - New AI Agent That Automates Penetration Testing with 18 Specialized Tools",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWUXJrMkhjT0dwcGVwcVZuU0ZQRHZURUh0Y1VOdkllQnF0R2IySDRNOHFpMFFXZDJNNWd2bXFWZVVIbkIzZ1hTZkliMURPcHNTR1ZPY1NtZThrZWhLWTl4Q9IBZkFVX3lxTFB2cDhXSkxLQzRTenBjWjFPRElDQXlqOU1QU1lGNUR0MXB1ek5WQ095MzM3UEJBVVphdHhpTTU0S0RkdW9XeG5RMUlrMlR6eE5BMXdVWU1IbzVTN2dIYURjNGJVODVRUQ?oc=5",
+      "source": "CyberSecurityNews",
+      "pubDate": "Sun, 19 Jul 2026 04:37:43 GMT",
+      "ts": 1784435863000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
+      "title": "Wangchuk being given required medical intervention: Safdarjung Hospital",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmt3TjQxanRkdWtxT1JrTG9aLXI0Ynd0WmE0ZFlTRnJkY2RvT21TT0QzVTFsOVU0dG84WnlJR1V1VWN0R1VLR2drR0FCR3dTWlRnU2p5TXJlM1VIbHEwMGluRlpLLXJYZUQtNk9vZDRrR3lISzhxOUMtRFZMVHgtVjY4Mzc5RHdkTUZfYmVLckxZS21CTHd5S0cxY3ZObVo1SEdTQ2hybWlRRWhfTGhUZjlRQktWM01CczdQQ2JVXzIxc3RaWEdPSUNKbGlQd0Y20gHWAUFVX3lxTE0yTnYzbkIxX1ZnQnBmeFdpdHQzcVNFcjJlaUZma2JzTkc2Ukd3TzVmcXk5TTE0RVowOW1MZ3ZhclZzVHVlRVNVa3BJVFpBTGpuYjBmUkQ1M0UxWkNIc285WVhFREwwQmVRT3haQTZqZzlXTXhCZEltZGJYSUhWY2V5OEJDVG1xUzA3UE1kUTBDVWNuRV9LbU5lZmVDV2RJWDJ3aEJwbV9TVWRYWk9ScDJ1SXE5VzREVENlc0k3QTE1VUd2eHJBVG9pYUQ4Uzh6c3o3VG5SVFE?oc=5",
+      "source": "Business Standard",
+      "pubDate": "Sun, 19 Jul 2026 04:13:58 GMT",
+      "ts": 1784434438000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "TikTok tests AI tool to detect deepfakes using creators’ likeness",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NdjlfQTFFM0FmWU9CZGtKMUxZZlhpSUFBZU4wWnFscDVRQ1FRTEVkX0JoLW80eWlwTmVxVTBHSEFDWThkVXE2MFln?oc=5",
+      "source": "YugaTech",
+      "pubDate": "Sun, 19 Jul 2026 03:52:45 GMT",
+      "ts": 1784433165000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
+      "title": "India amends tax treaty with Sri Lanka to plug avoidance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNXBZVTlTTzlYY1VoTG44MV9PWER5T19OZjk3RVRSdU5RWnRYeW5Ub2o3bm5jSHVpUUo0NzlSSnM5blc2YVdpSlFyNEV0UEU5ekxoUFRrZVE3Y2JHMWt6WVlVaUotT0x5YVliNXE1NXJFV2NLUXBuRkRZSkxIQVU1LW5PZ2xBYlBSWEpjalVuemdDU1V2NUxnMVpFRWI?oc=5",
+      "source": "The Indian Express",
+      "pubDate": "Sun, 19 Jul 2026 02:57:01 GMT",
+      "ts": 1784429821000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "Union Minister Piyush Goyal addresses India-Estonia Business Forum in Estonia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFdqZTlaODgwSlFIbnNJQnphQUhTQUVCZEhXOF9WbEFrZzBmYjdlaWQwbHVKTmlqSXYyX3Z4Z09ZN1Bpb1NEV2dGN3lrRS1qQnBna0hnVG1uRDBGUW9vNmdINDF4YWY4N1dfLXVVZnQ3YlFYM2Z6S2E1OF92RFhJNm1CLXM0akxYQWNxNXE3eDJJTU1GVUItUUttS1lfazdhUkVMSGtn?oc=5",
+      "source": "News On AIR",
+      "pubDate": "Sun, 19 Jul 2026 02:52:00 GMT",
+      "ts": 1784429520000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "Facebook Marketplace Rolls Out New Meta AI Selling Tools",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnVPdFdMdkJSQU9zNE50OTNjRXVnWFduejlXdjlMZV9xZ0NpYW05SEhnTTNvbVpfeGs5amRpZ1BKYjJCOXpZNTA4ZTNxa2lwdW9jMWdrSmRveVhOWkNEUE0yZGowZTlWMDhVcmxYOWRySDVCU2RodFM2WGQ4anBMV2hDOHBQUVBBMzNySkxQRi1maUdfRGFic0Vtbk53aVE?oc=5",
+      "source": "That Eric Alper",
+      "pubDate": "Sun, 19 Jul 2026 02:20:05 GMT",
+      "ts": 1784427605000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
+      "title": "Ann Marie trusts AI more than her husband. She’s not alone",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2N0TjZRLXpGdThtTmFtb01oOTlZdEZPV0w4Z3B6cERiYVNKMTdNVTlBRVBGT096Vi12S1dNX29JSGQzVEk0b0JLQXpEMUV3TTNpNXBWLVZBWjE2WVlXVXFaeHpNNXYtQi1TZlZPZmVFbnJERWM4LWpEcUdtYkZNYmpKVkRfNk1vcjg3NjV0QlNpRnk4LTFSSWVhZFlqTlU5NVZmeS1FUHhvaW96OVZV?oc=5",
+      "source": "AFR",
+      "pubDate": "Sun, 19 Jul 2026 02:00:00 GMT",
+      "ts": 1784426400000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Three new trends shape global AI development",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF6SHVnR1EyU0VuUVBYZVJxeDIwWm5TcEdQblgwYUtQLTZ2dFNoSlZ0RDY4N0tFb1JSMnpjS3Z5NkhBeEE5MlFmQUdtaHJpV0Z2bFd0a0JoNUdKMktCeTVObmp0S09TY3VGS0JlY19kRUhYZVRLZFFUOGdyYzhYS0JPWDhsUUdqMmZkQzZaNEZNUHZza0dOd0tYZ21vZw?oc=5",
+      "source": "Laodong.vn",
+      "pubDate": "Sun, 19 Jul 2026 01:58:45 GMT",
+      "ts": 1784426325000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFZVdkhTYW9YNjBGWUxxR0ZSem5VbnpyU3p3UG9vTkZpSXF6MUFLNW1jRWdvc2E2ckRyWGZuTERYbTJXbGhLT3dadkZ5OUJuc1oxWVRRUlVFeTM4eDRQTVNDdW4zVHFfWWxnZ1A3UVZ3cVZhTndpRkx4cUdZUjN6T0JieVcwajJyajZ3NjRYRXR0RzJhOUFpNGlUV3pDc0xrOGg3akExc1BTYllDQXBn?oc=5",
+      "source": "Bloomberg.com",
+      "pubDate": "Sun, 19 Jul 2026 00:00:00 GMT",
+      "ts": 1784419200000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "OECD Report: India Remains World’s Fastest-Growing Major Economy",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTENpLWpfUFdmMW4tOGFBQWpxcDAweU5TOFFsaGtfTzRDYVJ3c1ZxVjIzaS1zVXJwWGd2VGhnai1Sa0djbXJTWXFyN0ZnS0d5X2doZEd3T2pMZ29teG1xVjRFR3FyVzBaUVZxeDRJRHpuZWdhSHlXNjhVZzBrUWNsN2hYZ2E0ZjJubE9lS0dKdnliUQ?oc=5",
+      "source": "News On AIR",
+      "pubDate": "Sat, 18 Jul 2026 23:28:56 GMT",
+      "ts": 1784417336000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9%",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "source": "News On AIR",
+      "pubDate": "Sat, 18 Jul 2026 23:23:27 GMT",
+      "ts": 1784417007000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJsaXdFWEo5UmtPT2tCT25pWkplN0NwYy1iWVlnUWlaal8yb0FURUpjeXJoS0JFR2pxT0FpdnZ4UHM5ZE13a05ueE9fMFQ4dUlUUzJGelJBZGRRRDViZFBJS0NvSkg0YlZ2N0pZUmdGMi1fSlliakpBVXlVcFVxdHJJSkpEMEdOdGFNcGdqaUExVEc5OXhkdlVsbEZhNGpaOWczT2tTaVc2T3ktX3A5S2lWYllkX3F6?oc=5",
+      "source": "News On AIR",
+      "pubDate": "Sat, 18 Jul 2026 22:18:20 GMT",
+      "ts": 1784413100000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "AI monetization, model efficiency, and India's infrastructure gap define the industry's mid-2026 moment",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa3E0bVNqQ2FXTFVydjZoQ3NsMUhxLU8wNWJ1MWV2cXNqWHowT29hX3A3SUZZc29vMXJfeGlMTXVFcUhpNGtHQlZ0WkZCSGoxbFAybl8xOFFZeDY5d3VKMHk0TERJa0phSnI4ZHNseU9vN29hWVJabDVvRldwdjNfMTVOUGlkYTNmbVkwQ21GNVdlLWJuRHJweWFBNzJ6NGFsUTl1WmhXeFJGWGd3SmxKQy1McjduTzZydEFwZlh1T3YyNFNFaXJSeVFfc3Vubng0M2RMMTBIWUhNVGFoR1hMRUJYVzNoQXUtRU9qR0djRmFiNWNV?oc=5",
+      "source": "MarketScale",
+      "pubDate": "Sat, 18 Jul 2026 20:03:42 GMT",
+      "ts": 1784405022000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "AI Body Measurement Platforms",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xeFRXeWJoN0FDcHNzTmxDRzYzMUtqUi1HenVqTWFBMWktSDBjU29WeG9WUE5TazZGaUFJS1oxX0JvazZ0MjVvNllmWDlLOEg4SjE4X1cyQmxMMGo50gFiQVVfeXFMUEZEcnBPRU0xT3JfMFdNWTFJbFNLckRrQ3FnaVJUU2JhNUJkRVltNTFfMWRmV25ldzZ3YWFBTTZzNkRPdDlYUm9HRHJsVjA1b0h4a09nTVJvbUl3MGRzSGg1YWc?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 19:04:30 GMT",
+      "ts": 1784401470000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Intel stock trades steady as investors weigh AI chip ramp and latest earnings trends",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORy1tUG9VTDNnRkVoLXhfbEZBTm9aTWFsYllRekthX3cyQjJoc3d5bzRLS1hhWmVVcHBjZ0YzVVY2cVl4YmtpaWx6Sm9fdWJHUUlCcDhzTGVkODJ2ZzQtUlA3WVJRVktDNkl2OGdReldwRUFZMmkzQUN4R1dYMGRtMkdONnFJalpyaWxMT3A3cEc3bVFQTGUwZGdjcUxwaDhMM1RVdWF3QkxZc1lyWEVOalNXZUoxRHN0RktRbkpfOE9pNlpzemc?oc=5",
+      "source": "ad-hoc-news.de",
+      "pubDate": "Sat, 18 Jul 2026 18:41:19 GMT",
+      "ts": 1784400079000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "AI Computer Assistants",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsQUNnYWVwSGpScjlLLVB2eUVUTmQxTGgwUTNuOFN2Nm1iVVotUTdySGQzTjJ4ZUFOenZvbnNLVGttdWpYUmF6aXdhZm9udm1FRG9iZHlB0gFbQVVfeXFMUDZuQkZsakRlWk4wM2FmNHczUkk5UFVkMU5fNUxXSk5JOHdXQ1pBdDlBbEx4SXdfTVBUNUJLNlZ3ZkFsNmNqMmNSX25nTlJaTG9GTjBSd3JtZWRmRQ?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 17:52:17 GMT",
+      "ts": 1784397137000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "AI Chat Export Tools: YourAIScroll Helps Users Save And Manage Conversations Across…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3SEoxYmZSRndaMC1RSDAyZUdYN1lVN0hqWTBJTXlhX01USGpuQmUyLWxnVXVDYlp4UEQ3WVMtQkJUT2FNbXl4WGJwSnhXbW0wOVhZWFZiUjdyanM?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 17:52:17 GMT",
+      "ts": 1784397137000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Piyush Goyal addresses India-Estonia Business Forum, calls for deeper ties",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEZLNDJMQlRXYzZ6NnJPOTFyNy04d1NkZkFIVzBucWQtYXZLTDZmRnNYZUQ4ZE83SllwS1hOV0praWg3TG5UZm9zdWJGRm9Cand3N01lTnhoZkVxakJWQmRhOTNxemJ3SE9wOW5qWmlOWFJUbUpBeXpzV3l0cnhLMkRtbThZd25ET3RySDJBNllzNU5SYmVLcTZza0ptSkVlM3k3eG5oSlhxZmxwaUVLaEVTZlgtOWRhUW1iMy00X0ZlWWpIQjdOMnRabmpXUjFIN1R5UEVIa9IB3AFBVV95cUxQOW05dGRkaG84SEhfcWY4eWIyZGFKS2o4LW5NSWhTd2JRRVJYYmduai0yS0N0Z1YyMUJuMlQwcFRNcUsxeHEzYUdlWmZvOFI0ajNIZkFhLWlPUUFyVi02ZzZpYjlEZkN4UkN6UU9mejRmOHJ2cHNwWjhWUU9zNEwyYVZYQzQwT1VsSzdkdjJRMlhvcWtENG1WSklDT1lWSHB2X1h5OWxuRkFObEQ0U01LelJrQS1sVmFXcVdfVmdERU9pbTdLenkyUWFVcldwcXhSZVRyMTNlOVJwTHRX?oc=5",
+      "source": "Business Standard",
+      "pubDate": "Sat, 18 Jul 2026 17:35:07 GMT",
+      "ts": 1784396107000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "5 Current Retail Trends Shaping Future Shopping",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1raDlhV3F4OE52eXhPdmZmd2hxWk1PV2dzbFkzd1psNlBsRFZ0dXB0T3pkeWhVdEREeEMxa3F2R3Y2Vk9DNkstaTlvT24tdVQ2dGtQcmtWZFpGVFAyWlE?oc=5",
+      "source": "Small Business Trends",
+      "pubDate": "Sat, 18 Jul 2026 17:31:00 GMT",
+      "ts": 1784395860000,
+      "topic": "AI",
+      "query": "AI customer experience retail"
+    },
+    {
+      "title": "Top 15 Companies in Global Pine Pollen Powder Market: Statistics Report Till 2035",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHpBLW9PSWJKcjEzaVVqZGFVTy1NRHBJck9PUUJ0SlQxdTd6anlVdXlkQWRkUU53M1NXclZBeGVzRXQwZ2J3R0N3Y2MzelNJTFdERGFNNmVwcE96a01sdFEyUXlmNVRfZGowQXhtcjdxdUp1cHhpV3RvYUZhWjBQNWNFX2dvbU9XOUxqc0d1VVM0MDB5dkNUMFpVdUtnRXF5TkpnLTZtUnlLa1daeW5KZXFkb3IyUHlzc0NzSg?oc=5",
+      "source": "Spherical Insights",
+      "pubDate": "Sat, 18 Jul 2026 17:30:44 GMT",
+      "ts": 1784395844000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Wangchuk's wife pushes for hospital discharge, demands medical reports",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2Y2MHNFcU54YnpJVndGcktSVDJFblVQREdNVVBUX1JGSU4wTHJaVlZmSk05UFFFcDV4M2kzdFZuVk9xQkRQTFJUTmVFWk5nR0ZqRmcxYk5wdHB3YzFIeXVQelJtRVJhVFpYZXNsczQ2TnpWWmpjMWhFbGxjZWdHaUN5aC1WeU5DdVlLYzd5dHNjaEZybXc3RS1QN2tRbl9GWkZkSUtZd19QRmtMcVZNUWpBWHREeHZvdnQ4bUFzZWMyUmpqNmwtME9FOTRyWFnSAdQBQVVfeXFMTndnenR2TjBOS2oxT1RJQWpXc0pnN3hPTXEtV1VVTnRuRTA0MDBMU0VpZWFucEFaUGxTUGNxck04SUZBc0lVc1FBeEFOWTZQZzJMOGY0RjBpd2dXb2Qyd3I0M2FwX3lRQTBpM0lSSllGc0l6bzkwN0o5MjdZTVVIUmJUVWloTUliQU1wa0psdnE3QTBzQXhCRV9Da0NOSng4LWlQZ2U1NGZOWncyUVoyVEtkeTBGbW1DYU1HR2VTVUVYQm5fRXpSTnl2d1FncVpsWlhmUXA?oc=5",
+      "source": "Business Standard",
+      "pubDate": "Sat, 18 Jul 2026 17:25:08 GMT",
+      "ts": 1784395508000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "AI Creative Analytics Platforms",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wN0licW5kSktpN1g4S1liT210aUZ3d29iN01PYWpra0RhZDdHMUM5RlgwM1MyTVdDblFxWnVqNUxLVjZtbUF2OGxZcUNBa3FTbEV0MdIBWkFVX3lxTE5GaHM5ZHQ5VWM1NUtlVDhtUkFjU1g4cTZlTXg2SGhRcnI5TmNxTXZKOTlBdFVRZllKOXdiVzJxNzZzSWgwd2d4SElkbHZIcWFXSHZMak04NU0tUQ?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 17:07:19 GMT",
+      "ts": 1784394439000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "AI Budgeting Platforms",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdDB3MHBIX29oQ3VmSjNWNGtJeExSdEo2clpyUi1xUnlZcEhCREw1enJxT21hUmhFNGdVaXVlTDN4X0lmUmo0TjhZYUI3MXJFZDIxZlp0bnpTUDDSAWBBVV95cUxNU0ZURlpseTNqX2t0TjdZWVVzNHZDV0l1czZ0N29MeWlBV3h2ZVlQNTU0NG9obEttWTRzazhlU1VOUnBnM2FLdnJBb2Z0SEg5MDZaWmFnc09pdG52RDJEOHI?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 17:07:19 GMT",
+      "ts": 1784394439000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Delivery driver uses female voice to call customer through the intercom, video surpasses 9 million views, goes viral on social media, and even sparks debate about the behavior of those who take too long to pick up their order.",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYjJRR2V4ZmJMZXZaRFZZQ2hoYjU1N0t3Y0RCSlFqZlpTdjlSMm12Y0dfRm9yWmdQOFRWWUxPVVNFM2lmRWFmMGZZZXB0NkVLa3ZMaVBPU2VOTVl6SVQxUXdmeWdVVXhDX1hVTWNocUJycW1RYkhXbWNHa3RyaUxuVk1jRkZkYWVXSlBiNkRXa2FTcDJzVkU5VjJiYTVxclZ6ekFkSDE0YkdESDE1NXRpQ0pIbmxQS3NUSlVGUlk3X3M2RVlBSkd5dUFxdUFKRldEdXZpUGRVV1BoaC1TR3R3cUhSMGJIUFJhYnhrR1N3c2xBYllqRFkxRFVjY2FvUHBPSGEtM0xJbmlBWHIwR3c?oc=5",
+      "source": "CPG Click Oil and Gas",
+      "pubDate": "Sat, 18 Jul 2026 17:01:00 GMT",
+      "ts": 1784394060000,
+      "topic": "CX & Market Research",
+      "query": "voice of customer"
+    },
+    {
+      "title": "AI Gaming Clip Generators",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByblVrVlJEUVFyMDhnX3BHYlJiRTdIUy1ZV1VDY3gxMmZyVlZveTZzVEt1UE9VOVEwQ1BtVXlpRnFfVWJ4blBhbHlqU1pkdDd4Y05fSlpGRdIBXEFVX3lxTE5pVDRNdEFUV0k2RGpkbFJSeDNDMXV4TVJrVVNnOWFsQnhDV19sVDJEUG1EWmJEOEhPVXdENW16WFFoVlV0QW9EYU5aTzVoM05TcEpfa0pYcWVRRXR2?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 16:27:46 GMT",
+      "ts": 1784392066000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Making waves underground: India's first undersea rail tunnel takes shape",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN3VlWHZjaW9VYnM4c2dpMnMzdnNlcHdqMm9qY0dGZmpCMlRQM05WTHRIQWxlOTk2dDN5aE9mY2V4OWxwUEpQU2N0UWhCSFhRLVB4QnBmdEhwZS1iUk1LdVMwWWdST3FkTm9CVklzSlhYal91S0dIaXJNMHZUNkxaT3k5Qmtmc2Z2blYxSGZfUUlPR3E2VzFJZ0pDOWpTRGE1WGZDNDBNNG9fVnFhYnAzQ0dIYWFWeUJiNG9YUlpxbWFpcHZXaXlUaHROZ3FyVnZJQnRJcmd1TjFoOXJDbzFlZGwzdkdwSDV0RmVZQdIB8gFBVV95cUxOVF9VTkJIS2RPcU0tMkVUVDZvdHBreUNud2VHX0RsTUV6QUFPSmRUSXdUMnVaRnNkZWJicDdMcFdEQzh4SmcwM2RxcVZuN0FtaUpyaWhNd1I2b0pSU1dXM055RlVYQmlmb3lwSHBvZjFYQVREakdwX3dsN0wxWDBtZTI2bnEtdWZSaWpQOUM5amk5WlpTUnEyUXAyWWktZ2xRMlBPdmZzMWhPaUVHc1lzVXllRmtMVXRSTDlsMVNvam5LX2FDT1NWRjk2b1czYU41VTl3bDNFZUhEUnl4YW9udWV3OXJhazZDZzhJalVVX0JqQQ?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Jul 2026 15:58:00 GMT",
+      "ts": 1784390280000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "IRDAI launches comic book series to simplify life insurance for consumers",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNHNDS2ViX0owVUEzMjVURW1lSFRiSkZfWEczU2NHTmtwcDgwN3AyTEZNSDlGR01aTVNTUlVZZENCdGpfR0diWjZwT1VwLWZmNHJxbnN4RFdqUzBqZTY1OVQxZ2pEdUduaHZkOUdQUW5rcm13M256SkpTMnFCUGhMMG10cE1JZ0ZvMHhyN3JnUUx5RV9Gc1NvT09WY3NvOThIUV9xVXpqdWhuZ1Ria1hBZ3c4Y191dnJuc2RBdDlnN0hZZDQ4enJPVzNwUGUzVVlfLTVJSlY1TlVHZU9BdEpvWU00RXNzb0hCUklkeVRzMkHSAfYBQVVfeXFMUGFMOUZaSE8wSXdfSGxGeXNsazJ2NzZIdUJzOE96S2ZUN1BLNnpjem1Yb1JyOUVycHZHazdLM21OeVBkcTJJdVZybng2eGlFQXlseHFjUkJlU2hKRktzcmJLaUVIVHIwUzM4UHJCNFZmbkhTVmVidGV6eE43Z3VULVp5VUFlRUxGaHBsSGNCY25aYmN5N2ZJWUtKSE16SlhQbFNVcTR4UzJBSWk2SnJZN2k3NkpOZklIZDV1TGl3SGFkcFJhdk1mLWhaeUxoVVdOQ2lieXJMMFctajdXbUt5LTZ4R190cDE1bW1yTGo0b3Rja09kZW1n?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Jul 2026 15:54:00 GMT",
+      "ts": 1784390040000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "Q1 Results 18th July Highlights: Kotak Mahindra, YES Bank drive Q1 with 23%, 34% profit jump; ICICI up 16%, HDFC and IDBI post 5% growth",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPejN3UzVGS1hTVnBsci1QNFJYNHBZM3J5bUI4YUQwUHVuSDJoLUFsaG9PdkVHMVlneHh5dy0tSHRtbWM0ZU5mWE80bEtvLWQ2Sm9BMjI5UlV4N04teVFwTXlaZDBoLUhOd3doVHNUNGdoNWJjTWtPN2xuS21vMi1xRzV2RHNLMi1Cd2lWbUpGWmlkVEJVZkpZOE5Qd1VjRl9MUTRLSHVtazZzOHF1dnFuRF9aaDJpTGN6c3cxWmh2SnpmdVo1azBHVnhmY051MHY2MkhGYW1KVXlYWUp4REJlb2NPbzVTeWtKTFpjLTg1dDZIX3h0OExvdUMwZVZTNnp1RUpoX1BFSXU2aFhZRGNNTC12ZkVGaWpnT3VzUWhXMk9zN0VVbGdSQVA1Q3l4NUk5NUViMjlSbkNxc2g0UG1QbDAza09QWHV5anfSAdACQVVfeXFMTVdTZ2NRMklwSVlfY0lRWkxYc1BiYW40RUVPOHo1UEhCWmpuSDJ4NWIzTTZNX3pTYmE1ME5FamNzZkEtSjhsRE5zOU5tZWd6RFZaTnZqSHlIcGJmRVJJS2o2UUZZUjlWcGlXZFU3bGFUV3NPSHpkdVBmb09nN1ZEOVlWSktuQmZuUkhnblRJSlVFZ1ZTX3FrUWtmNlBiZ1pCRG92VEV2WHJfaU9fbWZHT0UwZU95Q2MzdUw3WEEzX01TcHF6QzJmQXBEVTdHelhrbV9yY1E0RGxoWDNBNUV3RVdlUUNZT3NoZEwyWTR3MUdzWkM5Rmd3TS0zY2F5b3VCRWEtLW9JTU9xNTJiUTg4c1poaGsxOWh5ejRudjJnay02VWNyczhkSjFRNUswdzZMTUVzd1BXemc3UzZ6MlBJcUNUenZHWjZOOXdfb3F5MUF5?oc=5",
+      "source": "BusinessLine",
+      "pubDate": "Sat, 18 Jul 2026 15:27:07 GMT",
+      "ts": 1784388427000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "AI Website Builder Platforms",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84Sm9aeWVQbkJKZWpzS21QX2RPWnBOd1M0U3g4OVcwaG5IbWdkdTlKMXhhM2dvZlQ5TmFaY3VFaUR1SC1pYjZCbFJOS01WN0syQkZnNzBB0gFbQVVfeXFMTldMTEhfV0hKazJHcE0zaHBDMlZFLVBhZy0tWjZMNGdjMGQtZnh5M0lIaFhITGZWaElFalZwYUdzWlB5NHJPTDJENFVYa1ZxVzRxR2ZaRmZzTnFocw?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 15:10:18 GMT",
+      "ts": 1784387418000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "AI Portfolio Builders",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kcWlrVXMtQmpjQlJJbjN3ZGdRSDJuNW9Tem1YVEVKdmJNemZNV1NMMzY0ZVhLd2w4bmpQREZfdmp4cGxBZ1I4N2xDOExTa050WlHSAVdBVV95cUxQQ29YWDlfUl9aa2lWYkJBdlN3VEhULTduTm5lQ1AxYWxjemtjeUYtaXZ6Qkh5MHdVUFZ2UlRCcGNNcTdOdEwwSzRVQS1rMVJHTTJYVlNvaDA?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 15:10:18 GMT",
+      "ts": 1784387418000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "AI Resume Website Builders",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wS3ktUkZlLWhpZTV0NEdBQUhqVktEcUtoQ0NGU21SeEZRcUJpU0ExVmZ3RXF0OEpvcTBmdFVlMUhaNEgtejBtTnR5bE9yWW9HV01ia2FkbHrSAV5BVV95cUxOek9PRS1sOEJFSkRvdDJCYnJLOVNhUjhRMjVLMEJZWXJENHJTdTI1LWt4c0lyQk13TEF5dU1PdUFvVE9ualphMk1XNE1mVzBJRHpibV9VUldtbzVZMFRB?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Sat, 18 Jul 2026 14:46:13 GMT",
+      "ts": 1784385973000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Indian-origin woman jailed in UK for more than 2 years over Rs 2.8 crore Covid loan fraud",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR2JXbGxiV01GQm5kTFlfeU9HS0dRcEtvMkMtLUtlTWx0V2NyZ1FuRmZfcUJySTNXMklBUjhiZzFZLURtWmRSZ010RmR1VzFhVldjMkRVckZoak14b0E1S1lralVzekFJWE4wczBteXl5bC00MFEtdkFRUk5PSE1famJRcUc4YW9iMUM4NW5HVGF0OEtlTTJJb0tzOVFtUVBOTUl6NXZhN2FxX0xpOUJfVlFFdlk0Q1VwdkhhSVpkUm5xbnE5MDRFTW5LQzloNkdjdG1acTVFWWVRbllsaG55RzMtbnBwRG9qVWlaVGowajN6QdIB9wFBVV95cUxPejlmTVhXVFdXMEtEYm82Rks3NHM0RmxUeTVVM1k2Q09iX3ZMYk1obUdrSE5QVGxHTl9qYUd5Ym45YU01b0hfYldVR1RmMk1hS1pkZ2NUeGl0SkhvNml5X1VHZGVnY0RkdzhZTUE1c0JTUTBSNkFHUy15SWhwUDU1WW9PZHdSbVdwTFB1X2dHX2VCSlhucFBoOV9Gckl1VW83Ul9rcU8tc3hTOFpVWHR1SFU4dlNidFBHNFJpa0xKNl9Jdk1iLVZQQnpYd1pjUFVwbUdWdHlHdnludDcxNzFJbmtZaUNUckVzRmFTeC1zV1Ixd1FfSjB3?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Jul 2026 14:30:00 GMT",
+      "ts": 1784385000000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "Cable Wrap Velcro Reusable Market Growth Accelerates As Industry Expected To Reach $1.94 Billion By 2030",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVl5bmM0SC1EQXVob3JNbklMZFd3OGRwV3hWLTJzdWhCNkU2RHNIaTQ4TnBVdU9DRlF1WlhYT25oN1ExVU1rTmNjSGxYTEZmdXpDdWJJRURCNUswc09wWFYxRlRTVGdNUDI3VzczOElsbURxNG11MFNjMG82N2dZXzlERGJZaWIyczFlMnp6RU90YXQ5ZWloMWNCelYwRVVfbk0wa0RvX2tXZWJmeG5IM0ZXQXZad3BnWFp1dlJqcFUyVGctbS1sYjZBWklBQjlxQl9yQ3A3a0JiTl9LbXJwSTdmQWE?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:11:00 GMT",
+      "ts": 1784383860000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Carburizing Furnace Market Report Highlights Key Segments, Regional Trends And Major Competitors",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZldZVXJITUxiZGlFRkdsUnFPdHVMamtpR2x0OG11Vi1MMXk5MXV0Y01FaWdfQ1B6LUYycTZaWlgtckgwa1lYZGppQkhNOFBwQjJRdWJfNW9FME9PNFB0c1BXM2ZQUkVuSWg4Ni1wWWtZM2JlYWVkcTYycjZHMGgxYXBmX0VuUlNjVG1ZSVhLLWFBRExQOWpUemNxZnA5dTlHQ1N6ODYwWEg5Q2p3RlJwVTJsRmZreWVnNGdpdGJvREFjeXdUS0VDWWctQlRvMWU5NW96dnBuOTlBUQ?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:10:00 GMT",
+      "ts": 1784383800000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Global Cable Access Grommet Cover Market To Expand At 6.1% CAGR During The Forecast Period",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWpsaFZ6Yzh5NnpZYWtZdVo1WHBPYXNpOTZMRi12QnpvR1RERkxDa3Y5MDRzT2pUWHh4UVB2WE5rVnp2aERTV1ctOFdYcUE4azZpNXRvWTJhRnc4QmUzQ1psX2YtelF1cGk1aFBiSjVPbDZIX3V5MnRrQXpidm02TUJ3VmdFdmRBNjRzQWtieUdQWXhhaDZIZ2pqRC0yQmt3YTcyNXMxRXF1ZU1CNlFJNVMtOTd1RWtiOEVldDVGTWMxbTdlVEoyLWw4NEJzd0wwQXc?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:10:00 GMT",
+      "ts": 1784383800000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Brochure Holder Wall Mount Market To Reach $1.52 Billion By 2030 Driven By Expanding Industry Demand",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeVFRNGszbWtHdFJUVU5mVEdmbjVsWXd4THFNZTRUOUV0QmVyX0JtRlMwa29ZM2lqSEZiRERTMHQxb29SNWdielBsUlppVzJDYUQ5ZGxqNmxjNmxmb2JGQlRUUTJFRWU0bnA4Z1FXMFZVbXFPdWRWVjJWSGEwQVVINHNPTEFJWU9lSHdzbnZ6Q0xRemQ0akFJckRDSUtXdm1oYjdySkc2Tm1zS2pCdTdOM1ZnNHZVMy1td2VxT01Xb0lNcGY1OEFNQ1ZyMHk4OTJ5ekN6bTRoblQ4RENyR084?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:09:00 GMT",
+      "ts": 1784383740000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Global Calendering Machine Market Entering High-Growth Phase According Latest Research By The Business Research Company",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdVVPcDBXYUFPT1JRNEdYOUxoX1ZvYTNxLXZzTXVPSFBBaFZxT0RQRUg1ckQ4UFpfVEMzX09lMExackpWa18waHExNHBfT2VrQmtybHJCNC12MUEwbGpaMF9ReWpuTVh2a1lScDc3UEFPc2VHaEc5OEpjQ2h0clU5V1FwNnhEZ2ZLNUVMaU9rUlVaQUNkVkxURTFRNGJfZXkybHBtTEc3YlNJTXhXWkViN1p0U0ZudEp3bUM1UzhpRmJ4SFlXMzl6TmtVMFY1dlBodEgwdGFVakFGaFdYdHRfdTFhZDJlNkRiSDJuVG9vNkFQVmExNE1xMTdR?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:08:00 GMT",
+      "ts": 1784383680000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Choledochoscope Market Forecast To Hit $1.06Billion By 2030 Amid Strong Industry Growth",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRFBTRXI0U19sdDJkcGJVNUVUUGZNUHNwT1duRXc2TktBVkI0YjJSSmo5bXNkZDBSUTU0ZnJCdExkekpDemVHZENRVmo2Q0VNd096WERhV19PMWVueWRJeFhEdkhtdWZTcHMwQThKMXVDYmNTNkxNUmZBVExJRkNWdklWdWhManI2T1VSQlFKbGwwNzB1LUttTDA2Vm40QUFPZFdGb1RvMUNJS2JwQVFFTGhLVW1GRUsycW5lSHREZkp0bnZYMzdtVVBOQTJTZw?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:06:00 GMT",
+      "ts": 1784383560000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Comprehensive Classification File Folder Market Report Covers Forecasts, Innovations And Industry Outlook",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlRZWk94TVVxTjVNWDNmUE5kZG1nTllPaGVOcENlWTJHTnFPOWJMRy1JYmhIaDZIVXZxei1wVmdVVVlrUlA2R1FhTTFIY1I1SmxaVW1haW4yWEEzVTA3d0pEdTFLWlF6ZklOMzhuUlRrWXlEWmt1eFhhbnpDZEdjNGtiRm8zVGRVT3o3bG9KWjJQT1ViTnNEdFlTeEs0ZFVsV283VUg2RzN3SW4xS2std0U4WE54VWU0QVlnVWgwcVF4MXZFREtPMXNHcC1hdUhrY1lNR2VEX25FenpQYU8xUURhazRhdw?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:05:00 GMT",
+      "ts": 1784383500000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Clinical-Grade Wearable For Pharma And Biotech Market Forecast Report Featuring Segment Analysis And Strategic Industry",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDc3N0RrWGowU3VkbnpRdzZDOEttbTNnd0JsM1NUUFNUbG95bzZISFg1RTNwemdnMmZQbkRlTlB2eElUYzQtZWZVcVVKa1o5NGxrUjF4SmRPeXNkeXZ1MkFVWnRCNlI4NjRVelZid3I0MEtDMU9OZklFVTlJR0ViUGNFeWZOeGN6YmEwb091YmN3d2JXSGdYQzJDY2xvc3BOUnkycDRWUlhUcWY4TVdNUXVfdXNrQjQ1SndrS241RkJQdHYzSWxLMkM0eE9TQl9BVm9hXzBiRmFwSjEtWno0bkJXdWN5REZPRUtWZU12b1ljZTNkOE9ybzdR?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Sat, 18 Jul 2026 14:04:00 GMT",
+      "ts": 1784383440000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "PM Modi Attends India-Norway Business and Research Summit in Oslo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzRsWVN4cGZSajRkYllHWTB2bEhTM2p6aTJkaXVEdVpmSnBCbmI1TlNhMno4bXdfU3hJVWxRZkQweUhWeWpRcFgwcG5UclFlemhoNTVRbU9SS2wxUktqUnhENTI4X0trMFRlVHY4dWwyY1pNV3phQUJ1eUJaMUdNNmZnR3gyc0hWOGFnUzg5QXFzS2tRb0E?oc=5",
+      "source": "News On AIR",
+      "pubDate": "Sat, 18 Jul 2026 13:58:25 GMT",
+      "ts": 1784383105000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "India's power sector set for strong FY27 growth on rising demand, capacity additions: Report",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNHh5Rkg0V2RyT3pqQjNtSmpQSFhwRzJDQ2h3OGdCVVdNQkhHWjllZ29MQ3lkZXQzREVwbDRNQ0lwRmpIaDl3a3R3Nkxuby1jTFV1emxyZFhQdlo5Q3ljMlk5NUF0cExfOERUWWlpWXhZdHN2SlYwTk9JYVcwWnFpUU04OWVWTElXMlVmVjdKSWUxVU5OVFlxYjZ6Vm5hRFdBLVU4LUZnRWRVaDM3aEhCZ0xVX0dnM2pSSm01Zk5UWEhhdXJnNkFINzF5Z1dlZk8wd1hRN2tRaGpIVDVfOW5xYXJOZmJMNkY0VUM3M1BWc2VvcnZERlN5Y0tQTFlCbnBpZE1hdlh30gGLAkFVX3lxTE1MVXVDZ0NQZXpTWjNwc1ZHX3pwRWx1MnA0b2hYRkNBbkpjd2FlUHc2UzkxMUFOZUJWbGx0RDhzT0t6UzM3VEpFS1ZubTNnOGQ4YkFUdlVCeDhYcThhOHQ3N2RxMzdNR2JOa0QyTnJ4b01fa0M0YTVXU2xMZlJKMEtiY0dqbTVqcXY4RWtpajJ4LVY3U1Jhb3RkTGg2WmYzaWZhbTRCWmRBR29QdnVOVlZWYktOaTdrcjVJc2ZxWFNIcXByV21vd0hQeTFfbGRYT3htdkxKZjI5Ym53TTJ2U0VXNHQ1Q3c4c2lvVGxPUzFlVmJqSk51YUdsRW00alItZ0dpdUY3bFd5N0c2cw?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Jul 2026 13:51:00 GMT",
+      "ts": 1784382660000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "Toast (TOST) Could Be 11% Undervalued As New Markets And AI Tools Gain Focus",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR0xvb0YxOU8zanVQNUxhRmRZV0FMRFI2a2k0Y2NjcTZpSWxHNkI1bU1DUTU4UE1VZ1VweUJlN1cxMnV6Z2VXaGY2SUNYUTQyWDRDemhpR1kyN0dUT0x5MjA5OG1yV0V0Wi1RcmM0MGpHZmgzeUdqSm1sM3J2N05YWXBtZFpQUWZ5NXhpZ25oQU1sV1U3MTRUY3RhVWp2SjdrX2RZd296RzhveWNSb2xWc0oyZGwzN0NyUGNrRndJM2dLNmg3ZTFsNnB1MWdGaW9TUGfSAdcBQVVfeXFMTkVtMWJmbEVlV3A4RVN3TUxZMm1WejNoZ1puc1h3SElNLTdxZU1aMzJVZzJmZjV1WnVmNG04M194U0o0Wm5JWjZRdjdrczFOZVg4NUs4ell1NzJ1Mk5fT1BBMzZmM1BacGRHandjeHRhcUgySmx5MS10ZlZrLUlUVk5UUzE4T1cwVnQ0dzJ0dlNPcWhXbVlXbnU5QVhjTGd6TGY3elpHbUxzdlgwWXYwSTRkT3FqMjk4ZXBtOXpFOUlKMlRPVi1vM1lueDNhYUI0Z1RxTGx6QXc?oc=5",
+      "source": "simplywall.st",
+      "pubDate": "Sat, 18 Jul 2026 13:07:30 GMT",
+      "ts": 1784380050000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
+      "title": "Alibaba AI stack challenges Nvidia software edge",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XbEk2alVLd0NnZExQRVhyTndDbWZFaE9ZbU9jNVpOZGNvZlg4Z3BwSFNjOXMxby1oUnNOQk5idTVBbGljUlZQdnVZMGRreUVUZ0Z1RUhYamJidDNKNFM0OC1zSF93Vm5pbkUwNQ?oc=5",
+      "source": "Lapaas Voice",
+      "pubDate": "Sat, 18 Jul 2026 12:35:28 GMT",
+      "ts": 1784378128000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
       "title": "Swedish industry leaders optimistic about stronger India-Europe business collaboration after India-EU FTA",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk9rWlQ4NWlEWFR0UkRmWHF1Z1ZZWTlzaE1vS0ZfY2pZU2hkLTFsa3BOZkdCQ0V1SzlOUUtfNlVlR1lhWW94dkU5OGNmWGJkNnNmWGVPMFl1ZVJ5bkFLaHlwVDZ5NmZ3Z09rUGczLWptWmpPNHJsYTdBa09SRTJlTzNRcTk3OVJjZzFwSF9PWWl3bFBPWFZ2Ty1kclRjcXBOVVFMSG1qU1VUdWVK?oc=5",
       "source": "News On AIR",
@@ -21,29 +417,38 @@
       "query": "India business news"
     },
     {
-      "title": "Sonam Wangchuk refuses IV fluids, medication; doctors urge treatment",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYk5HOGVsMnFXb2wwdk1VTkVxY1M3NWxTWDJGWlg3Y2hXUlBUQ0VJMFVlNkdZN2NXMUFuaDdkbDFsM0pMa0hIbFNGWWw2NVJxbDVzR0FIZ3BFaWQwZEtTX3lCV3JKX2JUMjFSMXpLRFRxMXpBRDJ6OHhlOU1SUE1tNFpTbkZ3TmxhM1QwRDdEUTFwSHBWbVZsMGRWWjUzUnkwS1JVc21GS2xrTTFWVVM2TTJXVHUzOFdfSnczbHQzOHFTLUdQeTBaWE1EMNIB0AFBVV95cUxOZmtxcVE3MlVBaDhLNEMyRzhHRmFzU1c5NlJ4dktwTzVNM2tBY0xheDlXTTgyeUdGMzAtUGVpOFcxTjVLd3JlS1ZBUHE0SEtiQ0FRQWxiUVo5N01uZC0zNmc0NURZS2swcXkwb2NheVQzZE9oZWVNOFo1NUM5TjhoMEgwWjVPVFdJSEI5ZzlkWnQwYjlOeHNFVjlzaUhYcjRNRE8wWW5mMHJ2dzl4cHdNS2R6Ukx1QXFvYXVvWDBMTEg2VVlFMmdiUTBXQkJCMTdF?oc=5",
-      "source": "Business Standard",
-      "pubDate": "Sat, 18 Jul 2026 11:44:04 GMT",
-      "ts": 1784375044000,
+      "title": "Shane Gillis breaks 2 Guinness World Records at Lincoln Financial Field show",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGQ3SWh2Q3dJM0xISEJ5V2xqQUM2Z1paZE1mMlM0Y0FSNFZJZnJ5eUh3VERqcXlaYlZNSVB3WVBHUGkxZEJWelQ3TUNST3p4amVweGVmWDdNeXN6cWxxeHNxZ2hqZWhJckh3VlF1bktYZDRjOXM3aWRHTXh1R0hnbmpkZWpVSHRCcFZSdU5JbnFxOWN2V2pKOEFDZXVaYTZSYnc?oc=5",
+      "source": "FOX 29 Philadelphia",
+      "pubDate": "Sat, 18 Jul 2026 12:04:05 GMT",
+      "ts": 1784376245000,
       "topic": "Business News",
-      "query": "India business news"
+      "query": "world business news"
     },
     {
-      "title": "Q1 Results 18th July Live: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, PNB, IDBI Bank, Yes Bank, JK Cement, India Cements to announce Q1 results",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPejN3UzVGS1hTVnBsci1QNFJYNHBZM3J5bUI4YUQwUHVuSDJoLUFsaG9PdkVHMVlneHh5dy0tSHRtbWM0ZU5mWE80bEtvLWQ2Sm9BMjI5UlV4N04teVFwTXlaZDBoLUhOd3doVHNUNGdoNWJjTWtPN2xuS21vMi1xRzV2RHNLMi1Cd2lWbUpGWmlkVEJVZkpZOE5Qd1VjRl9MUTRLSHVtazZzOHF1dnFuRF9aaDJpTGN6c3cxWmh2SnpmdVo1azBHVnhmY051MHY2MkhGYW1KVXlYWUp4REJlb2NPbzVTeWtKTFpjLTg1dDZIX3h0OExvdUMwZVZTNnp1RUpoX1BFSXU2aFhZRGNNTC12ZkVGaWpnT3VzUWhXMk9zN0VVbGdSQVA1Q3l4NUk5NUViMjlSbkNxc2g0UG1QbDAza09QWHV5anfSAdACQVVfeXFMTVdTZ2NRMklwSVlfY0lRWkxYc1BiYW40RUVPOHo1UEhCWmpuSDJ4NWIzTTZNX3pTYmE1ME5FamNzZkEtSjhsRE5zOU5tZWd6RFZaTnZqSHlIcGJmRVJJS2o2UUZZUjlWcGlXZFU3bGFUV3NPSHpkdVBmb09nN1ZEOVlWSktuQmZuUkhnblRJSlVFZ1ZTX3FrUWtmNlBiZ1pCRG92VEV2WHJfaU9fbWZHT0UwZU95Q2MzdUw3WEEzX01TcHF6QzJmQXBEVTdHelhrbV9yY1E0RGxoWDNBNUV3RVdlUUNZT3NoZEwyWTR3MUdzWkM5Rmd3TS0zY2F5b3VCRWEtLW9JTU9xNTJiUTg4c1poaGsxOWh5ejRudjJnay02VWNyczhkSjFRNUswdzZMTUVzd1BXemc3UzZ6MlBJcUNUenZHWjZOOXdfb3F5MUF5?oc=5",
-      "source": "BusinessLine",
-      "pubDate": "Sat, 18 Jul 2026 11:42:03 GMT",
-      "ts": 1784374923000,
-      "topic": "Business News",
-      "query": "India business news"
+      "title": "AI TRENDS | Zignaly Co-Founder Says Layer 1 Blockchains Can Streamline Wealth Management Settlement",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEUzFkRTZKNkhfamIteEY5VzRxa05DM09hRVk3eXV0eFJTdTdWR3JrS05DZzBZY1B6YjFxaEJZU2xncWU3OC1lLWtGZDd2aDVGdWxRRlRNZUhfcGxqWDJUQWphekg?oc=5",
+      "source": "Binance",
+      "pubDate": "Sat, 18 Jul 2026 11:53:48 GMT",
+      "ts": 1784375628000,
+      "topic": "AI",
+      "query": "AI trends"
     },
     {
-      "title": "OECD Report: India Remains World’s Fastest-Growing Major Economy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTENpLWpfUFdmMW4tOGFBQWpxcDAweU5TOFFsaGtfTzRDYVJ3c1ZxVjIzaS1zVXJwWGd2VGhnai1Sa0djbXJTWXFyN0ZnS0d5X2doZEd3T2pMZ29teG1xVjRFR3FyVzBaUVZxeDRJRHpuZWdhSHlXNjhVZzBrUWNsN2hYZ2E0ZjJubE9lS0dKdnliUQ?oc=5",
-      "source": "News On AIR",
-      "pubDate": "Sat, 18 Jul 2026 11:29:07 GMT",
-      "ts": 1784374147000,
+      "title": "Workforce Strategies & AI Trends",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnFSdmYtZjRteVpvR3d6YmdZd0pESVliVVZLd1VCSnplQnZadG93U3BPbzRsN1hJRjQxZUJxWWw1LXhuZG9HQkpReS05MXNBQ2VPZWpYNVMyTVZCaHY5ZC1vTVIyandSZUNTdG5YMThuaDJJbW56MkFOTlZGNmpSVTR3TlEtaUJVdzZUTnln?oc=5",
+      "source": "PW",
+      "pubDate": "Sat, 18 Jul 2026 11:36:44 GMT",
+      "ts": 1784374604000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Kotak Bank Q1FY26 net profit up 27% at Rs 4,123 crore",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM0lXelViUWRwSGpBcTFYYkdOa3pZbnN6dmU4eGZhcU1ISVJOeXZ4MXRMX01sb19nb1BFd3NjU09jeFZzc1J4RmRLMklzWTZMVTdGWGNYRWQ3cGJnalhINngzMkVSZHkzRzhsOWwwdE8wb0pCZUVaaUxxVVBORWU5bkFqRzFWVjA5NVVuYXFHR0x1M3pVMW9JUHhVY2xWLWgzTEZLeE96SHhhRGlYWUI1MFFBR0lSV21YYksxcG9rME5zajEtQ3gyVEVtUjlQT2p2T0JV0gHYAUFVX3lxTFBsajI3QzdVY3E0eWxBMkdHYi1BOTBOMFNIUUlnS0xLVG9PZHU2d3VaS04taVpzUjB2YkpyT0NsR0RSSjZIcl9iZkg5SHJDYUNzMnlGMklmNEs2UHZEakVLdGhDRFVWN3ZpaHJmNmRzbXNfQ29uN0tNOGdvQUVFanlqNy1WYUlTSzZsM1hMcmo3elhEOWx4S1NKanVKWFI5RmJaNkxmV1N4RUtLV1Jsd2ZzenpIWjZpZmlsV3hCQkdkaWFxUnV4V1FQakNlelp1MTJVM2k5cmp0NQ?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Jul 2026 11:33:00 GMT",
+      "ts": 1784374380000,
       "topic": "Business News",
       "query": "India business news"
     },
@@ -57,6 +462,15 @@
       "query": "new AI tools"
     },
     {
+      "title": "IDBI Bank Q1FY27 net profit rises 3.3% to Rs 2007 crore",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWEdOczN3dmx1U3M0YnJmTVhhbDZVMXNZelA1R0ZQQUl4RUF5QWtITWJhSTNMWWstUHhfTTNkNkpPbkZPc2hDTTlCLVlJNjlLOHhWQk91aUxVVEhibERVeFlLRUFBcDR0U1E4d182SzBxYjR1cWF0QjkxZUdUWUY1R0pqMi1DY0toZHM4bE5pVlNFRW5CMDA2cTV3V0dKX1FKRS14VktnZUFYaktWazNyRERXOWtTMjBkeWpia3RGWmlxOFRRdjJkd2lHbTBPUkw4cWlSMG9GUdIB3AFBVV95cUxOblZOVzN5X2N6ZFFnTFVCTmd4YkhXSk1lRWNQZTU2UjRvWjNZMk1RRGRpNVFQX2JoTm9LODFXNDlmTWpjYmtiWjJlUHVwZzdMbUVydFlkUU4tSlRtRmRib0N5OTBZYWE2dHhySFlnSkJpTGVFcW9oVmpLQWNEMWFteXViQWZWVDdwZEdKVEFDdEN0LXZmSjdhZXdqT1hVVDBiU25PQVB1SmtyX0c5NHdzUzlMZVV4S1B4VHk1YWE5NjhkV1E3WjFBUG54TzhMTm5yUWhBQkw4VFUydkhw?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Jul 2026 10:56:00 GMT",
+      "ts": 1784372160000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "source": "News On AIR",
@@ -64,6 +478,24 @@
       "ts": 1784371753000,
       "topic": "Business News",
       "query": "India business news"
+    },
+    {
+      "title": "Home Office Gets an AI Overhaul: Microsoft and Google Roll Out New Tools as Ergonomics Report Highli",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEdMNXpZdXR4MHpKMS1iLWFXbU95LUVDTVFIZEQzM1ZORWZiTDlMNklMc0wwSjJPenFOZjVQN3poOHN1c3R2aFpBMlhGd2VHal96Q1NUOXZ5dF9EdEFjN0dwSnhTTDhmTlNEamdBLXVXUXdvWWYyamN4NXRiTXJSSjdBejVqU3kwNkpQWWJYQ3dpUXd0a1EyM0gzeGhlS2V0ZjktNEp2aFMtakh1b3hXSHNrR2ZZSjlrN2VWVExfZEQ0ZEVrZmpCX0V3?oc=5",
+      "source": "ad-hoc-news.de",
+      "pubDate": "Sat, 18 Jul 2026 10:43:50 GMT",
+      "ts": 1784371430000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
+      "title": "Satiety Meal Cups Market : Global Industry Analysis and Opportunity Assessment, 2036",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SMl9wMHJrUDVFNDBPY2JSR2ZEdDM5UTIzQ212X2xOMWhXVWdoTnZqQkZzd0kyUmJxRld4endTVDhDT21ZdjZ3RG11V2NhTUZNdTE4WUdZTy1iMTB4dVJWSHhiSmlQNUdjQlRHQzluV3RrNXYwVlFwOQ?oc=5",
+      "source": "Future Market Insights",
+      "pubDate": "Sat, 18 Jul 2026 10:14:44 GMT",
+      "ts": 1784369684000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
     },
     {
       "title": "Monsoon ‘low’ weakens, but signals heavy rain for North-West, Central India",
@@ -84,11 +516,11 @@
       "query": "AI trends"
     },
     {
-      "title": "India Cements reports turnaround Q1 performance",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXlEdnRTU2JjZzAzUDRCT2UyU1htMkt6bDVqT25tVC15WFFwMjJ0a0UxSUxhNW9nc0xOZzcybWdvSXA1allzaEhwZkI2VG5YRWE4eTFnc0llaGNjZmoxNnRHTDl5NlZDTjFsUk9kUkZ6ZEhhQy03MDZDXzV1WUJTWFJXNHJheEhwc1V3dERsWDRMdEp3QjlCTmI4eEZURDFjR0d6YXB4bXJ3Y2ZVdEJ5WFBBc1pSYnBLQnI1elJPSENhMHBtaS04OdIBzgFBVV95cUxPWWRweGZsdzBuajQ2Q214NXB0WkJWcEFzS2E1WWlCeXk4emhJTG9DQTBpcG80LU01R3lIWDlVaDJKWmtqenUyWmRSZ19CQnctU0t5VXdZdG50MVBWN1E3dVc4UXpiMFkyYjBiLVQ2ZDZCTmQ3eS1lRWRfbEFENmN6amhOcWF4SHB6VnZFN2NfQmw4U0JRSTBnWFhkZ05OQ1RQdlNRR1dvUmFFcjdIUk1qdXlhVldzbGN4Q0V0WVBZNVFtRVdYTzF2dnl4bFhVUQ?oc=5",
-      "source": "Business Standard",
-      "pubDate": "Sat, 18 Jul 2026 09:20:01 GMT",
-      "ts": 1784366401000,
+      "title": "Nobody wants to wait on hold anymore. But can AI replace customer care?",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeXNWUlpLTE5Ga3pKNDdPbFE3OXVsN1ZBR0t4U2FBUFhrVnV4OFYwSExCXzBDM29scnpCX3RxODE0Q29Xa3J2NGs5TFY0RjR0LXhoeFllRjB6LVc1V2xta081X1VWNDFuTU9nRmFZbG8xSGFVSERUbDV4OHpZWDFrYk5FUE9oZUFKMVNCZ3JHT0N0ZDhmZ3JTbUtSUElrOHhXSE1WdUhrTDk3eUdjU1NydXZtbmMtZFdJdjJUNjFMMUJ4N1FRUmJIZkVkd2NvYVRSaVQ4YlFJZDY3NHVFQl9wMmpma1p3RVdoczBB?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Jul 2026 09:47:00 GMT",
+      "ts": 1784368020000,
       "topic": "Business News",
       "query": "India business news"
     },
@@ -102,13 +534,13 @@
       "query": "AI trends"
     },
     {
-      "title": "Toast (TOST) Could Be 11% Undervalued As New Markets And AI Tools Gain Focus",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR0xvb0YxOU8zanVQNUxhRmRZV0FMRFI2a2k0Y2NjcTZpSWxHNkI1bU1DUTU4UE1VZ1VweUJlN1cxMnV6Z2VXaGY2SUNYUTQyWDRDemhpR1kyN0dUT0x5MjA5OG1yV0V0Wi1RcmM0MGpHZmgzeUdqSm1sM3J2N05YWXBtZFpQUWZ5NXhpZ25oQU1sV1U3MTRUY3RhVWp2SjdrX2RZd296RzhveWNSb2xWc0oyZGwzN0NyUGNrRndJM2dLNmg3ZTFsNnB1MWdGaW9TUGfSAdcBQVVfeXFMTkVtMWJmbEVlV3A4RVN3TUxZMm1WejNoZ1puc1h3SElNLTdxZU1aMzJVZzJmZjV1WnVmNG04M194U0o0Wm5JWjZRdjdrczFOZVg4NUs4ell1NzJ1Mk5fT1BBMzZmM1BacGRHandjeHRhcUgySmx5MS10ZlZrLUlUVk5UUzE4T1cwVnQ0dzJ0dlNPcWhXbVlXbnU5QVhjTGd6TGY3elpHbUxzdlgwWXYwSTRkT3FqMjk4ZXBtOXpFOUlKMlRPVi1vM1lueDNhYUI0Z1RxTGx6QXc?oc=5",
-      "source": "simplywall.st",
-      "pubDate": "Sat, 18 Jul 2026 09:04:56 GMT",
-      "ts": 1784365496000,
+      "title": "Workforce Trends, AI & Career Skills",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM00zcWY4a2R1NlU0eUpjTkRQRjhYVGx3YUU2NEZOSmRUdXBEQmw4T2ljWk96NGQwbXd1MHlXQXctZXo5LVJfcmRNaWlIMTZERVl2VENCOWlzdFg5NDE2V0lsT1B2N3dmX3R4WFZwTVZTUW1Vd2thUGVXVFBYRVJPTVBiYWc?oc=5",
+      "source": "PW",
+      "pubDate": "Sat, 18 Jul 2026 09:06:05 GMT",
+      "ts": 1784365565000,
       "topic": "AI",
-      "query": "new AI tools"
+      "query": "AI trends"
     },
     {
       "title": "WAIC 2026: Six Trends We Observed at the World AI Conference as Industry Shifts From Models to Systems",
@@ -145,15 +577,6 @@
       "ts": 1784360886000,
       "topic": "Business News",
       "query": "world business news"
-    },
-    {
-      "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9%",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-      "source": "News On AIR",
-      "pubDate": "Sat, 18 Jul 2026 07:44:18 GMT",
-      "ts": 1784360658000,
-      "topic": "Business News",
-      "query": "India business news"
     },
     {
       "title": "Top 5 Features Worth Trying Out on Apple's iOS 27 Public Beta: Siri AI, New Photo Editing Tools and More",
@@ -201,6 +624,15 @@
       "query": "India business news"
     },
     {
+      "title": "Anand Mahindra dismisses concerns on Artificial Intelligence, views it as growth catalyst",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRHVUckFQTXJMOVc3MXc2MUVaaDhmazdKWDdiUEZWWWVFN2s4dFJjSzNpVGJmb2tEM0lOdEgteHE1RGtMRXFwVnhoQU9vcTBaWFpJdFF2emFMMGpHb0czcWdLTlFfVE5vbGJURWV5V3pXYXo1LW5JeHVRb0lwTzZCeVZVQ2stWk9CWUl3R2lyaUlKUWh0anlGMVk4bGY0THBNWlI4VnplN09KMHAyUGRjbUlnTmppQU8xZFZVT205Q01wVGd4bi1abWZrWGhOQU9PS2k2UDNkb3J3SmhOeEhsaWxxQzVLZEHSAewBQVVfeXFMTjNfQzc4a0JXNHFKWUNhVGhNa2ZiUWk3cmp2WGxGUzlKNG1yNzlOTWNsaVpEaC1TS3BHYVFDVzRoTmI5QlRFTHFvdFFIUkgxQ2hkMExqSHhHLUx6WUdzOGtUTzdqM3JQX2ktNTRWaFVDc3Rnc3ZEc2tEeTdOUVZBMUNOU01HZ1hmb3FnTjk3MmJ0N0NsSGpJdzhhQldYRUpLY0NNekloMVRqY3VqNHhJWjlBTnh4OTdTYXNjYkQxcmIyczVSakE1ZzEzbmNCZ1ZtOTNfMTRmeFp1SklySUQ2ZXBiREYySXFvZjhvRXc?oc=5",
+      "source": "Mid-day",
+      "pubDate": "Sat, 18 Jul 2026 05:40:00 GMT",
+      "ts": 1784353200000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
       "title": "Preparing India’s sugar mills for the upcoming crushing season",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeXFtX3dKSUcwU2Y4SVNsUmpVMDZjLS1hcmFrRGU1SkY3ekE3bHpJdmFFMjNrYXRQczhwM3RRYnh5SFRacG9aN2p2SEFwQlZYbFZNbU10cDZVd2YyTW9KZGVucWg2OUF1dTFabTJSRENaS1FTTGxXWDJuT09kT2VlWWhTVWxTVElkaG1TSmxCN3NiRmxKOHlqelNvUzd0dDNCZFRRdVRXdl9MOUJtRFp1OGJKbWZiRFdIZHVfWTg5Z3BRUHQxMWtLZzRkNnVsd2pfZUFhU2ZSa9IB3gFBVV95cUxNNjQ1eXUxWDN6NWI4SUtiZXY1VndncURFZ2tSVTdKZXUzVVRNWXl5RG5lWFFfeS12a09NT1ktb21qTVhTVjNESkpZbC1jYWgxYmtuZkpLbTlkRml6Z0dXT1hCYVo5X1dNeTRoUVkxZDlpR21XZ3JWVEc3T3Z2QVduYUJoczRGNTdPbGpHZVlXTVBQaTJsSUV0NjRNc1otQnp3cEpyVGNSOHZKMzVXMTFzQXpmR0RoYVBWQVZSbllwRE5hNmV3RGhCOFExS181V01GbnlqajRlU3V0aDZ5WUE?oc=5",
       "source": "BusinessLine",
@@ -237,6 +669,15 @@
       "query": "AI trends"
     },
     {
+      "title": "Codex plugin marketplace adds new tools for developers",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1cDFjdnpmYkxYUlI0LWJmbzA5NTJRc1cyeFlORGVkd0taaFk2ZGNTT2RTVWNBN093Mmt3SkFNNzZ5cm56YnNqUU1mSWl5TmVfel9KaTl2dTFrRFZJbkU0?oc=5",
+      "source": "Lapaas Voice",
+      "pubDate": "Sat, 18 Jul 2026 04:48:46 GMT",
+      "ts": 1784350126000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
       "title": "Solar agriculture: The missing piece in India’s sustainability journey",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMFNrRTFQbkV1cERMUVhfT0tPVTcwZ0lfeTJsWWJiQm1CM01KM1NUN1k4ZURuQXhnOWd2bjZBdVhnNzBMdUdMLXVuUW5jaXNTNFpjc0wwVm9Xa0ZoTktFY2NwclZoR3NudDVUdmxaRzFJSUNkUXZqelJKVGV1UFVMNUxMdy1JMlozd19xcVQ2R05iX1poWEtsZ3pDbW02WFFiZXNpUVlwSUFqOEV4OExSTHJtMHppX18xWVQzRmh1NXlJM1J1YnQ0LWcwZ0Z0YVNBVWpBTkpRcG9FeGdCVTZCYdIB5wFBVV95cUxOOGhzcDhmYll3YjlHaHg2c1ZuelhqX01HWjNIR2xtVDBsM1pQSDFXckRiWjRVazVERWdlWDhhOEprQmhBNm9jbEREaTZvZUpUT2RfMno0YU52bTY2d3FlZnMzSW9UaHFkWldicjV0MW1JUWJFR2VPZVhpX0F2UUJPRXI3akRlR2Zfa3B4MTFkb0NqNDlwNGpFQ0VScGRsbDVNNUd0M3Y0enMzekFYaEVaN0ZhYlN5ZXhwV3JqaWlPRXJfM01rLWstczhmLTNMNmFFdGVHcGFiYTR2QWdjdVVPdkR3QXF5RHM?oc=5",
       "source": "BusinessLine",
@@ -253,15 +694,6 @@
       "ts": 1784345436000,
       "topic": "Business News",
       "query": "India business news"
-    },
-    {
-      "title": "Boston businesses hope energy from World Cup crowds can have lasting impact on nightlife",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUJ5czFpV3JNTFdoQjZWbTUxUF9rSVVMYlNsOXEtOXBrZlBTU0YydnBreWhSVkhXZzZfZDYtalJIbUdoM1BjYVhwMzFlV2tJNFRXUVMxQUVOR24xWG02U2JIZEtRYVlkQlIwNTNTVkxkVjVpdmc5Y2t4bFV2WnJ1UWl3?oc=5",
-      "source": "CBS News",
-      "pubDate": "Sat, 18 Jul 2026 03:25:01 GMT",
-      "ts": 1784345101000,
-      "topic": "Business News",
-      "query": "world business news"
     },
     {
       "title": "India may get Rs 10 and 20 plastic currency notes from next year. Here's why",
@@ -282,15 +714,6 @@
       "query": "AI trends"
     },
     {
-      "title": "CJP's Dipke begins indefinite hunger strike after Wangchuk hospitalised",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUlobmVNTmdvb204dTByTEJYOUFEZTRraGxKekdaR3ozZ0JUYk1lM2ZiZ0JIUUdzb2Q5ZUp5ZWxaVWNvT1h2cWthQVJQaUtJN2xQV1BkSTZITFF2clJrb21hczBnNUViS19qV3NjTGdIaUs2TUpOTTFjdW9TcXVmQlhVTGl3eDhFbmI2bVBNblEybW9xSER0NlpWRXRHaUlCRDl3X3ctOHFFbERZZjJidHJXVVZsazZVQWZWeDIyOHBRLUtfT1g3M0I3WWMxMHZNVEHSAdcBQVVfeXFMTVozS3h3cXhHYXlTUkxhbGt5cHlfVzBWXy00TDFyZm02M2VnNTdMNExBOUtZVlFtMWIxaWhEVU0tQ3VVUWJ6cy1rTUcyY1pfc3BySGc2SjJNMUxobGJCU3c1Y0IwTURQeTNMd0ozdURtNTAzSExmN3RvQ3BUNjZ0OHlEUWhsUzlxMkFoMjhXMW1Uc19aVy1xQnNvUWo4WkkyMDhudTh3aUV6cUZjT1BVaFRseFhRS0pwUmxDbExmQm9RUGl6aXB2VEJBekFCRXpuNlYtbllRZDA?oc=5",
-      "source": "Business Standard",
-      "pubDate": "Sat, 18 Jul 2026 02:53:00 GMT",
-      "ts": 1784343180000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
       "title": "Insert token: how China’s surging AI use is turning compute into currency",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkRMOTFUSl9QUm9QN2MydmJBNTBsV2psUmdxeUNsazc2UXU0WGJrckU2TTVmQUZzRzlFSkZISmdKWXRWVVJOZE54N2hsRkkxQy1abkJjWEJGMnFuNGZpSDdTLTZQa05hblZmd3pJQnJnYUl3TUc2bzBiRk42dlJ0ZG9zWFhUaGNlR2gwVkVWbW9ld251d3MtdTFmWTJmdzlxX01BdkVEUkpTM04tLUFGRUxZdHF0Z9IBtgFBVV95cUxPR0RaOVZuZ0cwb3ZxMVNDVVpBWXY0UHJUNWgtUllyeGNWTUJCUDQzbi1uUDZXYWZad21TUTZ0dk1aclZPUF9OWktQYW1RWFdWRmtscEJIakdPZ2t5TVd4ZlJVX2N6VVJkWTEyRjk3THZiNjAzdXdVSFdpZGprMUw2UW9sZWxsc1V5WDRKV0J3N0dfQmJfV0Y0N00yOEdsdkpxb1VYS1NLbTA5MnhFSGdTWUxTckdPdw?oc=5",
       "source": "South China Morning Post",
@@ -300,11 +723,11 @@
       "query": "AI trends"
     },
     {
-      "title": "AI won't diminish IT services, Tech Mahindra provides the enabling layer: Anand Mahindra",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb01uZUZia09wWWtFYTctbERtTTVoVFhINjdDZ1NtNGNIeW1sN1hxbkFvaDlRMWdQelJwSzVYWFY2WVpUWEU1aWtqMm9JTGZpQml2ZjBtMkNHODFNbW44VERwRkFnWWpUbXBmRUtadVV2dFVwUkcxNk1PR0ZpR0JPcXBmRmlJN1B3RHcxLVBwRTBzZUY2elUwclRXeXhkOURmeklUMDQ5UjZvQlZyM1VoRkx5TzRBYlhLQXExblBKcHdyRG96TFdJSWZsN04xSjVibnZuSmhiazNjYlZ4Z0lPaDNPX0pKYmNGRmJKc3I1T2xWLW9BNjBzYVdn0gH_AUFVX3lxTE5wV1prS2tsOG13XzJUZ0dIS0k1TFpUSmVvekQzMFRxbmZyQnVPV0NGaTZ5dW9BSVZqbTBRYThBMVJzNThMT0ZpeDdiR1duNXJxVXlGM3hKdThUN25HdFRLS1lMNndTRk1vSjhIZ0lOeFVHamVfMGQ2bmlpMTlXTzdVSVV3SlVsQ3VYWWpfRjctTlhrNUJQX0RiWW8wMnZEd3RsUk1uTFpTeWpLQjVmam9DLXZVdG80SHBDOGtMNHczQmg4Zlo5dmk1aFpkWDZaNFE5UlFVT1d6N1c3UmNUby16QWxkeWRhQ29sanJXZG5PLXBtM1BueXN6Z2pUOW5lcw?oc=5",
-      "source": "Moneycontrol.com",
-      "pubDate": "Sat, 18 Jul 2026 01:02:23 GMT",
-      "ts": 1784336543000,
+      "title": "India responds to US 100% tariff bill after 60 senators back move targeting Russian oil purchases",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZEY1eml2d0ZtRmdtNUFOa3Zhd0FsbmhxZUlKaV85VUphNWhyUGNNSnlJazNMVkEwZHdfT1ZuQnpIS2NkMEEwalhha1NKc3RhVF9YQnV1alBXeE5fdGRkdk5ONHhuSVR2aGRIZ2h1bW1OdFhRNUtIUW1hX0ZFZG0xbHFPcDh6eFItMEs1MldqUXpYVEV0cHBPTzlJMGl6R3dVNDU0ZW84R0VicHdwN2VyZWVrTFNLaDhYY3VrYlN1V2ZFcERUNW1HdU5EQVdaMHp6WkgtTE5CWFZFZUdrVGRUNThrZ0lKNlnSAe4BQVVfeXFMTWFpMldBTWdzX1dVVUozQ2pzbFdtU0U2TDZ4QnJOUk5HaVV3cE9fR3BPVUhhUzhLbkEwRVctbXMzdDEzNTctX2Y4bVBIVzQtOThyS0JHenZpTHdEZkdQU0tGUk9LUDlGbXVvcXRzYm4yODhnbEJtYzRvOVY2d2U5bVZidGR6em5vNktHdU9MYnh0M2daWWpPR2RoOWp3S0lDeE45VUJqXzdOSGVDZzdfVnZTbE5OTkoxdzlhZE5PZC1YSmI4SzM2dVlORGM2TkItVS1uNGY1TFl5ckg3ekxoY3JfcmRlUFBwSEJjOTl6dw?oc=5",
+      "source": "financialexpress.com",
+      "pubDate": "Sat, 18 Jul 2026 01:07:36 GMT",
+      "ts": 1784336856000,
       "topic": "Business News",
       "query": "India business news"
     },
@@ -318,15 +741,6 @@
       "query": "India business news"
     },
     {
-      "title": "AI Chat Browser Extensions",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mckFQN2w5OS11ejJSb3VuREFjZWFHMGlFUGZNWVFVdjg0U0sweFJ2VnZJTjlLZmI1cFRPZktzQ3RCRkZzcFRaZGRRcldaZmk2dzR5a01tYXhzMEJwb1HSAWNBVV95cUxNYVNCdWVVbXFKUzRUOGQ2Zmp0Q1FpWmFlX3JaMDItS0lYdGVmWUtJMTRBRHZZT0RJdnM1a2lkQ055Yks0TWFvMm1KbWo2T0ZVRFhQVFZVR2dwaHhlamVYUkVrWnc?oc=5",
-      "source": "Trend Hunter",
-      "pubDate": "Sat, 18 Jul 2026 00:30:14 GMT",
-      "ts": 1784334614000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
       "title": "AI Voice Agent Platforms",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XSjEtX3c2MjFiYmdfTFRkTVplbno5Rl9vUnVydFFpSDNCUlBTOTl2Uk5DS25udVJqb04xRGtOZkhYR3I2NWhXdTc3alFHaWxObkNfRWVXTdIBXEFVX3lxTE55S0FCSmJSTURUNVdhckprN3NsNFJrSDhkV0NoYkx0TU5mQkFibkRvV3BXY0NDVWV3cEtIV09pV1RGZ24xZWtUWnZjR2lUSV82VE1PRTE2R2kwMml4?oc=5",
       "source": "Trend Hunter",
@@ -336,22 +750,13 @@
       "query": "AI trends"
     },
     {
-      "title": "PM Modi Attends India-Norway Business and Research Summit in Oslo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzRsWVN4cGZSajRkYllHWTB2bEhTM2p6aTJkaXVEdVpmSnBCbmI1TlNhMno4bXdfU3hJVWxRZkQweUhWeWpRcFgwcG5UclFlemhoNTVRbU9SS2wxUktqUnhENTI4X0trMFRlVHY4dWwyY1pNV3phQUJ1eUJaMUdNNmZnR3gyc0hWOGFnUzg5QXFzS2tRb0E?oc=5",
-      "source": "News On AIR",
-      "pubDate": "Fri, 17 Jul 2026 23:13:07 GMT",
-      "ts": 1784329987000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
-      "title": "NITI index: Gujarat, Maharashtra lead in wooing investors",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeDltMDZKYzhiR3NtNENYdmV1MUhwQ3ZsSi0tdVc2TEJFSGRITTdkV25xTW5jTUZjY0hMSTZCSENQT3UwN1FaM19GWDdGX0NlQnYtMG42X1NkQm9hZENDNWU1MjlEVEpXYjNLanNzQ195MXdocVcyTTJFMi1XT1ZNRkJESGcxTUhLamc1S0NQRUU0QmtZZmkxYzhoOFR5SXg2QXY4aWRkNGo4a0xiZ1RGV3pBekltVktyOGlmMHdqWkpOSzgtaHNqMThjN2VycldVb1NXS0NQR3bSAd4BQVVfeXFMUENPcGJZVHlyNm5FRFNDeWdTMXY1WTRpdmo0RjZ3Z0xraXZkamdzWTRnOXU4U2s5emlLaGs3WFpMdHg5YUZsYkdUdjRUWVdHSkJ5TG5BLUlTeXlCTVV4U2tFNzEwMWRzR1BOTG5fRnoyMTdkQ1B4bl9DRHhtSTdNTXlzdUJKYVdQclhqZEdLNFpoZGhOOXRaWmJndGtlVEZMdnd4clppUkhSdndUc3QyNDN6RDM1QnJKXzFWZFZxQ1VQc1VKemlMdkxTSUZ5enBpa3A1bkdwV0pSR0VGSEpB?oc=5",
-      "source": "The Times of India",
-      "pubDate": "Fri, 17 Jul 2026 22:16:00 GMT",
-      "ts": 1784326560000,
-      "topic": "Business News",
-      "query": "India business news"
+      "title": "Tuberculosis drug discovery gets smarter with AI",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQnl3S0FweUMwOWd1YWZrQnVyb1JNM29MNVhzMmJrMXBWM3FnVjZxSjRCM3BqSExfWFBxUzZuYlFCZkRBNlRxZDBmcHlsS290S0prNl9ndEkzUUQtbFlZcElQUkFNcTY4RWtsalNRMlc2b0dwRjJkQlliZnN5Zw?oc=5",
+      "source": "Phys.org",
+      "pubDate": "Fri, 17 Jul 2026 21:40:03 GMT",
+      "ts": 1784324403000,
+      "topic": "AI",
+      "query": "new AI tools"
     },
     {
       "title": "Skyroot's Vikram-1, India's first private orbital rocket to be launched today: Everything you need to know",
@@ -363,29 +768,11 @@
       "query": "India business news"
     },
     {
-      "title": "Kansas City business owner wins Verizon’s live pitch competition timed to World Cup",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUMDZWRjYxclZKZ2FWVndYdGRPNjBsV05ienY3ZzNWU0RjbGQ3bWk0UnliOU42VnQzb2hySVkwbmhzSVJPeFd2cUNtbF92b0hnWTlqR0dxcVQzTjJnbFNsNXNvUXQ4S3BYR1J3YUxXTVNLWXpabHJORWJ3?oc=5",
-      "source": "Startland News",
-      "pubDate": "Fri, 17 Jul 2026 21:22:17 GMT",
-      "ts": 1784323337000,
-      "topic": "Business News",
-      "query": "world business news"
-    },
-    {
       "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcURYeU00Nld0c0gwY0FOR25QSzkzRTZiMnJPR2Z1NnVxeUhrWkJZSFJIb2xhdGJmLURmeURFb3dVTE5ld1JaWjVQR2dDTC1rYm5RQnZFTnR6d3hCS2RSQ2MxQy14SkZoRmFXT1paejgxSDVObDNuWUlMcnl4LWJWa3ROdUdlcTJKc05jbWY0RWFIdFJRTjduSU8taFVWRG14N25VRl83SXhUU2RlZHN4S3pJTldRd1E4VHYzSVRQc0M2RnFJUTRKelhFUVJ6UQ?oc=5",
       "source": "VentureBeat",
       "pubDate": "Fri, 17 Jul 2026 20:51:30 GMT",
       "ts": 1784321490000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
-      "title": "Sierra Leone Tourism Enters Digital Era as New AI Platform Enhances Destination Promotion and Traveller Experiences",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yTWdsTFZpaDJrUTRuUGl2SFRIekhlTWs1dXAyVXM4NVk3d1pVNklUdGNRZG1tSTFtQlA4OG5SaEZCZERnZ1RZRlNlT3dpcFhGbVlLTFFmNVlRTGF0bFp5Z3BDbjZyVGx4WnVjR1Z3?oc=5",
-      "source": "Travel And Tour World",
-      "pubDate": "Fri, 17 Jul 2026 19:49:42 GMT",
-      "ts": 1784317782000,
       "topic": "AI",
       "query": "new AI tools"
     },
@@ -399,15 +786,6 @@
       "query": "new brand launch UAE"
     },
     {
-      "title": "Best AI for Adult Content in 2026: NSFW Generators and the Models Behind Them",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHpOQmdSeHlPYXZiQW1yekhKeXVaT3JIYWRubGJObGlBd2FSMWhWQkpPeGFERGg1T1htME14UEgwRVBibjZBOHFHd19HR1QwbFlIVGpadWxVTFVIOFZ5X3BJN0FabHpvZlZueWFsaWY0ZTFCQzJJZnVfWGoxUmZNWmx3cjlzMVVkblpNRENoWGFBU2g3OXIyeXhOQlE4eUt5clg3MHpZMWdKOWFfU2d4aVhxVXl2aE1JQ1ZmSVE4VlNfZw?oc=5",
-      "source": "StartupHub.ai",
-      "pubDate": "Fri, 17 Jul 2026 18:29:52 GMT",
-      "ts": 1784312992000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
       "title": "Celestyal completes fleetwide rollout of in-cabin guest experience tablets",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDNjcE10VzlfUWZSNUw0TFV6MXk0TXpvZHVxM3JVSXRHUkt1c2E5aHpZNUdMSlBVSEJxY3FkRWtnWXkxd2tpclFYV0ZjcWZWQmdITzlqY25uc3l1aDhPU3FhaVVtNmdmenpWYmJPZ2tpbU9EZTVEN2w2SGtmbFNGckYyb2hkVWdWNkoyZk9tdldLNFI3ZFFQc0hCZXNoRVRxRUxzV0k1SDNlZnVWVkZzbA?oc=5",
       "source": "CruiseMapper",
@@ -415,15 +793,6 @@
       "ts": 1784312880000,
       "topic": "CX & Market Research",
       "query": "customer experience technology"
-    },
-    {
-      "title": "Latest Letter Tray Stackable Metal Market Research By The Business Research Company, Highlights Future Trends, Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcGtnSTltVnBoOGlpWXItanhSdXZOUjhheE10QUVsSUxMNnFZYjlRWjdwRzcwQU00WWxFaWw5cjFBT2l6Z0ljVGlMMUVLREdOT2pNYUxLcEtWbERUU201YnBNbGdiY2ZKTFljeV9BUmV6dVFFOTh4WWdINThUX1lxSTkxWlBic1Rhb3R1MWtEMFBCaEU5SW9FLU85TVVsZXJiWFFmNzR0X1hmUEt1VDdkYm80ZGZaZ1BUUXdDclVrTi1uZy1Gbkg5U29XRGhVOTZRNHJFLTgwdU1QMEdpX0ZzOWI1STJYZHR0TXcwY0hYRnZ1Wjg?oc=5",
-      "source": "EIN News",
-      "pubDate": "Fri, 17 Jul 2026 18:15:28 GMT",
-      "ts": 1784312128000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
     },
     {
       "title": "Intelligent Blood Collection Management Systems Market Forecast To Hit $3.92Billion By 2030 Amid Strong Industry Growth",
@@ -435,53 +804,8 @@
       "query": "market research industry"
     },
     {
-      "title": "Joint All-Domain Command And Control (JADC2) Systems Market Report Covers Forecasts, Innovations And Industry Outlook",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaDV4MzFEVHg4dmdhZnZlVWk1bkdpUzZlTDFpQVVid3NzaE50T00tdVlqNHZEQ2puVnBKNkRSWXdIRU9MVEdfTWRnVTRGWVZyQVdJbFdmbHY0S2FkTmI0RFNVZUctX1JkS3BoQnRCWEZKNFRhbGVidF9aRmxBLVZJUU9wVW1YcWRDSWI1SHRYWTExT1pzSTFXVnRpblZtaHBKWEkwOGZDWVVJT1VLYk0tcXFlZzUtOHMtTlQtYkhMeko3U01CZ29MM2xZUmVhMGNtbnRiLTVGU1BPNGFSTlluZHpBbGw4QTJGOGIxWXRsYVhvcUk?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 18:12:00 GMT",
-      "ts": 1784311920000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Flight Navigation System Market Entering High-Growth Phase According To Latest Research By The Business Research Company",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeEFvUUwzQXdWYUVWVDNKSHhZRWZpdHJHeDJMYkdZN0xndzRwYnB6dFFDUGMzZzRXTGpEdVRjekJHTHlNckNnUjFCdmNPeGFzV19TRWFjSG9rQ2VYZlhJbGd6NG1NZnVVcjlFOUNXd0Rqa1A5VWRJNGt2b213dDRmVzlLb2RJNFpqNlM4NmMzS2lGd3ROTzVjakp1QlNNYktnNWJKcXdfc05ROV9vMktnMzBqNUhsaTBqMTFLbWNwVU9OaTc0Y1Jxbi05cW96YUZrZzhfdzBVbndEY2tBUnVxQk45cXhYbHFKb0J3OGVvb1BtNHEwaFkzdF9ITQ?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 18:10:00 GMT",
-      "ts": 1784311800000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
       "title": "Digital Pathology Slide Scanner Market Industry Outlook Strengthens Amid Rising Global Demand",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRnVoQ1g0dUtOQUVNS3VDbUdXMk9feWNKSWY0OFhjQTVPbUdSaS1XMlM0Sm1kSmJXQkZ2bTQ2MGVNdzhjeW5TMFd1YXNKZHZHamRYWXNrakFpLVB3SlNTWDZfR1g3dC1SVExDcjRnbnpVYWFrUUswS015OTZnVmxoUnhZQXVRZV9nNTB2VWp1MFBVUTc0MnJqSjgwMTJCdGkzeEhIWV9RSF9uejRLRDNCQTkzTGhoc0VycUhQbHhTU3dOUHdUVW95Smo1LTNBLXNvV29yOWs4bw?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 18:10:00 GMT",
-      "ts": 1784311800000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Global Ice Maker Market To Expand At 6.8% CAGR During The Forecast Period",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEV3TXBJQzRSOXdZdnZsVDFZcDJMcTZyU3Q5UG40XzdWTWIyenJ0NHRJb3QtWXdSOXAtUEt3WTBFMk8tYjJNcUVZZkpHYnFiVnNSMjI3OHJvWUowMVd6Nlp5TkU0TzB2LTV1d2wyS2FQS1JUMkhRdlVncmhSbHdQTmhqSzFYRC0wQWdQbk41QmdQTm9CNnBGM3V1TzYwMWdLN013YzZmTV9CRlljMjNkOUdCS2JHbW9rQm5j?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 18:10:00 GMT",
-      "ts": 1784311800000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Global Lightweight Pulleys Market To Expand At 8.2% CAGR During The Forecast Period",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDJzZ2ZDUkpFVGx3MUpHcW1rS3gwMVRKcFJ5TVBRQ2Y1a1lVZ2dkUG13UnNxTnNPaTZWTGx5Y0FiaHhMVE9jM1c4VEVMRFQ5eC1KWVZIcmZ3Q1VrVDdodmRsZzVFWGI2cUFNMjdxTFE5dVZhZFowZGEwUTZVbUt2RWtMazA1RXNYYm5weDFBVDkwbzlNYkRSZ3BRb2pQNkkxbHRGWlk2S1FXSXZtZTd6LVVLLXFYc09JeWVVY1RZUEFDYlF6b0l5Ug?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 18:10:00 GMT",
-      "ts": 1784311800000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Inkjet Business Card Sheet Market Industry Outlook Strengthens Amid Rising Global Demand",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVG9icDJzYjNtUlJxaDVSSTZEd1Q0eEN4azdYRHh2Q3hJOWdBQXl4aERTeUtpNXVfbHBrNE02ZzkzUGFUcXdsN2RpWFRKY1dPZ2VMaVRFbzgwSFZOa2pjbHdpcTRnX2ZWc0FLa1pJLVlZYUlnQy1xZmIzRWtOMU9SN0VFdC0wNWdoUFctVmZXM05MZllJYVozaU9aUjV1c0ZpbmhLRTFmdWdLUUEwNkhpUzRCcElCeHBEQ09NcHdCaThhMkZvSm1xcDBSREg0VUhp?oc=5",
       "source": "EIN Presswire",
       "pubDate": "Fri, 17 Jul 2026 18:10:00 GMT",
       "ts": 1784311800000,
@@ -507,17 +831,17 @@
       "query": "market research industry"
     },
     {
-      "title": "AI Bookkeeping Platforms",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wSzJSR0djWEZqS0xkUjk3Sl9uVVRBZWpMTWFKUmlHRzhaenozM243T2RxYmJWRnRPbEpuV3lVX3dxU05PU28wY3BNV3pXaTRwb1czNWdzMXXSAV5BVV95cUxQQWFNMDc5S1Ffa3pZUkxsQWZjZWFlbWM0RWVWSDhxaTZqVmdlWUwyWmVNbUF2WExObk1DSmRjYTJvMkxUWHFtTmJrQjFNd295b094T08ybmxxcGg2NFBR?oc=5",
-      "source": "Trend Hunter",
-      "pubDate": "Fri, 17 Jul 2026 17:59:28 GMT",
-      "ts": 1784311168000,
-      "topic": "AI",
-      "query": "AI trends"
+      "title": "Magnetic Cable Clip Holder Market Revenue To Cross $1.32 Billion By 2030 Supported By Rising Demand",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEN2SW1OS0NSYVlSSnlGb055VVZETWdTSDJEQXluaktoWHdGcE9XVTJnMS05UjdKWGRNZWZRRVhXNUhvcnplREtVdVJ5WHl6M1FvTUdqQkhfTnJnaWh6V3BhbHZ4b3QzVkEwZjZWRzBqanBQcFZ6SzBJVklqUGdzU0FVYVRPT3RFQk1qd1JnMTJQNzIxbzZhMzNHd2E0ZFI4T2FHQWtPR2REM2d0eVhfVFgzY0lPdXctamZYS2JlbUJCcm44cC16NkpfbXBwS0ZYUVd0UnZEcXBsN1R1T0E?oc=5",
+      "source": "EIN Presswire",
+      "pubDate": "Fri, 17 Jul 2026 18:10:00 GMT",
+      "ts": 1784311800000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
     },
     {
-      "title": "Visual Intelligence Platforms",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yRVZka3NzWVlmZGt1N09paDh1eFNEcVNVd19iQ25Ic1pmbGNNVWl3b2RNbzROT25iM1IzbHpzdEZtMF9VOXRTR2wzdERCTTJES3Y4WjItYzNEUdIBX0FVX3lxTE5HV3RBV3Qwa2pfSzJXZWFjVFktQmFZS1ZmaFBtOVBnd0F4a0NPbkpjYTZwTm5Zbm8yZDZFczZNRU5ONWpRV1NTbGllSWRNeHdPc3o2RUs1enI0aWVzVnA4?oc=5",
+      "title": "AI Bookkeeping Platforms",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wSzJSR0djWEZqS0xkUjk3Sl9uVVRBZWpMTWFKUmlHRzhaenozM243T2RxYmJWRnRPbEpuV3lVX3dxU05PU28wY3BNV3pXaTRwb1czNWdzMXXSAV5BVV95cUxQQWFNMDc5S1Ffa3pZUkxsQWZjZWFlbWM0RWVWSDhxaTZqVmdlWUwyWmVNbUF2WExObk1DSmRjYTJvMkxUWHFtTmJrQjFNd295b094T08ybmxxcGg2NFBR?oc=5",
       "source": "Trend Hunter",
       "pubDate": "Fri, 17 Jul 2026 17:59:28 GMT",
       "ts": 1784311168000,
@@ -532,96 +856,6 @@
       "ts": 1784310900000,
       "topic": "CX & Market Research",
       "query": "market research industry"
-    },
-    {
-      "title": "Global Industrial Workbenches Market Size Forecast To Cross $4.25 Billion By 2030",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQejNKSU8yNXJvUGhoU0haS3RXZksyR0VRQjRyYjNNTDFtZmpxMW9tV1ZGMXJfR1F6ZmduelFWY2JtRmZqWDhBVHE2d3dFb1doS2NNLTZOXzkwVGluYjliSkpScTBmZGx0M2JySzFZVFNtR1JEOUtEXzdJQjNxU1JuNHR4SlR1ZVBpMURkNV9ZV2RNd1BXSHRndWI1S3ZnNHphLVc4RV9XaEFSaDk1NkgydEZyNDdCTDY2MkpkeWRicjVfd3lpRWc?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Comprehensive High Energy Cyclotron Market Report Covers Forecasts, Innovations And Industry Outlook",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmdvZS1YUWxqRVIxV1dTb0xYQjBsVEJfMGlmcUNwbVQ3cGc5cDdIVHAxVjVRMVlFRXpXMURnYjJOb3BQcV9oLThJVlFMd1hKeHllZW9wMDZlTWhTWm5kQUw5a1RIQjJ2T1ZPb1dRRTd0SGZGNktSODVkMUp4c2o1eGlzZ1ZwblNKOXRjd0ZfNkVVcjNfNE1NTS0zM1BkOVNPSkRybWJmbGRtV2hLRTltSGV2TXJnUGM4RXVnZ3NJQ21TdFpHVU9qR2tMTXhKZnFpUWpBelh4T0pkMlk1bmM0?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Game Performance Analytics Market Competitive Landscape Analyzed Across Leading Global Companies",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQclFSNzQ0NTE2bkVLUC1uYmxpSXFydW1LWW92YXRsTnF0NXZGTjJBeGJSckdRQzVBa0RrOXdneE82Slo1UVliVjM5eUpXM3BBQ1FJZjdGcS1IWUtuVXRLVWlkbXlPNzhXNm85MUdBaTNHazczLUlIY1VIVVBmcmI5UEFyaFVpdnVsZkV6LXJRTzBXMkVXamtwQlVVcEU0YlBPclRkLWpTY3ZvVFB0LWcwNWdhRV9WRzcxSlFVdkphVVpocGZBMGU1SnllcnRaLWxfejEyYXFvd01YSXc?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Foundation Anchor Bolt Market Industry Outlook Strengthens Amid Rising Global Demand",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOemlNMG55WnQ3a1dzbWJBR2N0eEo1ZmFfQUdBMUo1NUhFZXFVR2g5NG85b3M0M2gwa21ON0lrVDk0ZGlWZk9sQ3ZMVmhHQmMzT1htdE1odzZFNHZRWXlfWnBoR0E4My05RUZVRHo2bW9BOWpNRW5LejBVVU1ONFFEUm1pd25rQ2VZNXd4Um5UMjlld0ZLa2VQdk0wdFR5dUk5MkxmZkVlaFNPeEhoQV9uNHFNT0tYMmdxQ20xbHcwcXd5amh3VmpraUZYVQ?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Gelatin Capsule Market Segmentation Analysis Reveals High-Growth Opportunities Through 2030",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUTgtNnlSOVdlbHg2bUFBeWszVzI0V2FHRXlkLVhmSTI4OGJiOERuQ3h3dnE3VHRHeHc1dlFYYkUxZE5WMk5NeEpNTnVRYWhzX2JuT1I2ZzIxSm5ILXpYX1NSTVp0UTNxSUVZMG5LUEZCbENxWnRWQi1JWlNTUWVWVlprMEctSldsSTZWQWY4dERudWpvYmRGc2pTOW9sclB1c0hVSEJMXzNxeWN5c2NWTGExSEVJa0t3N2dBMkFUbWZLWk1pelpfR0RRbE1nWkVUQm1rUA?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Hypertriglyceridemia Drugs Market To Reach $10.15 Billion By 2030 Driven By Expanding Industry Demand",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMDhIdUhFbTBIcW84WnBkVi1UX2RneDRLbFRvLWNYcmM4UU53dXZlSVA1WnNEZWRNeVIzY1p3R1Z4VWFZdFJjeVJvN1N0MWVZMGVxYlNaUUFTLWZwTndWeGFFbXlHXzN4blI5WGxXZ0gyWlZiQjJsXzhiTWg4Zk9BYnZrYVpneS0wQkY4ZVoySTJqWnIxWm1oUV8yOElhNjlRR29GWlYzZG51QWRHajRxeU5QTWZHR1U0QVhFS0R1ZmVvWVJ1SzRqVXZlMkN1SkFCRFFDUFBQSkh4Z0VZTHphdg?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Generative Protein Design Market Forecast To Hit $4.94Billion By 2030 Amid Strong Industry Growth",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeE80WFg1SzBDM3BuNjZSelJQNF84WS0tanlIRnNNcUFmY2VsbHJza2ZvQUExOFVzdm90TU02RmJjeWktbzd6Vk42RDNQNXJfbkhSVDBYSU9ZVjNpYTlGSUJQV1dYak9RUjBZc1RZSzRmTnJrRzVjVHBRamRGLVMtazFXWFdlQnVWM3VMUGREaTJpT3o3NTlpU3NYckpMN2Zna3p5ZTB2ZnpkR0w0M1lNRzlmTFNIU1F2N1FvaW5QVUNVY2dTOVptS1FfZkUzSWdLVGRyY0hDSEh0ZzA?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Footrest Adjustable Height Market Report Highlights Key Segments, Regional Trends And Major Competitors",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPckMtQ01ONlVYQ09kVWpIb3hLV1JzSlZRejFLR1BaWXZrZ3ZtRldEX0RuYWg2NDl4ei13SGxtMXl0WWhPRGxFVDhDaEpmLW85V3BlbTFaZzZRNDZqNmRmMXFtLVNndmZaNFZIcjByMndDTjZLSjZIR0NvMU1GOVJzbEo0cjJRMllmNlVMLWVxSGVibDI3Zm9nU0FwZXpUZ0gwTzc5NmNEX2JnM1ZTMGhCdWlQQUJkYXBmQ1p1Yk83ZGhYMHZ6Q2EtTW44Q0tsdDFYSFh2Ym13ZzNtRFdfMHp3bkZiaw?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:55:00 GMT",
-      "ts": 1784310900000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Decoiler Straightener Market Insights Report Analyzing Demand Trends And Competitive Positioning",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ043dlVuck1JTUxUNE1HOXJDWDNEamh3a0RJYWlLOXh2MzRwR1RDUEdMWE1lbldRU24zWXE0YUo1SkpfbjlEUFNLQ0U5OGx4cnlfSDVoSnV2TVRya2FQSXJMWWJ4RVZ1b3VSd2t6YU9NTVZJVkRVVHdKT0pzUWlPTV92VFR3ZW9vM3ZmSGhIUDEyNEp5QU5QRTdGQ3FxVmVZQWE3Q1BHMHRZX0FGWTdqbGh3enFONXpfeTdzRFJ2ZXNJX3h1clM1cU1MOVNEUENOMUdqOWZxYkNGVnc?oc=5",
-      "source": "EIN Presswire",
-      "pubDate": "Fri, 17 Jul 2026 17:54:00 GMT",
-      "ts": 1784310840000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "PentestCode - New AI Agent That Automates Penetration Testing with 18 Specialized Tools",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWUXJrMkhjT0dwcGVwcVZuU0ZQRHZURUh0Y1VOdkllQnF0R2IySDRNOHFpMFFXZDJNNWd2bXFWZVVIbkIzZ1hTZkliMURPcHNTR1ZPY1NtZThrZWhLWTl4Q9IBZkFVX3lxTFB2cDhXSkxLQzRTenBjWjFPRElDQXlqOU1QU1lGNUR0MXB1ek5WQ095MzM3UEJBVVphdHhpTTU0S0RkdW9XeG5RMUlrMlR6eE5BMXdVWU1IbzVTN2dIYURjNGJVODVRUQ?oc=5",
-      "source": "CyberSecurityNews",
-      "pubDate": "Fri, 17 Jul 2026 17:44:48 GMT",
-      "ts": 1784310288000,
-      "topic": "AI",
-      "query": "new AI tools"
     },
     {
       "title": "Fortinet (FTNT) Expands AI Security Tools, Is The Stock Fully Priced?",
@@ -640,15 +874,6 @@
       "ts": 1784309458000,
       "topic": "AI",
       "query": "new AI tools"
-    },
-    {
-      "title": "WORKPLACE TRENDS EXPERTS & KEYNOTE SPEAKERS FOR CORPORATE MEETINGS OR VIRTUAL EVENTS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEI2WnhkVE1ZQ0lBeVk4a2c4NnRYbW9SZWVkTGxrV1R4SHE0WENrVnZRRGYxaW03cFFEVFl6TU5ZSzczTTg2UkloOC1HQU53RW84NmR1U0NQaWpSMUpiZ2N6VE5aSGd1UTFPRHpPWm1sM2pTN0VlZEVNMlhzU2RNNDZ3MmVyRk5CT3FCMUNKa3FEUQ?oc=5",
-      "source": "futuristsspeakers.com",
-      "pubDate": "Fri, 17 Jul 2026 17:14:57 GMT",
-      "ts": 1784308497000,
-      "topic": "AI",
-      "query": "AI trends"
     },
     {
       "title": "What’s up with GINA? How AI tools could trigger genetic discrimination claims in the US",
@@ -687,6 +912,15 @@
       "query": "India business news"
     },
     {
+      "title": "Top 6 Beard Care Brands Every Modern Man Should Know",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzB3OTJHbTBmcTFqS1FYSHBGcnFqSVcwTGpDYXh4ZWdKTXBGTndhUm9zUWdjcGRzQnNBSEdRS0V4aC05N1B6UW9RUGJ5Vmcxa05vV3dDQXBadW1vX1BnblRweEdXRnpha09yRFRMTERmbVFWdjl5cy1nbVF5RDNWbUI3THowVWFQZ1h1aFhmTFJtalFiUEt4aDhIbktIQkVqSU9kSC1lMWFiWWQ0alF4ODVvM3JrNUVjTnZ4TEg3QlljUQ?oc=5",
+      "source": "Indian Retailer",
+      "pubDate": "Fri, 17 Jul 2026 15:31:54 GMT",
+      "ts": 1784302314000,
+      "topic": "Customer-Facing Industries",
+      "query": "beauty brand launch India"
+    },
+    {
       "title": "AI Design Workflow Platforms: Weavy Combines Professional Creative Tools And AI…",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaWNWT3ZSS1QzcGxJY2FWdWtfbTFzMmdlSDhtSVd0Z1FLS2Qxc0JFbTgyRzhjc1RRNHZ4emhQb0FfX2JTZFE5a1l3ZWpsQXNlZnc?oc=5",
       "source": "Trend Hunter",
@@ -705,13 +939,13 @@
       "query": "India business news"
     },
     {
-      "title": "RIL Q2 FY27 results: Reliance Industries beats estimates with record quarterly EBITDA; revenue rises 25%",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPRnRMeDRjclpLUmxlc2EtNHhKVUZmbHZmTGhWdlg2TUpXTm1GdFdxeVFFb0pCN0FRUi1MV0RXN3lBeU1INk9DUkJCWHZ6Q2FnS05mYUIwc1UtR3lQUWl0UkJvNmpMYm90QncyMG5qU2RlLXdUZTdJM3haeUpxWl9wcW5GQldJUTBXNlR6Tjk5UFdlVFhfRzhhYm02bDBNOF9KX2Rtb2lNOFRNVVZ4TFlaMUxuLWRJaDJoSHNVMzJtMHp6ckExWEpzVjhyQWE0TmZ0Q25PSVR1ZUExbXp3OE1yQkVMUUdaLVkxSU1NYlFCSmRrRk9fZXp6dmpnUXhrV3ZuOGV5SVc0T3hNWVFGeXcwY25UU3pxYlJtMS1OVGh3VmIyWG45SEJ4MkY0WnhxaGc0eXhiSHN6YkRJU3lyMVB4TEhNdzZnRS1HQ3lWRWliSkzSAdYCQVVfeXFMTmpWc2w0UDZqSnE2cDR1MFA4T2JvN29qNmJvRjhRc3hEdDltTFNYa0N6aURKUVR6N05KZUJuZmVob3BKRXdwNmxKU3M1Q0lNTFlXbmJxbGYtNEpBR05ZYUhKLVVweXFxQ21xRW85VjJuX1IyWlcxUHV6cjB5aFJSMnNQMXlFLUF4ZWlsNGlDcDJRNjM5R1NQUXRpQ0hkdkg5XzRqdUNXZl9TaFhwd0I1cFVXSE5hQjgxNDEwdTdIRXVLRWxtSTk4dzVZR3pleF9BbkRGVzJQcmFFS1pmWUllangtaXRMR0dEOVZ1QTZ3UmtGOVd2LWNMdHJXZ1pMc2x0Q3BzNmNSTWNYMkNkcUV3djNmUmstcllyb3RDdVhNekFBbkpHN1JwVVI1U2xtMlUzMEh2dFFmX08xWmpiaF9EV2tMYk90V3J0UldPdVoyWWxYRmtEY3pn?oc=5",
-      "source": "The Times of India",
-      "pubDate": "Fri, 17 Jul 2026 14:27:00 GMT",
-      "ts": 1784298420000,
-      "topic": "Business News",
-      "query": "India business news"
+      "title": "The 10 Coolest AI Observability And Governance Tools Of 2026 (So Far)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWlllb2s2Sk5CVk5PVmNmMUp4MEpFRXFhYjhBNXdiRWVnLVU2T0xKakFaWC1YbGJicUUtNV9qSGZKZ01PYzhYR0NhYUtzYmtSZC1PaHJXNTJwV3VEUUxsb2FJMDAtSE1WSXdvYnd6ODRkM2pUOTU4alZiTUtBb1JkaGtXZWFEaHpnNGc1TjlMNUtUV2cxS09Qd2FDUjdxNURXazdXVkhmSWVtZFE?oc=5",
+      "source": "crn.com",
+      "pubDate": "Fri, 17 Jul 2026 14:23:30 GMT",
+      "ts": 1784298210000,
+      "topic": "AI",
+      "query": "new AI tools"
     },
     {
       "title": "Reliance profit falls 22%, core businesses remain resilient",
@@ -723,38 +957,11 @@
       "query": "India business news"
     },
     {
-      "title": "AI Infrastructure Management Software Market Size, Scope and Trends 2026 to 2035",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXF3dWxsYjJWbk9OTWN6Yk5oaXE5V3VMNkdNS0t3ZmJQY3RRdmkwcElWTUZWLTBmY0lrV1kzMWo5STBVTmx0N2xRbGJkdFpYb3JpTjRmTXlaTmxBQ3RWTDRMTW83dURzd1FXTW5oNDJwZ3U3dXFRZnZfUkt5UkMyRmVKS0ZpZFh1RkFZVFNPcUVkS0FYWUE?oc=5",
-      "source": "Insightace Analytic",
-      "pubDate": "Fri, 17 Jul 2026 14:19:20 GMT",
-      "ts": 1784297960000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
       "title": "Why are UK fuel prices rising again?",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5",
       "source": "BBC",
       "pubDate": "Fri, 17 Jul 2026 14:09:45 GMT",
       "ts": 1784297385000,
-      "topic": "Business News",
-      "query": "world business news"
-    },
-    {
-      "title": "Europe’s AI Decade: Separating the Signal from the Noise",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGNFX3lEUVREdTdhRzJzX0ZONlJCM3N5WDlHemk4MDA5UXJqbzVwZjUzeFhsT2VIeDVSb05ZTHNHOUNzc0ZlNUJoMVJnb0NaWVE4VWJUOWZjeVBWYXRRWVd3LWJ2RUNEUl82eC1id2tIVEJaazhiSEhzSHY4dmJ0eGRCZ0E2ZVpWMUE1c0R3MEpjUzhpRG1RdlZn?oc=5",
-      "source": "The European Business Review",
-      "pubDate": "Fri, 17 Jul 2026 14:09:26 GMT",
-      "ts": 1784297366000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
-      "title": "Apple surpasses Nvidia to become world's most valuable company | Business News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVNUWnk4TDd3OW1TR09jbVJ2dkdIUFlYbk9acEN0OGVfcWprUUdQXy02enJoV0w5Q29QMEY5M3c5d2VBVTRuV2l6LUtUVEVEUXFrZ2JqUnBicHkwOU52NVJlUDVNekxZblFFR0RFb3BLeXp6X01HUjRCblBSRTNPMFUwazlBUGx4RXpEM3h1V1c2ZEp1TzdqM1QyRlQyTHdwSGYtc1VVeG54UkRsM0JGbGFxQkQ4UXJtdElrN0NGY9IBxAFBVV95cUxOM1k0dlNuVExLaDlqaVZ5elJibkhraDJrc2JfcDFqalAxRzlNX09Jcjl4Rk85MXFWZG5Vdk05R18yZ1l0aUI0b1ZKVHYtS1pUT1hIYTVUa3NpRGw4ZHhZOXhiOVVxNjRTdG5oMUFHTEw5Ukk4LTAxQy1zRWNpXzdDbGFzY3JxNXB3djhwMVlPUlNkT2FfXy0wS3kzMTNOUXQ2bmhpZnZnamwwb1dqM295dlY1em8zbDRBNU1QNGNYWXZEV2N0?oc=5",
-      "source": "Hindustan Times",
-      "pubDate": "Fri, 17 Jul 2026 13:50:54 GMT",
-      "ts": 1784296254000,
       "topic": "Business News",
       "query": "world business news"
     },
@@ -768,40 +975,13 @@
       "query": "India business news"
     },
     {
-      "title": "Lightspeed launches new AI and payment tools to streamline retail and hospitality operations worldwide",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRvd2dWQU5xRVlOSlNUekFkSnU2NGYtOXJnM29FOGg2MUJadTY1TEtHdlQ4U2YtN3c3ZGlLVjV3ZXUzSVNZSlZJS1VaWEtOYWc5QmY4bDlYLVZkMjNhWWRmQUJMcVBubHFGb3ZSWG04QUc5Y3cwbkM3dDNFSW9FYkQtMHBfOTJhWHFfU203Ymh5cTY5OFY3UTdSWU1FeWRBVjRwYg?oc=5",
-      "source": "Pluang",
-      "pubDate": "Fri, 17 Jul 2026 13:13:46 GMT",
-      "ts": 1784294026000,
+      "title": "Lightspeed Commerce launches new AI, payments, fulfillment, and operations tools (LSPD:NYSE)",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2hubkxxRy1VaGdrR0JjdlZVNXcxbzJ3ekdtbHZKbV9NeS1FakJrRmV5TXN2MDFRWlJNeFRnMUM3dm0ycjVIUlVhek9mRFFFSm1ELXhSdGthUFRxamtxS2NrT2NLS05oMTJ1RHE0VmdSQ0FQWXctTmRpTVFQZTBmdXR4VEpHbS1PekJzR0pyYUpjNnlGYzktWDBabmlPc3BjVGsyaXBJNkIzQ1U1OXczTUhWWkQxUQ?oc=5",
+      "source": "Seeking Alpha",
+      "pubDate": "Fri, 17 Jul 2026 13:18:36 GMT",
+      "ts": 1784294316000,
       "topic": "AI",
       "query": "new AI tools"
-    },
-    {
-      "title": "Global 2-Ethylhexanol Market Trends and Top Company Insights",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVzZ5ajdtNTFGTWFRei15RndYazhxV3h6Z3NrZ1RvUmtoYzJoSHFheHlnWXUzN0dRcDFjWnM5UFNtTWtZS0FnVVVmSVAtMDJnODRCdUxsbHNwTzBwMk5lcjRXTnExcW8?oc=5",
-      "source": "SNS Insider",
-      "pubDate": "Fri, 17 Jul 2026 13:10:43 GMT",
-      "ts": 1784293843000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Why were Indian markets resilient today despite selloff across global markets? Here's what an analyst says",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObTE3T2hDUklpd3Y2UEI1eHNwcHBtSWdvSGNVZU5NZGhQaDdEVWJoYmxHMUdFdnFUNXcycDRxSW03dEJPckFLYmZnbzNnOWNQeURwckVuN2hXMF9vTDFRaFY5Q2dBVHE4SWtHYzh5Zk5LVFBZOXdqSzlMV3dxVC1CWHkya2lha09LSXVYeHVldW9uZEZtT3p1c0IyZV9oOW1CbUI3TDBwLW1QdERjbG0wNjNrQ1NlRzRlaEhweHFKTEVjdzJPZ212MjRYRVdVS3ctbG9qaXp4Z3ZhcjFFZEh5Q0F3OTZWSlBkM2t0eHFBV2VwMXNfOEluLUVNRFdId9IBgwJBVV95cUxORzlRS1ZuS21FMXltbkhJVG9rTk9ZaEVsOUotSlRRMWEzbmxudVUtUElBREpHci1xOWViUk1yWjFnbzZkLW9BcHo5RzVOd0cxd2pFTGZQZGd2VHVOZGRmRXpOQmVxMnZaQ3J6RVJNLWtkZVA2ZG5fVFdNNDQwNEFSZFI3TGVpNm1ERlFvYTdiS2k0dWlnNmh4eDFHOGNQYzVhVDlxa09HYmlRRi1pX1ZZOU80VndoLW1uN0tjNFd4S2lOcnlyeUdHLUM1WWJlcER5VXJST1dKLXdiM0p2MHVuODc2WndCT0htZnBBLWJEV2hLeWlVMVZ6TS1IbEJ4UkZjTjNj?oc=5",
-      "source": "Moneycontrol.com",
-      "pubDate": "Fri, 17 Jul 2026 13:05:49 GMT",
-      "ts": 1784293549000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
-      "title": "Positive Pressurized Containers Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0pDTFI0bmxBVkhXTkhIc0NxMW9EY1JZZ01vZTdJbHBNMGVjOFc5aU1ZdHVuTFlweml5aVBZTHFJMUhMdGNtT0FyTVBhclpnbFRmZXZLVG9QTDFQVTRPcGVQR3hvSktTRFJsSFVwc0s0NXBJXzNmc2hhYURiS040Y3hyLVQ0R2ZVNnU4?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 13:04:44 GMT",
-      "ts": 1784293484000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
     },
     {
       "title": "How AI Is Reinventing India's Jewellery Retail Experience | Techcetra | Salesforce x Mint",
@@ -822,47 +1002,11 @@
       "query": "real estate customer experience India"
     },
     {
-      "title": "QXO Discusses Building Products Distribution Technology, Opportunities",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUFF5aXUta3U0TE5nb2xVOEVidjNTanh4MjkzNUViUGVPSkt1NmNBMDkyWjBfN0Y3Ukl4cUh2N3dXQWZIQ3k1Y3FKNmpvc3UzSk9yTVRIUnEzcDhBeTlBM28xRVp3T1pEUzg2azhYUWFKQTV2SjJZS3piT3QxTnh0eU5jai1obW1nSzc5b0lqbm1jVUE?oc=5",
-      "source": "the Electrical Distributor magazine",
-      "pubDate": "Fri, 17 Jul 2026 12:49:30 GMT",
-      "ts": 1784292570000,
-      "topic": "CX & Market Research",
-      "query": "customer experience technology"
-    },
-    {
       "title": "IAMAI forms 'E-commerce Council' to shape India's $120 billion digital commerce market",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR25IVldjU3A2ODZWckx5ellZaGdXMGVQZmdMUVFhY21tSUVPMWpnUmxHUjk3Tm9wSkV3RXlNZjZmWnY1MG5HN0F5ZGY5Wm5zWjc5U0ZtLUtDeExyTlF2S2d6eDR5ZHdBeEJ1a2pRMGNUY0hEZFdiQnMtTURpelE2anhvWGpBRk5xRVNFOWxRNUVxcEREdEdjTG1GNE1sNlJmUHQwRDNjN19DQlE0V19KRWExNGlIeTBpQ094dHdzM3RobXRGdG1lMk1yOGfSAdoBQVVfeXFMUDBSdG92dDlmR0FPVlEyOEtncVQ5Q2F1N1BUbjQ3RzZJYWZqdFpuYjNuM2NqemFscnBYcHYyR3dSUC1DWnpWN09SZEtKbS01X3JXaDJpZEgwRmhyR01yMDFrMGRHOWJZOC1fMzExdHpWRXl1RVdnUnhldXU5dkJTZlhqVS1KdlBtcjMzc0pzQkRSaHJnUjFxUi1iVU9KUFVXZlhpMDcwX3FDYkdhcG01aG1kS29OU3AwbnA2WjBrNENoNEpqblQ2aUlRUmdhS05JVzlGS0tJUE96YkE?oc=5",
       "source": "Fortune India",
       "pubDate": "Fri, 17 Jul 2026 12:47:43 GMT",
       "ts": 1784292463000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
-      "title": "Rumen Fermentation Optimizers Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzdvcnp2a2NmdG1HOHNTdDIwMlktNlg2aEZvMXhyQndBOEdwNWxBQ1lCcFNSRlMyT3FCcGJpb1J4VG9TRjlKblFrZnRyQ2JIUWN2dkxuWV9KNjEtZHU5dVVzOEFTejJSZV9aUV9IZEtaVmhtZ0JRUzVTOUloM1BTTzVLbDFva0J3?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 12:39:44 GMT",
-      "ts": 1784291984000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Protein Digestibility Additives Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1BmeDNsWHkzYTdYZkZva2N4eXBwWXdORG9HVEpDR05JZ0tXcXpNSlRabWRCR1BXdFRxSVJTQlNZQWp5N1phdnhHZk5mS1VFU2JWRG1QbE1EZVRvZ0tSYXlCTlhOWkpwZUxFM0twUkVfaHRrUDgtckRqWnBTdXZ4SXdjeEwzWkFkWFN3?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 12:34:09 GMT",
-      "ts": 1784291649000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "MakeMyTrip announces filing of draft papers for India IPO via confidential route",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPem1peV9wQlM0cmxlWmpKZUVfZlpjR3VtVi1icGZQYnFvSk9TYlhpMnAycF9PSHVvcDNkUWVmT2E1U19yYVRaeGZsV3NZM3o3SjYxUFRNbUdLSjBNclF4Q3RtNjZaVWZaTmh2NXFNUjRjSjZpRkhiNzNzZW04SzFadVRUeC03R2dNaFpDaUhPZGJkTDZnd0lUanNqbDJZR2xFdlRFeENNeGdxeEVFMDlBRmRPZXI1eVFXX2ctMnZLMXlxSWtTb2VWSk9uV2tqb3dpZW9lcGVXRW7SAd4BQVVfeXFMTUdoS1h1VEFPX3JiWl8ySUFFRjRRc2JUemZNNjRLWGFpbWZYMlZROVJkVFdtU0MxUU90TVJ6aGFveXo3WVlaWVR1b0t2RnhaQmNPZ2hfRWVrdDFKQVdWWk50TnIxZjFXUTBKTUp0b1dtTDhyNGhEUTZWX2xPSm5PaG5uRlI2WHVwWFFNOVlEQnFTdVNRNE1KMDNXY3BJak8tNHdwajRDVG9fWW5BOFZTanptN3lyazJqLWpxR3NNR0s5TE5TcmEyYlR4MzVMcXR4Q1c4YTByN3FPSUhXVlZ3?oc=5",
-      "source": "Moneycontrol.com",
-      "pubDate": "Fri, 17 Jul 2026 12:26:58 GMT",
-      "ts": 1784291218000,
       "topic": "Business News",
       "query": "India business news"
     },
@@ -877,8 +1021,8 @@
     },
     {
       "title": "Lightspeed Commerce Advances Unified Commerce Vision with New AI, Payments, Fulfillment and Operations Innovations",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWpJY0swS1JKbkV5ZTlJUjZ3S1BoX3pqdWs5TjVhcWxOR2h3aFNsYUR0MEN3YU9lOHY0eS1Sdmg2YlI3bm4tazU5MC1DcEo1dzc0eGxKVmxKRWV4TktNMDZBR0drQktRcjdmWTdPYVZJYnZUeFdIc19xWWQ4SXVkb2xLdmNES1dQSUZSUnZ0LVBuMGFGZHZ0R1R3?oc=5",
-      "source": "Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVy12SW9JZzdWd3JySWVFc042eTdJWjNUOHRxV3pMSlFzeEpSbW1yNjRUYU1KSWVNNTRvQ2lQVW5PZGlkVGRwT1RPWjJQaGFTMTd2TTg1c0VIRjcxUmpWVW9tcmo0U1hpdG9aRjRhVUJpel92UXVqNUpaSE1kRGltZ3JTazlYR0o0TnlIOTBvakJaWEljbnBYOTJQckJKbmx6SUNVd1k3amdUY0NtMFRxUFpRRENzYVROVDdIS05ydXNoTWdKSGNZYjhwZXhLMjNIdWlxRWQwWTIzZTd4WEpmRTZfeHVLdEpTaFJXTnh6aVBZdlNxWWZSQw?oc=5",
+      "source": "PR Newswire Canada",
       "pubDate": "Fri, 17 Jul 2026 12:00:00 GMT",
       "ts": 1784289600000,
       "topic": "AI",
@@ -892,33 +1036,6 @@
       "ts": 1784289387000,
       "topic": "AI",
       "query": "AI trends"
-    },
-    {
-      "title": "Google Vids gets AI avatars, Gemini Omni: You can now star in your own AI-generated videos",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTHNCelB5dEtiUUFHMzhpRGVOYzdFdUVzeGdfY3A4Wkd2SmZRMHhPdUVIeGtvSjFWOGUtWXZUb1V5bGFoV3VYa0NYdzJmcklwYnBXa1FBc0p2RHI1bzdFQ1FNTVZpbGtXMGF0Z1hLMVRhTU5PV0JxREtBLVhDNGFGQjduOU1IQW5KNUF1ZW1ZWmMwaXk4bDI2Wlcwd3M5bnJ0RW8tanFoSVBudEVubmhuOS02Tm1WbENBdE9iVjlBR2FRSVh2WnRSaEEzOVI4ZGFtQkRyaGFfWVN6U3VZZklqZmF3dVNjdFNRN3U00gHwAUFVX3lxTE40MTZhNUtmX21oTmNmYnFhbmszQkR0dzRNSV9ncGVhcEFzR18wdkEtdU1RVGhqNW50ZVZBWXZXZ0F2bTFOaW5QN09uZkpRMFNiRTBaajZPbHpObVpSTTJwTFU0MlIwa3JvTUtWd0xjSHo4T19HbDNEelU3VmJiamxHY3JsMm4zdjNpRjNoMGU2SmZBLWZnUFc4bFhFT1pmb0pVajhUTzNFZ2JhenZHLWNKa1hUdkd5b0VyYjRsRkdadlVmSmI1SlcwaFpDVnNjelZ5aDA0VTBVUEdpU3FtRzctSWpSenBvN3VkYWVzdDFpMg?oc=5",
-      "source": "India Today",
-      "pubDate": "Fri, 17 Jul 2026 11:48:04 GMT",
-      "ts": 1784288884000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
-      "title": "Aetas Retail Pvt. Ltd.’s Art of Time Appoints Ashwin Menon as Chief Marketing Officer",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHRuS3ZPcXVsRWZKMS1kRW9zNy1aaUVqOUFfUUlDb0lGbFJ0M3c2TUFfZHo2T0dCTDlyM1N2WHVfNjZZUjFCY1FsckhRVDVUT2l4N0Q4TnU2VjNWVG8xbjN3aU1HVXAzWWtON0Q3YTFVcDI5VjJzc0NfVWxlOUU0REI5WmtXdjZlZkhBb1VnNk5XSTRWWTlBOWw5Y1RRanh6T2dJN1l5YThBTlVwZWlyRmlGRkt0ZS0xUXBlcUI5VQ?oc=5",
-      "source": "Passionate In Marketing",
-      "pubDate": "Fri, 17 Jul 2026 11:45:08 GMT",
-      "ts": 1784288708000,
-      "topic": "Customer-Facing Industries",
-      "query": "luxury retail India"
-    },
-    {
-      "title": "Starch Digestion Additives Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHg1Wk03U3g3eHI1dDY2anFZQ21XTnlwSTdPRFdKMEg3NkNyMFNuUHVIU3M5Z0RNby02OFNCVy1KbnpMQ0hmR1d1VmFpS1UzRjQ0ZlRBRVlHcEFKc1lmeGlkb0VTemhhTUlxMFVDM2lOS05rOFYxTmR6cmJjWWxybFBGQ1c?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 11:44:44 GMT",
-      "ts": 1784288684000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
     },
     {
       "title": "Art of Time appoints Ashwin Menon as chief marketing officer",
@@ -939,15 +1056,6 @@
       "query": "India business news"
     },
     {
-      "title": "Why Gen Z Is Redefining India's Beauty Market for FMCG Companies?",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2RueFdTd1JNS282bXRoaThRWG5VZ3lTRUhWMVlISkUxaGdET3g5WndSV1VaRE9JOHFIZkRWM2I2SjVjR3NtOFl4UWlmVC1NOVlGZGRkLVptMnR3Z1BKR3dENjV2REVQOE5rYkFER01Gel9jdlJSMGc5RDZqeW1MaE1CbmpUWFczNXRrRTJfX09xa1BmelMzSXlFVmRiZ045UUZwa09Ha3hxcW1OY2w2VUdQdk50bmtpRWlfcg?oc=5",
-      "source": "Indian Retailer",
-      "pubDate": "Fri, 17 Jul 2026 10:39:11 GMT",
-      "ts": 1784284751000,
-      "topic": "Customer-Facing Industries",
-      "query": "beauty brand launch India"
-    },
-    {
       "title": "Avani Mooloolaba Beach Hotel Opens on Australia’s Sunshine Coast",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoa1RnS2dpVkRPU1kzM2h0TWtKaDVCOHJxbnRRa21JZXlwaGJVT2tSVDAzZExKU1NWR19LRGlqUXNBdEtKcHFqVk1uN2RZRU1LMTM4VmVpZXpqOGNVTjNhQVpVQ0VUMlpIX29z?oc=5",
       "source": "safariindia.com",
@@ -966,22 +1074,13 @@
       "query": "India business news"
     },
     {
-      "title": "Mumbai-Ahmedabad bullet train update: Progress so far and Japan's E10 plan",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3o1X29FSUZyMy1PZ002Wm5BSUlWenNwZm11TTFDWkJ2R0RkakN5eElpU293cFpabmY0NVhZUUZxTWZDaE1lOHhiMDNoLW9PV0JNcWdiSHRQbXczM1lHZlhmakhKckNTS1RCWTRzZnBwTkV3SHoyWTlIUE5naDBSekx0eWw1NTBwaE1WNkhEME9qcXUxSjNQVTYyNlZyQmZqRzc4MXJ3bU5fOGtUSU5fX3plaDVVMjdabFV2dUpTZmk3N1Z2bWNjVUdlenFUa1lYZnhwU0lueFZSRXprbWRYakdkakJfZllZVWhRWWNPNNIB9AFBVV95cUxPM1h0NG1XdVFOT1lzcmpTSzRTT1hVLUFFblMtU1l2NW00RkEtbWRMcXdUSGMxanVjeHpJNkRlaHNfVTBLUjh5bnkzODAyeDJOX2RvQTJFTzJDZXlGNFpXd3hSbUQzYXpTaVRwcHJxOGNkaFNEUkVSQ1ZqbmhUOWhvODZjdjdCU1phanZwNm1WczlXY2xHNDduR09qbjd3S3FEVWtOcW1pVmE1a2VXR3c0Yzd3MkU3X1o3Y0xDVlVXYlBpWDlNQjZEWGdfQ0paZG5NMDlibFVudTd4bGNPLXYxN0NFS3NLalNxaFRCTUVtckNQUFh0?oc=5",
-      "source": "The Times of India",
-      "pubDate": "Fri, 17 Jul 2026 10:11:00 GMT",
-      "ts": 1784283060000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
       "title": "Consumers wary about AI shopping assistants but Amazon is changing perceptions",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbXJIVnM5X0lkaVR3bWlFM3d6dTJ3NGZHUWg5cDlIdjFPUVc0YTVRQW9PZTJVT2tuNXk5OWVCQW5Sa05MNFNoV1FQbFBvYVEycTV0NlBWdkJub1pKUUItRmdKNHJ0bExSRmRTV1dieGp2SkdkejNFaXNpNWM1OUR0OHFYZWxzbVM0WWJDU2RObFR6U3BDVWpaWTAxSTlITElKSjlfN2t0eHBKQThSRkJjOUthZHJseUtzVnVIV3E5Y0JWdnNKblhqdA?oc=5",
       "source": "Retail Customer Experience",
-      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "ts": 1784282400000,
-      "topic": "CX & Market Research",
-      "query": "customer experience technology"
+      "pubDate": "Fri, 17 Jul 2026 10:01:40 GMT",
+      "ts": 1784282500000,
+      "topic": "AI",
+      "query": "AI customer experience retail"
     },
     {
       "title": "The Hoften by Alivaa Debuts in Srinagar With New Hotel",
@@ -1101,15 +1200,6 @@
       "query": "AI trends"
     },
     {
-      "title": "The Next Customer Experience Is Both Digital and Physical",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlpIN3Rrdl9wT3ZhVS13eXZCbDRhX3VOSE9TcnluU3Ayd21YdFJjMjdoSWU4OVVtMFF5Y1gxU0syWEg3QzA2dG1WTFBMZ0NCNUZyNEFWWWJPU1lIY1ljMHZpWGtfOS0tMGEwQWtwWU1ObjF3dTFWUExlaW8yTVFWVVVQQk9YTnphNFRDXzJLRGY3Vno1Z2w2aA?oc=5",
-      "source": "BBN Times",
-      "pubDate": "Fri, 17 Jul 2026 08:46:00 GMT",
-      "ts": 1784277960000,
-      "topic": "CX & Market Research",
-      "query": "customer experience technology"
-    },
-    {
       "title": "The financial winners and losers from the World Cup",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHTUZWUVR3VUQ0b09nMS1LbVl4ZmRRUWZoMzRSYUVXWXpkbjA4VG9tZDJFNnRrbEJuaVp1ZlRLdV81R1pXRWMxZnJBdVZJN3hQYW5wY2pwOFg2OUpB?oc=5",
       "source": "BBC",
@@ -1139,38 +1229,38 @@
     {
       "title": "How AI Threatens the Social Contract of Free Knowledge",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODJBSVd3bnFaUjJ6NlNjWWVBeWpkclRLbDYtalpxWFpTSlZyT0JoMVNfcTJnRnZnS1FQZkpTVlZJWDJFZ3J3SDdZQWM3QWFaSS1wNTBMQ0JpUWlQak9adFVKeUVFdjB6cW5FcUhpQnBrT2d5NVNCWHYyWUtBOGJjS3hVblFkTEVNYUdOSEtJeHJJR1JTQjJWTw?oc=5",
-      "source": "WikiMedia.org",
+      "source": "Wikimedia.org",
       "pubDate": "Fri, 17 Jul 2026 08:00:00 GMT",
       "ts": 1784275200000,
       "topic": "AI",
       "query": "new AI tools"
     },
     {
-      "title": "India becomes world's fourth-largest LNG regasification market with 52.5 mtpa capacity",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObVZ2QXhJN1F0VmJHbWs5ZkROSHluazhQM2tRbkJTelE2MHBRSjVVUjlRNDNYaGhWc25oeHJEczkzVmNOTXpBZXU4VXlQRzI2WHJ1Q2t0eVFsWUo0ZFVoS0JhbTRWUlFjcngtb3p1Wm1YZUpRaDI1bWtaYzJyTHVmM1JQb2M5bWFUcHdNd2VuRkhhb3Q4UjJqN0RCSHZNdktadGVjandSY09pMW1pa2VUT3I2bW1jdXFFTlQyMlRaQk9yMnFhMUF4YV9wQUFzNEdOUXI3a2E1ME5Gb2FzUHBNWW1uNNIB6gFBVV95cUxNaGV6TTZXUmEwNEdsMFZyU28xdUlMbkJUTjFGaDhRZjNWS19iWk5EZUJhcHJSTDEya09zRGFSeVRjZ0FIZk1EMHNwYUw4WUYyTE9uTjNzYVFRNGV5NmFEc01qZkFyLWFSd2o1bU44cnFNdHgxLWhxQ3VNWmY2NFM5OEhYb2FHdGJnTmlUQXZ0eEF0WTdSaW1jQ293LUppbUdlMmRndk1jX0dOMERHZ01PVi1HNWtOWHNBczNEVDhvWGZOV0lSd1IxcUhvU2FJR3VoNTVIVFVXaFd5QWx1d3dEb3daUjFXTWFvM1E?oc=5",
-      "source": "BusinessLine",
-      "pubDate": "Fri, 17 Jul 2026 07:37:59 GMT",
-      "ts": 1784273879000,
-      "topic": "Business News",
-      "query": "India business news"
+      "title": "Forevermark Expands Retail Presence with First Store in Bengaluru",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2ZXdGJaVklMUktsOU9jUERaOXRJN01Rd3lCX284Y3VCZm5ZUlhhSWFZRnZUUzJrakYzSzM4Y3FqQlVjendCNVFudUNYVVR5OGVTM0RXTVA3WlVpNWM5R1BOd0h3STNQc0pVR3JUNFpiLVIycGFfdldHY1NTcm9iOVh5bkZmRWhGTGtSMkdBa1VVT2RqeE45bA?oc=5",
+      "source": "Indian Retailer",
+      "pubDate": "Fri, 17 Jul 2026 07:24:35 GMT",
+      "ts": 1784273075000,
+      "topic": "Customer-Facing Industries",
+      "query": "luxury retail India"
     },
     {
-      "title": "Plastic Valve Manifolds Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzVGTUJ2dmZvZXM1ak16WU1YZVprT1hicTNlR19hUWU3TG5zaV9WYU1McUVuM2Z0N0ZSRUhyN3pnVVBILXJtZU40X01vX1ZoZUc5blM3VXREVk5uWV9pYkREMXBvTFRFRGhFdGI4T1VCNFVVQlZ1cUxpbS1Lcnhmdg?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 07:29:44 GMT",
-      "ts": 1784273384000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
+      "title": "Utility Customers Still Struggle For Service Support - Survey",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUE4Rmg2NjRTU3diNi1sMmtXa2lHM29mSUg0RllETEFRZ05qRVMweWU1WlB2VFZqbE5zckwyeWlibUhJeTV6WjJvUFdHV0Y2ckxfUm1nTFIzNnVVRjdJdWtxZXMtd3p2eEl0ckpjLUNHMFZnLWtVemNjTlZuSUZaNnd5RWY4S2pYRUNYeW5ldDM0bmk5emF1T1YzYU5tamd6QlE?oc=5",
+      "source": "Home | RJR News",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "ts": 1784271600000,
+      "topic": "Mystery Shopping",
+      "query": "mystery shopping"
     },
     {
-      "title": "Inflatable Flood Barriers Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXBRMTZISjZmR29OUHZsNC1Lb2s2VTZzUGpoNTZ4aVpwUkpvUjFVRHpYZXdwdnNZLWRicWFMX1R0dko0c0ZDckRNSVlHdkRyUGFVWWtxSG1nSElpLS1oYld1QWFkeXBYd2RldUxXYWoxR05RM2RkVXdLempfRkRuYXM0Yw?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 07:09:44 GMT",
-      "ts": 1784272184000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
+      "title": "AI Musculoskeletal Services",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYQlh6S2pIbzJPWnd1TDAtS1NvNHZFVkQyZ2ZhYVhfbEtlMXBFbVZzTjBNSXFSNC0ycF9oc3lKZHRtdExxYzBMc0VadHBHX3NoRHQ5ei03M2tTRUswYnJWOWo4TGVIem05TTBV0gFwQVVfeXFMTjE0SzhYTHJ0ZzhZcnJaQW5kZFI4ZnkzNERaQl9Ea1VQTVV4b3U1bTZyR0tVMTludEZQN0xLNkF2M0Y2cWpyNnJRVlYtM25hZHpOdEdTc081S3VzUVZoMHV0eDVobTFFbTZ5TjVVZENHNQ?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "ts": 1784271600000,
+      "topic": "AI",
+      "query": "AI trends"
     },
     {
       "title": "Housing.com sold for ₹458 Cr in All-Equity deal",
@@ -1180,15 +1270,6 @@
       "ts": 1784270323000,
       "topic": "Customer-Facing Industries",
       "query": "real estate customer experience India"
-    },
-    {
-      "title": "Protein Efficiency Additives Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHA2YjZVWDJmbTRHbkZ3M2ExTXZ1NkFEUURIOTM3VTROc2RCN08zYTBjNWhWNjlndk5ELVdoa1lERnYxOFdqdkN5cFdIOFQyemw2d0dESGdRbF9jRllTR3ZnYldsVzZ2Y0Jod2EzY1B6eVhja1Qycm1fa0gteW9xNEVuTDJPSW8?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 06:29:44 GMT",
-      "ts": 1784269784000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
     },
     {
       "title": "Wherever AI is heading next, older people want a say",
@@ -1254,13 +1335,13 @@
       "query": "new AI tools"
     },
     {
-      "title": "Swine Gut Stabilizers Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hbmdpaG5WOVdEbEc4R3hGNjlfWVdYRVI2Uk5oek9tWjRjTkdLRUxqdzIwN21JVzVCN0NwOWpDM2I2cjVIa2NPRXV6ZHE2bGlmMWtwU3ZtNjA0MGlNTlVwODJMMVpZZmR4bkJTZGItTlo0OU9CRVVZQlJjVWNkUQ?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Fri, 17 Jul 2026 04:59:44 GMT",
-      "ts": 1784264384000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
+      "title": "Air India launches new app: Passengers to get free hotel & cab details in case of flight delays, cancellati...",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVh5bmxXUF9CT2FOOU4waV9NWHo0dTlrcG1iWlJodWJoSzJQbUx0XzF0ZlVINzAyTVMycGs3TFExQWMzbXVjRnhvM21rVDM1b0dlR0hYUHVEY1NfVFpDS01uUTFUemZhSFFaS0JzazI0VHN5eEtOYUtrNHpQcGwzQVpXeFBMMmVreFhPNVBaSHkybmNHcTdiLXczanIwbXhYSk9NTUkybmJ3ZGVCNC1PeGt2VmdfZzVySFHSAb8BQVVfeXFMT0F5SWc3UEZWN2otbUxpOThUdkRGMEpOSk9mNTY2aVR2eDlOUjVVSXVXTU92clNmckU5THZydDJXTVRxNGVPRS1USzRha2xmVmgydUJxZ3otMGc1MmwwRmtnUGhCRW01WWNlNUI4OHFraDdhSVFPR09fVU9ZZms1UnhMNWZVUEMyVnUtSHRReDctTjM3T3lwUTJLbE5pX1RVNzdIdlFTdjBFeUZ6dFk1MUVqY1ZQeUJUdHNWM3Fmb2M?oc=5",
+      "source": "Bhaskar English",
+      "pubDate": "Fri, 17 Jul 2026 04:32:25 GMT",
+      "ts": 1784262745000,
+      "topic": "Customer-Facing Industries",
+      "query": "new hotel launch India"
     },
     {
       "title": "Moonshot AI touts world’s largest open-source model as China closes gap with US",
@@ -1277,24 +1358,6 @@
       "source": "Times Square Chronicles",
       "pubDate": "Fri, 17 Jul 2026 04:02:32 GMT",
       "ts": 1784260952000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
-      "title": "Inside ClouDee ONE Redefining Customer Experience with Voice, AI and Omnichannel Built on a Unified Data Foundation",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlUWtBOWhUQ0dhOERjTDRuNWh4VGVwdURYWjVkZ0VrQTdza0dEc2tlR25xbS04bzVCS2NXd01LZHhJeHJBNXlkaXlvUHhtT1hQU3FLNDRkTEFtQlFLUWZmcjR5R3EyUWVTcjBSallB?oc=5",
-      "source": "Techsauce",
-      "pubDate": "Fri, 17 Jul 2026 04:02:05 GMT",
-      "ts": 1784260925000,
-      "topic": "CX & Market Research",
-      "query": "voice of customer"
-    },
-    {
-      "title": "AI App Revenue Is Shifting Toward Utility-Led Subscriptions",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjJwT2stU2Y1US1pVWotakkwOWhRd2U5UFZpSDhVal9lQTczS2tNZ0tpczZ5MjlJMmdYUUpKSWFNc05mSjFnMWRCa2JhSVpoUUs5STQ4UW9KOEs1LXRLTUVTSThUMFRFOFcyMlppcURGcFFDZXVOcTFqRk9mcDZuVUVyNm9Ed1FRdGl2REpYNjBaeW9aRE9QMGgwOTBDUmVtN1BybjIzVGpfQ0dhckNoOEI0Wld2X0FZbUhXRnJqRFJISjZ6RzBLTEJR?oc=5",
-      "source": "marketingtrending.asoworld.com",
-      "pubDate": "Fri, 17 Jul 2026 02:32:04 GMT",
-      "ts": 1784255524000,
       "topic": "AI",
       "query": "AI trends"
     },
@@ -1353,15 +1416,6 @@
       "query": "new AI tools"
     },
     {
-      "title": "Watch Apple & Nvidia Battle & the Business of the World Cup | The Close 7/17/2026",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VYkRJemZqd0FwaURJWE1UYk1fQ09HQXM3VFlFa05VWXpTWlEzNmNmcDRXemY5MGFoZVRtNGNkYVV3WkJXZjl2aS11NnR6ZnRBMTItbWRsNURJTE45dHo5dlMtVkdhSDFleGh6OWNCZWc2dXhyaGJXNlhHUEFGUTQ?oc=5",
-      "source": "Bloomberg.com",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 GMT",
-      "ts": 1784246400000,
-      "topic": "Business News",
-      "query": "world business news"
-    },
-    {
       "title": "AI Agents for Market Research: How Modern Finance and Strategy Teams Gain Faster Insights",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1U3MTItbGxCVWNKTU5MbjZDbklzbElaU3E1SnZqUkpkcmF0bENfWmFfa3dmZm1ad2QzQ1dpM25aQWhieXRPMVBvMFdLMFFtTXhwcEdRdTdNNGdRZWpIVkJ1RERsNnlMdmhzUHgtcGtvSlpyd1JlTG5SQnZVN0JwRTlNeUloa01Sa1BrczdkQTl1VkYwdllCVzB6N2FEVlZ3R3pJdGliVEU?oc=5",
       "source": "Corporate Finance Institute",
@@ -1371,31 +1425,13 @@
       "query": "market research industry"
     },
     {
-      "title": "Tuberculosis drug discovery gets smarter with AI at Texas A&M AgriLife",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdoZ3lLN2lLOUowbE8zaFlZM2tXaW81TUstZzVoOUZsZmM3RkV4dEJOVjMtcGk2MHJOd2FWdE5SanVMZmJqLUh4Z3U5Z0haLU1fR05ucmFiZWJqSHlBd1A1RXpvSi1CXzdxRmVQRW9TS2p0M3FIdnd1NDhDY3EyZ08tODRqRGtJMDFvRVROTFN4R1ZZSjhMZTA2eEswSVozQldxaU84V2RQRE1sS0htelZn?oc=5",
-      "source": "AgriLife Today",
-      "pubDate": "Thu, 16 Jul 2026 21:49:40 GMT",
-      "ts": 1784238580000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
       "title": "Roblox announces 'Build,' AI tools that let anyone create games",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ubmlRaUIzQnFPaVFaQkU5Vy1sM3ZibHBQWkhrSks5QmRSNU9rOTlyekJYTS1pSUJrdWZLZklKSl9wNVA5Y0dENlJWZUk0TDdKWDVOQk5VbFRVWElGdWp6TjBOT2JNc3JtdDF2alU4Ri1FbkEweW9YMklhYw?oc=5",
       "source": "Mashable",
-      "pubDate": "Thu, 16 Jul 2026 21:23:38 GMT",
-      "ts": 1784237018000,
+      "pubDate": "Thu, 16 Jul 2026 21:13:24 GMT",
+      "ts": 1784236404000,
       "topic": "AI",
       "query": "new AI tools"
-    },
-    {
-      "title": "AI Supply Chain Security",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBS2RqMlRzcDUzRXh2OG45eTNnb3Vsc1AySFhaM0tRTXVOM3hDM2M0MmRBMjQ4VEExaXlPZTlGRjFoRXBLQUhPcmtQRTVXRnNvMXM2eU1qR0JJdVRZZHJsYy1vOThDRkMtc1Rn0gFwQVVfeXFMUEY1aXNwRUlmamhmVVl4RkpjUDVteUxPWlVQd0UxT2tnNnl1eTJSajlFeFBhRHQ3NVF3c0xWV3Znc0FLbng2b2N2QUZNNGI2QlFpR085RzRhQkc3Vmp5Und5YTJwUjdLYU92b0M1UThPRw?oc=5",
-      "source": "Trend Hunter",
-      "pubDate": "Thu, 16 Jul 2026 20:54:27 GMT",
-      "ts": 1784235267000,
-      "topic": "AI",
-      "query": "AI trends"
     },
     {
       "title": "Global Structural Health Monitoring Market Size to Reach",
@@ -1414,6 +1450,15 @@
       "ts": 1784232120000,
       "topic": "Brand & Vendor Opportunities",
       "query": "new brand launch UAE"
+    },
+    {
+      "title": "UCSF Health launches AI incubator to develop health-care tools",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa2diQUs2ZVFYMXZMeWVOLWhET2EtdWNmaElUSUtwY0JWWGFhZ1Rnem1LWGFqdThWdXp4WW0tR1dqT1FySHFjRV9tV2dMOGgyOXAzdWtDdzNJQ1c1djlHWWw2VkVRNy1iQUo4RXdlSzY2Mm0xS0N0VXo2VzFZOGUzODR6a3ZNYzJBNGxzZ3BXMVQ5YWlKc3VaZGdpRUFjM0pJbEE5WFpUSXRVTW4xMk1TYmhhVEVMY2ZHbDEwekN1eExVMUl5OGNHM0Jra1pveUNkUGFGLWU2UVJtUXdoLUVWRkpDdnhRRDFacDB2TA?oc=5",
+      "source": "San Francisco Examiner",
+      "pubDate": "Thu, 16 Jul 2026 20:00:00 GMT",
+      "ts": 1784232000000,
+      "topic": "AI",
+      "query": "new AI tools"
     },
     {
       "title": "What Employers Need to Know About New AI Hiring Laws",
@@ -1479,22 +1524,13 @@
       "query": "new AI tools"
     },
     {
-      "title": "Book Cover Design Services Market Research By The Business Research Company, Highlights Future Industry Trends&Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM2F5NjkzNXV5UDBBV0RjaWdwaEVIZW9CN2U5QVFILVhTNGVHX0Jla0FwNzFCMDZDOFpJRUxsVG1kMTZfR0NTcXBzdzFrckxSeFlLNzYwSHR2dzRmVnVGTEh2WWFqVVI3VzN0aVdUNmQtQmhGMkJGREFMVnVQengweXBZT0REVWd6ZFh2UE5kRjRORDhkNnZoT3RCVzlHTnNhV19MUXBrT3dkaGhfV25rYjNGbW5UeDJUcXBGRlVVSmZfUnpMRU5EVWRoeWhCM3ZMYmJQUHdWcjRjUXFnZnR3N3Vudm94YXluZk5NN09qWXJrYTg?oc=5",
-      "source": "EIN News",
-      "pubDate": "Thu, 16 Jul 2026 16:48:00 GMT",
-      "ts": 1784220480000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "SpaceX IPO: Can It Defy Historical Trends?",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfdmViaWsxTzZERHpHOEpMS2thMENzam16NVpMRUhTUHNzM1p2Nk9YVk84amJJTWZHeldId2VndUh3N0xqLUUyenpWNHZnVUlsT0hxNzFWMnlJeUZGVUh3eURmZGJIUE1IT1JxVjBRT1pJSFlVd3hn?oc=5",
-      "source": "Intellectia AI",
-      "pubDate": "Thu, 16 Jul 2026 16:14:07 GMT",
-      "ts": 1784218447000,
+      "title": "Roblox’s New AI Tool Builds Games From Text Prompts",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTB3UTRMcmZZUHZISjBRTE1YUk5qR1czSFFhMVZvcEhCQ2V3MldQQXpqTTZBc0d5VHk3TnE4MXVWYmMySTEtUmJCd0lHaXUzMG5yMmRXMGJtSDhWTVFBbkVMaEJ0dkdWeVlRZ0FpcnBkQ042RUZmUkN4bXBDSXFOWFNzcGM?oc=5",
+      "source": "Insider Gaming",
+      "pubDate": "Thu, 16 Jul 2026 16:54:43 GMT",
+      "ts": 1784220883000,
       "topic": "AI",
-      "query": "AI trends"
+      "query": "new AI tools"
     },
     {
       "title": "AI Advertising Boom Could Reshape DoubleVerify Growth Trends",
@@ -1524,38 +1560,11 @@
       "query": "luxury retail India"
     },
     {
-      "title": "Brazil tariff shock underlines risks of rushing India-US trade pact, say experts",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmhzbkxpRHBURDdDdVpIX3poYUItVDFlaGhwbmxHeDJndG5zZ2t6TlZsb0FnYzNLa2tMOGRreGN6dUF1dDhPRllPSHZsNi1rLTQxQm83ZExXZUxOSXdXRm5QaTYzR1h1b1A2Z0hUNGJRWTNSR2VPZ21ab2VtaTB4am5YQmFqOXNfSHRYdEtwUVo2UFdKVEhtQXBuSlNETFh3cV9ySjJMei1wSXpFNElEbkFKX1IxMktNd3JjNTNsNjlXdTYxazJPYTlEaGh3eUotRmFDQUJabnNXNEF30gHjAUFVX3lxTE13Y2M1Qmw0aGhvMVJOY3BZRjZhM21GNU94Ykx4cDlXWE9jWXpVeTVpZ2RqaF9QTmpnMVBGWEJ6Z3NoanYxLXVIWnA1Y1cyemRfMXJONVdxNXpUX1ZWR3FNeHFqSWRFRWV3RVZXWGV6MHpsMzF6SzNOeDdrdzdPWHRDNXdLeU1OZVBwSjRudmUzY3I3S196VnBjQWF4dG5qZmpZZDRiTllUQ1gxdTBrV0xJQU5XV01PRTBvbU5rQWpYUllWd25nTWpMMHpPR1lQNzVvSzNBYThjem5hcFctTGR5Q3lJ?oc=5",
-      "source": "BusinessLine",
-      "pubDate": "Thu, 16 Jul 2026 15:17:16 GMT",
-      "ts": 1784215036000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
-      "title": "Blackbaud Unveils New AI Innovation for K-12 Independent Schools with Admissions Agent in Development",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWxXVHUzSVRxWkRZU3NNc0RGdUlDbGdFWjE2NFlVeXA1dnZnTWxxb0tMM0ltckFmbG9uWUNTT2ZhbHBrSnpkVWpQNDRCU3RTQVdrS3QwRnhVYXBsR1RQR0sycUY0UWRUaG10Q0M2UllTdnBzWGZQLWM1R0JHQ3pQNWN3STIzRUtDWTFlUjlpMVRZbFZJMXlUTlNNRXlHRS01ejFpWVNyVzRuVkVybHRZSDVHSThFZUdGZ2xlT0paM2NQeFNfcG1DOWFXVnNkUU9lSmZscUZra0lBcmZaeVFXSU9VTE1DWTJEejVQZg?oc=5",
-      "source": "PR Newswire",
-      "pubDate": "Thu, 16 Jul 2026 15:00:00 GMT",
-      "ts": 1784214000000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
       "title": "Roblox (RBLX) Introduces New AI Tools With Build Feature for Gam",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3ZEc3NlRGpweG1nbkZwcFJQUDRWWFl0elZKdHZvRmpfek90NG9ubHQ1bng2dXZvbWRqSmY2VUVUdkFfbWJqckhpenoyY20tNmdjTWZEbzB6WWpwaG1ua1ByRWZ5cWlwU2JBWGpRMEtQZE9OTnN3Nnh6WENFVGR1eUZERHF6WlVPcHNEYi1ER3dwb3Nta3plLUhXLS1tdHRYU1NCWkVDM3dnX3ZpQWFVbA?oc=5",
       "source": "GuruFocus",
       "pubDate": "Thu, 16 Jul 2026 14:49:00 GMT",
       "ts": 1784213340000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
-      "title": "Managers play critical role in a company's AI transformation - and they know it",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEYwNHdkVFpuU0FZMlZXQzNoQWZDQUphX0ZqcEd1ZENjMWxaZnBFa3VMR0dvZnRxaWNZbTI1V3ZHeDF4SGY1U2JYLUI1ZjFkNGF4Yy02RnRzR0lLVFdxVlpDY04wRmNzcTNKd3NqM3pONFZJeHNSTWN6MXpXbXJaOVVqQkdPdw?oc=5",
-      "source": "ZDNET",
-      "pubDate": "Thu, 16 Jul 2026 14:20:00 GMT",
-      "ts": 1784211600000,
       "topic": "AI",
       "query": "new AI tools"
     },
@@ -1587,15 +1596,6 @@
       "query": "AI trends"
     },
     {
-      "title": "Stress Recovery Additives Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUZaczdhdDZYUnZTUUxObWt5NEVDU2t1eVVUNmx5ZlMtRU9oTjhiNFdWZVFyWXl1am9ZaUhXSkdkWm9laHdydFVuc3hsaS1sU0l4bThQUjZ3SnpRNm1Wd1lzTkJUUV9iYzFydDRicDM3dUQ0YUh0ajVtNVIxYVhiNXdTMA?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Thu, 16 Jul 2026 13:19:41 GMT",
-      "ts": 1784207981000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
       "title": "Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence Across Grocery Retail",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODlOb0lqT1JyYWN5QU1Mb2hadzYzRFoyRWVTcFJQNHNPbUZDaUF4MUpLT0MzUVdJSjNNU3FqeDlZa28xRnk1eThzMDlDR015UGhxNGtfR3NjWmJzaXV6TDVaSnk4d0RlRTRWTG43MjNmMEl2b2Yta2hNekxiT2xyaU5vdDlHV2ZLUWc1OVY4MENSanFrUmx1V3dYNGNBMVF5MXpCVHVVSEZFblVUY2dNNDFDLWIzTlZ6d2VnWVloN2dGWTdMbGNaSWc5d1l0alFONmsyV08zTjBvWEFqaHhlUUw1aw?oc=5",
       "source": "TradingView",
@@ -1603,15 +1603,6 @@
       "ts": 1784206800000,
       "topic": "AI",
       "query": "AI customer experience retail"
-    },
-    {
-      "title": "Network Solutions Brings Leading AI Tools Together for Small Businesses With New All-in-One Subscription",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNekhWODA3R3BqUmh5UDlPY0dlR0g0MVRXM0NCUElnVkd5U2JZWEFHcUR5YmJ5a0t3cjdZZTA4R3J4cTdPY3BmU0I4VVpBR2o3aDRCalJIQVhfODVCd3VMbEJRNGVBV2tqaGppMklIZVhDY2ZLVUxKT1VqNlM0WTZiQTNjbVhYX1Zacmp1cmt4ZUpxelV6MHZKS3NNN3pyRkxSSWpieWowZTV3Y1VOOHNENU5vZENnRVhZSUFCdUQ2U2stZlk5eC04Zk14dkpYTXc1WVlCSk16UFpCcU9HY0lCSkxzcGJMYllsbGpRaDZHN3Z0TEtZNFlkRA?oc=5",
-      "source": "Morningstar",
-      "pubDate": "Thu, 16 Jul 2026 12:00:00 GMT",
-      "ts": 1784203200000,
-      "topic": "AI",
-      "query": "new AI tools"
     },
     {
       "title": "Google rejects alarming report that says its Search AI tools are unsafe for kids",
@@ -1677,15 +1668,6 @@
       "query": "new hotel launch India"
     },
     {
-      "title": "Layer Output Boosters Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZ0ZCRkRycDZtVnJ4MkVYTXJrcnF0bi04cE5zOFlrb3FJT0NESVZJR1lyXzNMUFlhZjBfLTk3Rk14N2RrQ3BHVWV1a0pyRDUtUzJJbG9vbVB5LWw4aWxlZ2Y4SWlaMjg4VDBodXFwcHNwcTEwYXBUZ1lmWGNfUQ?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Thu, 16 Jul 2026 10:39:29 GMT",
-      "ts": 1784198369000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
       "title": "NITI Aayog charts 2047 roadmap to expand India's Bioeconomy to USD 2.6 trillion",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkU2Yzl6NnAxQkZXMlAzMHVtVXItYUhRVERZVUpwWjNrRHdURlZHTndkdWIyZkZ3OWUwYTNpVm9Yc2xXYjhwRUpTMzQ4bHhWSnRiZTYzM3pPMm96cUtBSVNuWmFNZkVkTW9qV3hXaXJoQy1TV2ZjU3hxeG0tMklzNS1NQnVfcXozQkREbzQzVXFCeGpoYVF4M0hqRG5TZkw2WnZnTDBuaUh2amIxeFd1U2NuZm4waXVrMWJzUnVMeDM?oc=5",
       "source": "Awaz The Voice",
@@ -1693,24 +1675,6 @@
       "ts": 1784197847000,
       "topic": "Business News",
       "query": "India business news"
-    },
-    {
-      "title": "OnePlus may exit US and Europe as Oppo major business overhaul; India next in line?",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck1iSDBHSkszWjlOTy00Q20welJ0YUpsbXhOUnUyM1U2UHdXZlFWbmFUbm1lZEhMNWNuQkEtb1loNEhFZFN0cDhQNUZlWnRFOU5kTHo1U3B4a0dmNHFzdk1VX0xZeXgwNVpfemhFNDllUmFWZ1Nna1JZeGthVFZPS2V4QktTTXljSUM1N3BpSWZMSFU5M3VUUU9wcFPSAZwBQVVfeXFMT3JNYkgwR0pLM1o5Tk8tNENtMHpSdGFKbG14TlJ1MjNVNlB3V2ZRVm5hVG5tZWRITDVjbkJBLW9ZaDRIRWRTdHA4UDVGZVp0RTlOZEx6NVNweGtHZjRxc3ZNVV9MWXl4MDVaX3poRTQ5ZVJhVmdTZ2tSWXhrYVRWT0tleEJLU015Y0lDNTdwaUlmTEhVOTN1VFFPcHBT?oc=5",
-      "source": "PTC News",
-      "pubDate": "Thu, 16 Jul 2026 10:29:36 GMT",
-      "ts": 1784197776000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
-      "title": "Layer Health Additives Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kS3BlQ2FrRzJhMHlOeEljTWgzbFFzYXBLRHl3bDFtSG1WaWxXa3R4VnpPUjdtV0RGbnlWdmVBM3VOSHVnbzhqZi1kRTQyTzRQcC1mNkhEcW12VDlrSklvV3NHQk1XMzFMakNrMXZSZUFfSE5VSlI4MVVXdzdETkE?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Thu, 16 Jul 2026 10:29:29 GMT",
-      "ts": 1784197769000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
     },
     {
       "title": "Customer Connect Expo 2026 in Atlanta Now Spotlights How AI, Customer Experience and Digital Innovation Are Reshaping Global Travel, Aviation and Hospitality",
@@ -1731,6 +1695,15 @@
       "query": "market research industry"
     },
     {
+      "title": "Indian IT growth to stay muted amid AI: Crisil",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmpIMWFxV2NRQ1VmdlNmMzhhT293ZDc2V0hKTlJoWHlmQzhwOW95Sngxb0JpQXBtQVZMQlhiLURzUzFwdGl4U0lGOUV6czBQR2Y1dUdzSUF0QVFMSU1HeWREMGF6U2NIVDk1YWptWVVIV1hSaXJrM21oSFE5NzBzRkJUT0wwcmRtbGRjU0Q5bXI4VndDVGVyUHJyRTNXUEE?oc=5",
+      "source": "Awaz The Voice",
+      "pubDate": "Thu, 16 Jul 2026 10:14:58 GMT",
+      "ts": 1784196898000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
       "title": "How Town Became Silicon Valley’s New Favorite AI Tool",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGNHaWI1T3UwWndZUTh4MUZsVVQ3RVhNaldnVHFBRUZvMWhfQzBaSW0xdllSZm9LenBZUWE4Y1Y0R0xyclhnRU1IaU5oaWZXUGdWOWZLNGJRMmVpUlhmVHprWlQwMThTTVZoNHlLOENkVmFla0NvMFl5cktVRzh0Q3lYektNdkhmZ3NMMGNKX2FUU2Q0ZFJB?oc=5",
       "source": "inc.com",
@@ -1740,13 +1713,13 @@
       "query": "new AI tools"
     },
     {
-      "title": "Gut Defense Additives : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bExrOTdHWEtyTXIzaUdkYm90bTB5bUhhUXFEcGs1QXdGVlZubzdiaHZMVkhPUWNYbHBMM2VIdk9NbnpGRE5lTjlsTzVzZ2pnUHJWUmdZbGVDNzJrclQyTTI5OEkyYlJqWEhDVUp0YTVDdkNvaGNRNHVvMllmdw?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Thu, 16 Jul 2026 10:04:29 GMT",
-      "ts": 1784196269000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
+      "title": "19 AgentOps tools for monitoring AI activity, issues, and costs",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTd1MzAzWVZaMGlHamQwZXAteGpKOEZzd2ozaUthYWN2ei13WEhHem12WGN1YThMZ2V1YXlvaVVMM0RfUnpTZ0pGM0d0ZmxsOElubEVzS3VUNmlGQzlkamh3U1ZJMHFkYjZGVmlURV9BYm16ZXpyczVuaHpRNHg3d1R1bjFXTnFHemVXamlCM3R5aldWbEozTnFsanlGeXRiRTNhdg?oc=5",
+      "source": "cio.com",
+      "pubDate": "Thu, 16 Jul 2026 10:05:09 GMT",
+      "ts": 1784196309000,
+      "topic": "AI",
+      "query": "new AI tools"
     },
     {
       "title": "Finding the best AI tool still requires talking to humans | Opinion",
@@ -1794,29 +1767,20 @@
       "query": "new AI tools"
     },
     {
+      "title": "Africa Hotel Pipeline Reaches Record High",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CX2Rsd00yOEx5OU81SE1POHduelFXUHJrbEJtaC1ZbDI1QlpJcWhTYXotYnMtWUpNelpKc0x3YnJ5QmxYMi12WVk3RTAway1JcjdSMDR4Vm9CTm1oTFR6MENTa1BJc2dXX1o2RDF6NzlrVGJW?oc=5",
+      "source": "safariindia.com",
+      "pubDate": "Thu, 16 Jul 2026 09:51:30 GMT",
+      "ts": 1784195490000,
+      "topic": "Customer-Facing Industries",
+      "query": "new hotel launch India"
+    },
+    {
       "title": "Ramee Group of Hotels Signs New Hotel in Gaya, Bihar",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OeUl0OUJ4UndpVDJiVk1fSTVqeGpBa0VubE1Jdk8wU2xycld4N0Nzd3EtNkx1U2k5ZmpEbS1kWmZ1VWltLXR4dmo5ekphd3ptWjJndktoOHczckFXLUVqZmtLSkVFQ2owWUhSMkZaSWI?oc=5",
       "source": "safariindia.com",
       "pubDate": "Thu, 16 Jul 2026 09:44:03 GMT",
       "ts": 1784195043000,
-      "topic": "Customer-Facing Industries",
-      "query": "new hotel launch India"
-    },
-    {
-      "title": "Titan Opens IRTH Luxury Store at Phoenix Citadel, Indore",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFN1Yl9FYUlpRV9rVUZnUS16dkFNREhnZnl6QU5yM0w4U0p6dXBNNlc3cUh6NEIxZlFMT3lBWDg2Zk9DS2dTTGt0WTVKbnhpY1NKWjdUUDN5NUg2MDBSQ2VINUZuMjYzQnFua0l5UlQ0NUJSamN1WjV6WHRMcGprQTJRbzk0ZVdKU0RrNGdOVG5xQQ?oc=5",
-      "source": "Indian Retailer",
-      "pubDate": "Thu, 16 Jul 2026 09:43:59 GMT",
-      "ts": 1784195039000,
-      "topic": "Customer-Facing Industries",
-      "query": "luxury retail India"
-    },
-    {
-      "title": "Courtyard by Marriott opens first property in Andhra Pradesh with Tirupati launch",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45Mzd4dml6emZqSzNCUWNnZWtaekcxdjVWR0dJaTJMLWY2dXF6Q0Y4VUhnTzBwUThXdXgtSHo2OU5ndlVBNTl2YUl0cXc4SEMxZkhSQ1lkV0laSjI3dnBYS0lpSHNjVHdDZ0N1LTR1YW9aQQ?oc=5",
-      "source": "safariindia.com",
-      "pubDate": "Thu, 16 Jul 2026 09:43:48 GMT",
-      "ts": 1784195028000,
       "topic": "Customer-Facing Industries",
       "query": "new hotel launch India"
     },
@@ -1830,22 +1794,22 @@
       "query": "real estate customer experience India"
     },
     {
-      "title": "IHCL Launches Ginger Hotel in Kota",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ielRxYlhOQ2hmWV9ic3VLazNqa2V6NzloRDg2UnR6aVZuZ2toTDhwNm96dVAtMkdEdTZQNWcxZ2NuTHAzUS1PT1F2OEVpQklOQXZ5N014N01ZenJ4UlZBNFVSVWZzS1I5dTBn?oc=5",
-      "source": "safariindia.com",
-      "pubDate": "Thu, 16 Jul 2026 09:35:22 GMT",
-      "ts": 1784194522000,
-      "topic": "Customer-Facing Industries",
-      "query": "new hotel launch India"
-    },
-    {
       "title": "Trends Report 2026: AI, subscriptions and digital payments reshape Asia Pacific e-commerce",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZktha01rZXRER0JzQy1Jd0ludjFyQ3FITjZqczhVdTVNVDlQUmE0S0V3NVR0VkVKeUhfVWNocUtuc0VBbDB1RExFaEV3UE9NSFNGMlg2cFE4UHptZWdSY291cDZpMjRLYmpOVzNZUEVXVTBBajJvUFozVm1qLW5yQmVkQzRsbFhLRDRTand0dHNQMGZURGR0MXRkRmJwaFUzT2d3NmZxSWtfRlpVVzRvMUp6My1hZFhTVkNlRm5WQy1POHhmdWtzQjNldTBMNFowYTRF?oc=5",
-      "source": "ZAWYA",
+      "source": "Zawya",
       "pubDate": "Thu, 16 Jul 2026 09:32:33 GMT",
       "ts": 1784194353000,
       "topic": "AI",
       "query": "AI trends"
+    },
+    {
+      "title": "Mayo Clinic speeds patient reviews with AI tool Record Time",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jUWNINnotYW9la2NsOW1FRUNOOUVUQl9QMU11Q1RPWFZLMU11QlVabF9MNTMwTzhFbnUzbUtrZ1ZGZ0FucDEtdHM2NHpLckdWbzlHTWt2NFRHVlFYRHFKYnE5aks3aDQ?oc=5",
+      "source": "Межа. Новини України.",
+      "pubDate": "Thu, 16 Jul 2026 09:31:37 GMT",
+      "ts": 1784194297000,
+      "topic": "AI",
+      "query": "new AI tools"
     },
     {
       "title": "One of the world’s most prominent hospitals is testing how AI can revolutionize health care",
@@ -1855,15 +1819,6 @@
       "ts": 1784192425000,
       "topic": "AI",
       "query": "new AI tools"
-    },
-    {
-      "title": "Emerging technology trends brands and agencies need to know about",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTZtSU1rbWpscEJxajM3V25nQy1GZ2RWUmc1cUtyR1RJUTU0MGwtdHlBYUNDQWhXVnVmWmtuN2E2eDhpX1h5ejJxUTNxUkg3QV9GWkctbzRSNm5DcUx4OTFfRlVVTkt4b2VuTUdFdjIwdGhQZ2JuZW9MU3YzZWNJOVJiTDVSc2Q4S1JMXzBsTk9RdEtwRlMxN3ZZUkNLRVMxRjJtYjNHLW5Fd1VmRmhwRUxn?oc=5",
-      "source": "Ad Age",
-      "pubDate": "Thu, 16 Jul 2026 09:00:00 GMT",
-      "ts": 1784192400000,
-      "topic": "AI",
-      "query": "AI trends"
     },
     {
       "title": "AI flags more than 250,000 suspicious cancer research papers",
@@ -1911,15 +1866,6 @@
       "query": "India business news"
     },
     {
-      "title": "This AI doesn’t just translate languages, it invents brand-new ones",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWkwdTdYNDBCWVJ0aGM1ajk1a0Q1YXlBRjN0Q0lCOFhZcGRoemJBX3ZEdkNYMGxGSVI2aXdMQXR5Q3E5TFp5Q1pwaFdESkc0TlhrWEUxUTc5Y0V1QnZGTHZOZHo2YTNuR184ZHZvR3BMbjZOTjZoTmt5MjF5amJGYTU0MjR1Q0ZKa1Z1RXlDQ2ZFeXU0VTdFc0w3amJ5SHlManlwVnVpLW55Zw?oc=5",
-      "source": "Digital Trends",
-      "pubDate": "Thu, 16 Jul 2026 04:48:17 GMT",
-      "ts": 1784177297000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
       "title": "Why Asia's new AI workers are emerging as a cybersecurity challenge",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFlIZGJ3QWxZYm1uRmtTREpxQkJ6ZXcxMTBnTXRQOW9GeFVjTDU3bWxKWmtBS18tdWY2TUJrSnJ2THBLX0I2WHFuSGdzTl9mVUNFbThPaDc3N2N6ZjdmMExVQ3plbUtDZ0M4ZHBWNHIzMlZ3S294Y2Vkb3l0TEk4UzNaMHNvMzZyWV9CYmdLSkUyVU1zbUpsTTJ3?oc=5",
       "source": "CNA",
@@ -1945,6 +1891,15 @@
       "ts": 1784161934000,
       "topic": "Mystery Shopping",
       "query": "mystery shopping"
+    },
+    {
+      "title": "AI Knows What You Did Online. Now Your Employer Does, Too.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkxRR1l2S1Nvb3RuVlJwUWVBYlhOU0QtaTVUakhQNW5XTGtYWi1XWDdVRjBPWlUxZmF2TUEzY1pRTXphTFN2Y2YyUmNFMnBjbkxFOFdXRThtWS1CS1ZnQ0dVQUFIZ3hyMWZvLTdNUHpzUlltUWFMN01OdmpKekVvbHF6ZVBLV2ZKTXZoWUwzd0tpNGhOM0lPeFlQQkJzUjJRbEc0Rw?oc=5",
+      "source": "WSJ",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "ts": 1784160000000,
+      "topic": "AI",
+      "query": "new AI tools"
     },
     {
       "title": "The New CX Operating System: Predictive Signals, Not More Tech, Drive Value",
@@ -1992,15 +1947,6 @@
       "query": "new restaurant opening India"
     },
     {
-      "title": "A.I. Music Is Already Here. To Protect Human Artists, the Record Industry Proposes New Labels, Like Those for Explicit Lyrics",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUTN0VXJUbnlSVzJiNWZHMEF0bFZ4Ni1lSjJsWGpCZVUwUGF6OFRjTl81V1RycEdSMkJvclNrMVhIVkJoak1ZVVl6QjVEYkFmT0RoSHJWSWpJTEY0XzBkbWNyakdiYWc3eVBZVGFxLTM3RFNDYUcwU09pMVJENy1MNFZoTll2dGIwb1BsWDZUR2dsSl9wWEhFcXBiNERRTU9sNW5ubGdDRlBwRTBHNk90R09aU3ZLRUlaaTBkWUlTcWg1R1lMeFpyTTFSdC1rNUEydFRtQzRfMTZsVmZvV0I2MzF3OGhYN2dKN3FhYzJBcGJGWUlrd0VGVTZIZS00ZkVpRnl3Yk1zdw?oc=5",
-      "source": "Smithsonian Magazine",
-      "pubDate": "Wed, 15 Jul 2026 18:47:10 GMT",
-      "ts": 1784141230000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
       "title": "‘KPop Demon Hunters’ Takes on Blind Box Trend With New Mystery ‘Ramen Cups’",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckZ5dzV6VEY0WlRsdGpxeWIxRVRDcEx4QkRNb2VLOU16ak5PVTZKeU9ZZ2RBN2ZpUXI0TDFsMDlSSXVsYmlmV0hJLTFyU1dEYUlaN0VUTy1OanRKYlpjNjVaS0xvTHp3TlNVVTFVaC0tbGpyUTBsdkRUM0ZOQ0FhNlg3T1BNWkV5clNoa0E3c1E4dDI1VVZV?oc=5",
       "source": "Yahoo",
@@ -2016,7 +1962,7 @@
       "pubDate": "Wed, 15 Jul 2026 18:16:26 GMT",
       "ts": 1784139386000,
       "topic": "AI",
-      "query": "AI trends"
+      "query": "new AI tools"
     },
     {
       "title": "AI Trends in 2026: Investment, Competition and Adoption",
@@ -2037,33 +1983,6 @@
       "query": "market research industry"
     },
     {
-      "title": "The Face Only a Camera Could Love",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWd0OHpQdUhac0ZQVWZHODBGbE1QeEhxbGQwQm05b3NockxwVDg2eFBpVUptVlZ3YkN6dGU1SmYxMERlN0ZHY0xSbHQ2ZmxrdzFzcndiSjhVUHlrRVlKTGlNQkI4ME9XRkxoOXNBVWpQTU5vVTE5c0xxMkhhUlE2bUttd21ZMF9ZcFpNYkM5UHphRFVIWnZHc09zRW5XZGN6WWs3MDJSeEt6NWJkdUN3djBKS3V6SnM?oc=5",
-      "source": "The Hollywood Reporter",
-      "pubDate": "Wed, 15 Jul 2026 15:31:34 GMT",
-      "ts": 1784129494000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
-      "title": "AI Tool Accurately Predicts Need for Posthospital Nursing Care",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUJDbzRZbWdlUzZZbllIOS1ZN1A1T1BUSFBmamkzek1VSFM4SEVqTE9hbWtla2wyN3lETDdBZkZHU19BcFZkVC00MmFncG9TT09IMVJ2R3Jhdmkwb2lVZEJtT25scHJ3XzA3ZXlCZ01rQXJ3ems2TjNmeVFwc0p5M25odElIUVFldmN6NmZoVQ?oc=5",
-      "source": "NYU Langone Health",
-      "pubDate": "Wed, 15 Jul 2026 15:12:46 GMT",
-      "ts": 1784128366000,
-      "topic": "AI",
-      "query": "new AI tools"
-    },
-    {
-      "title": "ServiceNow Faces Positive Trends With AI Disruption Concerns 'Overdone,' Oppenheimer Says",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTE2WngxcmlHTks1TlVwVHRveUx1THFTQWNCYm81bGtta25ERXJxV3psSUx2MXdRWmNOZ21zYnp4RllDaXh0X1pqOEhOclFLN0lqLUhhTUhvc2ZWRXh0UHFRMEZCSVNuZVBCN0lFdjVBMWRiRU9VSWxib1cwdkEtLVlFMV8yVEpVRkNYZnUxTEU0eS1YV09hcXVZOXk4YWRQMjJFSFRPZWZwTXJRbVk0dHZkWS03Rl9xQnRSeENMcDU?oc=5",
-      "source": "Moomoo",
-      "pubDate": "Wed, 15 Jul 2026 15:04:02 GMT",
-      "ts": 1784127842000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
       "title": "Google Images Gets Biggest Redesign In 25 Years With New AI Tools",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnUnFuTzZkLWNIZXJYWWpaSXVRNkNRNTkwZXpOcHhDdnRlRlJ5SVdlWTg2NkYtaHZIRklmdEFCU3hkbzIzQlJzT2pKQXktcl9XclctR2ZEZWZUVFdQYml6SFliZWhZbXZvRUpoMkJrbDl0WERqOGlkUw?oc=5",
       "source": "HotHardware",
@@ -2071,24 +1990,6 @@
       "ts": 1784126280000,
       "topic": "AI",
       "query": "new AI tools"
-    },
-    {
-      "title": "Clean-Label Animal Feed Additives Market : Global Industry Analysis and Opportunity Assessment, 2036",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVlia29NNHJGZ3BuVlBIckFfM0dzTFZYTzhValBDeGJoRkJJbUZJdEJfakgweUV2Nm1TbXhnaFhXUU5hTGNMeFhQdTFpcFVoTGdXSmJFUmYzTUJrekd1YmVxV0NfZEZNc0Q5QTduUC1JZVpqb3NUNWZvWF9UZ1d2b0sxUTFSejBpNnpnVEpn?oc=5",
-      "source": "Future Market Insights",
-      "pubDate": "Wed, 15 Jul 2026 13:32:23 GMT",
-      "ts": 1784122343000,
-      "topic": "CX & Market Research",
-      "query": "market research industry"
-    },
-    {
-      "title": "Rime Raises $24 Million to Put Its AI Voice on Enterprise Phone Lines",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZERqNlNiZno5RWtlU3FCVjl5bWpFS2FoYmRyaUxreVdscmxWckxIRjNNNVdLaFRtUjBTTjBKMFh0dkppeHRGN1ZwSWc5Z05ZZnFiSTlFa010LThoOGotZzZodnJJZFdwVkpQT1p5RXk0clNVbk55VTMzR3J5WFlmc28wM3hialctSUVud2NsMVBEN0xHMU05dElJc0E?oc=5",
-      "source": "Startup Fortune",
-      "pubDate": "Wed, 15 Jul 2026 13:17:23 GMT",
-      "ts": 1784121443000,
-      "topic": "CX & Market Research",
-      "query": "voice of customer"
     },
     {
       "title": "Rime picks up $24M Series A to help enterprises field customer calls",
@@ -2136,15 +2037,6 @@
       "query": "new AI tools"
     },
     {
-      "title": "Katrina Kaif to Deepika Padukone: Here are Top 5 Indian Celebrity-Owned beauty Brands",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTUtQWx0M25VZHctUW04Y0gxc3VxbkFwWE1rVmhVTzJaZDlUZWlveTE1bF9fWnVvLUd1TFc0dWprek9JT3NvTWl4QUNsTzFTdTNEeVpHLXRMS3ozcndlVzJSQUZTaGFOY0FIRW5YLUV6R0ZzZzRMd0RMem5ZY1Eyd3QtVHBQdy1JanhveXd2RnlINWtlQWoyLWRxQnpvQ2FuM19LUnp5a2tsbEhpVVlISFVDdFNmdldaS2ZUWHc3a0pWUQ?oc=5",
-      "source": "Indian Retailer",
-      "pubDate": "Wed, 15 Jul 2026 10:57:28 GMT",
-      "ts": 1784113048000,
-      "topic": "Customer-Facing Industries",
-      "query": "beauty brand launch India"
-    },
-    {
       "title": "Hyatt Regency Ahmedabad Appoints New Spa & Wellness Head",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tMHdNcHVLaHNZSHJtWU9UZElzU0JPYjVzSXFiVllBRF9YM0JhdTVYMlRKNG84MkQtYlFEMlFrZmNaQjYzeWdab2JyVzVaZFVqUEpGQkZvMjlfX3dkcHdKVzlxd1RIYl82ckhMVTgzbjRpSXNi?oc=5",
       "source": "safariindia.com",
@@ -2161,15 +2053,6 @@
       "ts": 1784106444000,
       "topic": "CX & Market Research",
       "query": "voice of customer"
-    },
-    {
-      "title": "'It's deeply disturbing.' What a new report says about risks Google's AI search features pose to kids",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFQzc19KeGxKV2VjT0dGcDJvd2lPU1RWSFc4Unpqd2l1OC1RNFFaMG1KTnJKbWhhT1pYRE9JS3QxbTA5TTlBeFphR2dPYVlzUjhSc3dnRzN1YVUtLW5DMlpFUjRNVlc4TGVkNmw0bl9jV01RRW1rYnpXN2FYZU4tTmhCY2RKbDZmYXlWUlpzaW4tekhjbEpUSmxhVjd1dF9WcWpOekdsM0FGYVVBcE14NkJ1MkU?oc=5",
-      "source": "PBS",
-      "pubDate": "Wed, 15 Jul 2026 09:00:00 GMT",
-      "ts": 1784106000000,
-      "topic": "AI",
-      "query": "new AI tools"
     },
     {
       "title": "Fleet Management Software Market Size, Share | Report [2034]",
@@ -2226,15 +2109,6 @@
       "query": "India business news"
     },
     {
-      "title": "Gov. Evers, DWD announce nearly $900,000 in Fast Forward training grants healthcare, customer service, technology, and manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa3BVTExadXZLUzh5cUs2S3JNRlB0SEtLZmViaUx3YW44Skl1d19XamE5WmwyVUs0SWJtc3BCUGlKbGlaU2kyenRuc190b1ZLdUtoQXJGX3l4SWwzeXdjLU9VRnFoOGdrNzU3MlVmdC0zdlJlQlhDY01CUlJMb1o3NjNZdlBfdVZQT0xkLXpmQ3lKc0dTVEJlSzBxRjZLeTZWRG9WdDRqV3VOYnFHRkh2MG5mLXh6RjVTRW1DZWNfUzFBdjUzMHZ1YXQyMjllRHRRbWNXM2dYeHhBaFFZX1FBTl9xODhrdnhC?oc=5",
-      "source": "VernonReporter",
-      "pubDate": "Tue, 14 Jul 2026 23:11:16 GMT",
-      "ts": 1784070676000,
-      "topic": "CX & Market Research",
-      "query": "customer experience technology"
-    },
-    {
       "title": "'Should not have to beg': The target 20 major super funds failed to meet",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnBEZGtGYTI1VEdwS1R5U3Q1WWNfSjE3a1Fkd3VLSlliYy1wT1d5di1Bc2Q1bWFmU3k1aXg0N0VBYUNQbUtJR3J5MnVlODdHMk9KMlpwU0R2NnZ4bzZrMGZlNFp0VXkxaUpHRUYwY01QdGx4WUVHRThmQTZwZzlRVDd5bE52QTB2NHMzd2N4dUlfQmUtM0F3?oc=5",
       "source": "SBS",
@@ -2251,15 +2125,6 @@
       "ts": 1784055377000,
       "topic": "Compliance",
       "query": "FSSAI new guidelines"
-    },
-    {
-      "title": "Tanium Named a Customers' Choice in the 2026 Gartner® Peer Insights™ Voice of the Customer for Endpoint Management Tools",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ1VYaXVxaldQWGctSDBYcTNWZnl1QzBicWsyY2hDelVvak4tTWdsb0NqWE81Wjl2d1kxMlI2ZDVIMlFPZFNETnJvc0d1aVg1RDdtWDgyVThOQVJkalJhdEpBTDNVVGEzNDhDNTYwbms5dFJwTm9IS0wxVW42SnBuY2lxTE9sLVlfVll4Q19IeHRCeHNDaThpZUVvVUNnd3FyQnI5WGl5UkhFUk90ZTdCcUZnYTctcE5xRlJuZ3NrVG5nREFBWHFzc25mMUtqTlJyZDU2Rmdn?oc=5",
-      "source": "01net",
-      "pubDate": "Tue, 14 Jul 2026 16:51:00 GMT",
-      "ts": 1784047860000,
-      "topic": "CX & Market Research",
-      "query": "voice of customer"
     },
     {
       "title": "Tabby launches new fee-free spending account with 3% cashback, money transfers",
@@ -2298,6 +2163,15 @@
       "query": "mystery shopping"
     },
     {
+      "title": "Tanium Named a Customers' Choice in the 2026 Gartner® Peer Insights™ Voice of the Customer for Endpoint Management Tools",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYW1NQTIzV2t5eWpZWFJ2WHpIVzQ2WFAyeFBnT2FHTDc0ZnVndm9tNVFvaEV2S3ZfRUlhSjIweERGb2Z2RXoyX3VxMTZmYnd6Nkw2Z1lZQ2JBN3ZmRGRqc0Vvc1NsbVlDRFRvbXVJNnZMcVdBb01tQUt0TDBjMUlzdUpNNkFyQ2pKVEln?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "pubDate": "Tue, 14 Jul 2026 13:51:00 GMT",
+      "ts": 1784037060000,
+      "topic": "CX & Market Research",
+      "query": "voice of customer"
+    },
+    {
       "title": "India Strengthens Global Leadership in Food Standards at 49th Session of the Codex Alimentarius Commission (CAC49)",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Eb0xtVUtOcURFQ1gyN0pua3JNQVk5enNnMG5HYkZSUXZLcXNYd2xiTjYzZlZJQTdHSlA3TXhDVS05bmtmOW5xdTR0NlpnOTlLS01wWVd3cVBuNHRUR2dTc1ZCTGpQOXZOODFwMmF1WGRTNWJjYjI4RC02Zw?oc=5",
       "source": "PIB",
@@ -2305,15 +2179,6 @@
       "ts": 1784033100000,
       "topic": "Compliance",
       "query": "FSSAI new guidelines"
-    },
-    {
-      "title": "India-UK FTA to bolster business potential",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXZDZV9SR05wZVA2ZmptcWpwX05DM0FsOFpFMFlzM1F3SDNaRGN0MjJEaWZZNER0QTRnU0dDMTFZY0JtcU00WTdGWDlDX0doUGNEbjNUT3pSNVp6X1NTSG4xRjFBRE5Idm41bk5lbUlDU2tnODBCMndvRzh1YUJ2YXVEVGxCN205cUxWMWJ3R1MxdmQ0bjBMUUpENXduNDZxS2w4dXI3NkdnQWvSAbIBQVVfeXFMTWN4TEVabm9sT0MyblR5NUZmRGl2bkRZRFRKTmdMYlRzdEFuUHViaDhIa1h4NVhlSnA4ZElpOW0tOVRKNHBtakdfeXliQ1NvcjNiWG5JRDRFMU5jTXJMQ25ZYWtnWE0waG9VMWRoX2loVW5OenpaYS1GdFVNVFFEM2JIMXhXQlFQRUw1aGpDMUUwTHM1R19CR0dDSGtkX2hTSVNFeEpqRWFJTHhyZ0YtMTNJQQ?oc=5",
-      "source": "BusinessLine",
-      "pubDate": "Tue, 14 Jul 2026 12:01:55 GMT",
-      "ts": 1784030515000,
-      "topic": "Business News",
-      "query": "India business news"
     },
     {
       "title": "LPU Launches New BBA and BCom Programs Focused on Real-World Business Skills",
@@ -2361,9 +2226,9 @@
       "query": "new AI tools"
     },
     {
-      "title": "AI Healthcare Navigation",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DN2NQZXZ1NzNFa21IVEZPdGQ1enFSZlZVZEkyMFR0S1VFWnRBSXE1VGZNRWg0SFJKQmFWY1R3VTNQV3lBQkthcGpEbEtFaEVrTmkxbTFqQk1ud0ZSclFnSXVMMFFadkh4YjQ00gFwQVVfeXFMUGJwNnBSQ1RiWXRLTlZ0aHozX2ZvRU9BeE5Lc1FVdF9ycUVfcUJjRnREdGZQR0hVVDBjNGk4TTYyRVVlc0d1OExTNndHLXgzNmhYSmRkZWRBTXVtQnFiUWJSWHBaQTFXNmJUanlRZTVOeg?oc=5",
-      "source": "Trend Hunter",
+      "title": "The future of work survey 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Nby0zSjhuZWhTWmdmTW9qVi05Wjl2R3ROLTJSaFVWOVhSbzd4ZVVnZUNGcUc1d2NJTXV5MDllOVRpMlNSUmY5Q3E3NWh4bFhfdTl0cmtzandxRG10akp3V0c2YzhkeGM?oc=5",
+      "source": "JLL",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "ts": 1784012400000,
       "topic": "AI",
@@ -2422,15 +2287,6 @@
       "ts": 1783999336000,
       "topic": "CX & Market Research",
       "query": "voice of customer"
-    },
-    {
-      "title": "Superannuation funds fail customer service test sparking calls for sector-wide change: 'Should not have to beg'",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOczgtNGNhRGNMak55c21kQ3JmczAxT0NMeXUzOFF5cWVsT20tVUkzQlpocFJfRHhoaXZEbmREYndxbFhmd1MwWG81UjhySkVHMGExTnN5d3M0RUdLOGVkY3lrQmtWdnZLc0ZKZkhMNVFBVGs4d2dQVUNPZ29zeGxLWTdpMFFpWWRJcWJrank4cExaVnhLUXNqdEpacV9iX0UtazMxaklFMllPTUc5aTBoRFFlX3hPbm03MmkzWDNMak9tZE5rSkUtYWFLalhlZ1h1UmxNMHNMMFZBQUUtVDh0MDBjZ3hyc0pXb1pxVzd3?oc=5",
-      "source": "Yahoo Finance Australia",
-      "pubDate": "Mon, 13 Jul 2026 22:46:50 GMT",
-      "ts": 1783982810000,
-      "topic": "Mystery Shopping",
-      "query": "mystery shopping"
     },
     {
       "title": "Customer Experience Management Market Worth $34.02 Billion by 2032, Growth, Trends & AI-Powered CX Solutions | Report by MarketsandMarkets™",
@@ -2622,13 +2478,13 @@
       "query": "mystery shopping"
     },
     {
-      "title": "Dynatrace Benefits From AI, Cloud and Telemetry Trends",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdE5VM3d5cFdnY1p6dGNRQ1haY2xjQlQ5V3Z3TkpGWmxyaXJHc0dRQnlKMENsRHhpU1MxY1FRM2p2YUFPQ2c2SjN3X0FtQlpQU05NZWdqLWcwMHJ5MW5xdXBWWlJiRTJuMjdZel9TcXktck8xZzBzTWxNZnF3anpoa1ZHMkZWR0NxVk9VZmNyOEp2VlppdnVKNzVHVXNKNG1scWlZ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Fri, 10 Jul 2026 17:56:00 GMT",
-      "ts": 1783706160000,
-      "topic": "AI",
-      "query": "AI trends"
+      "title": "Best Fashion Collaborations of 2026 Blending Luxury, Entertainment and Retail",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVZod1ZyN0NLeC04a2dPRXVwYWdzX09zaDdabFFkZmh5QXplUWFuMzhqU2haSHVCamlYVGk3ZmVKTEtGU1p3cXVPWjlTLU9pVWF6YnMyaE1UbUg1ejBfeERRT0VsdFFubXhqNDB1dWZiN2pqQkFGYVVaUWNkc2JRalN1cmg0Wml2Ul9xTnFvZV85ZnYyY2VJM3k1clB3WXk1bnI2WnBOQnBfZjl4SVJ6eGZvLU85OElkUXNwaENzVE5CdGZwbHFiSV9nS2UzY1U?oc=5",
+      "source": "Indian Retailer",
+      "pubDate": "Fri, 10 Jul 2026 13:57:24 GMT",
+      "ts": 1783691844000,
+      "topic": "Customer-Facing Industries",
+      "query": "luxury retail India"
     },
     {
       "title": "Swati Agarwal of Radisson Udaipur on The Changing Trends in Hospitality",
@@ -2703,6 +2559,24 @@
       "query": "AI trends"
     },
     {
+      "title": "Dynatrace Benefits From AI, Cloud and Telemetry Trends",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdE5VM3d5cFdnY1p6dGNRQ1haY2xjQlQ5V3Z3TkpGWmxyaXJHc0dRQnlKMENsRHhpU1MxY1FRM2p2YUFPQ2c2SjN3X0FtQlpQU05NZWdqLWcwMHJ5MW5xdXBWWlJiRTJuMjdZel9TcXktck8xZzBzTWxNZnF3anpoa1ZHMkZWR0NxVk9VZmNyOEp2VlppdnVKNzVHVXNKNG1scWlZ?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "ts": 1783666800000,
+      "topic": "AI",
+      "query": "AI trends"
+    },
+    {
+      "title": "Meta reverses new AI tool that uses public Instagram pics after backlash",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazZ6a0huUERucnc5X2RGekhhSXBzYnVXZzZtMktsQnFJaE5vZThVWlRkclVSTTBPZ1E2aGRiQTFJSGstWVpiTmR3YUl1amdLZ3lVTEpGekllc1RZVEZwOUhkU3FoVDRxX3lBZkQ3Smw1VTNvUVNzVTBVaVZfQ0wyTkIyeXJBRFE?oc=5",
+      "source": "WCVB",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "ts": 1783666800000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
       "title": "Top 50 US news websites: Traffic decline at 90% of newsbrands in June",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3hXVlpHbGtDSldYbHdENUZQM1FOLWQ2U3FDUmItODZpNlpuYUowMy04Q3dralEtQUYtbzZMekNsR3ZyaVJUWGE3RTJOenJIMGxuMjBXVGwtUGRpblQwdDVZRFBOTEYzdVo3d3dLMTV4aUlkTFl2RFZ1QWh2cFUycFR2V2Q4XzVydWNiTTNWNkN1Rl9ZeERmcWoxRzJkc3ItbndyUTdzSHk3WmlTb0RzbWpFcE4?oc=5",
       "source": "pressgazette.co.uk",
@@ -2712,6 +2586,15 @@
       "query": "world business news"
     },
     {
+      "title": "FSSAI pulls up alcohol makers over misleading ‘aged’ claims, flavour violations",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUJmRmdLckMzRlhsb2haV1FndmtVWXFBa1JJU212ek1OczRXLXBWeHdHdWYtcFBQcGowNm5hZ0VFY1I5a2tDeGQyWTlPRFhBajk5ZmFuUTQ2VkpLMUxhRFVuNVc0VmxzMGIwbnBxOGJoYkxqbEozN1NCdjY3TDg3eFVQVXI0bVhaTWFJbXhJcHlJbEliV1Frd2Y5cF94cnB5MEZ6OTVWVGJGUm4zTnVuNnB1X0xtMTRzVm1tWXJqUEMtX1g5WHN4Xzd5eTNIa194OUp4aEd6c0dOUTJY0gHiAUFVX3lxTE0xU244QlVqallGc2tUeWtoWVhtWlVUcGRwMXJoZzh1ZWlIb0lqbWVkQnBxbC0wRTRNOEttdkVuWF9BUkhWeGRPREUzdll1SFZuNDNyYTZqSFg5eEgtSVdhellHaUpQTTBQOWg2dWFxcHE4UHppVGgyVzNOSVhaNkZQd193N2U4TWt5OERWUzJnMlBwRU9rRnhQNmJrYTc4VW8zYW9SMTdHMkRCbFFSb085cW9SQm9GdGxEYzZzMk9yWjI2ZUJ1RUVsb3FfNzVMcU1mVElacWhnQ09IRF9IQV9iV0E?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "ts": 1783666800000,
+      "topic": "Compliance",
+      "query": "FSSAI new guidelines"
+    },
+    {
       "title": "Retail sector expands AI adoption across customer experience and operations",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGdFd3E0dGU1VUtIZU8xQlhRdUNrRUhSUzVCck9zTkFWUmlEeUxKcnFEWUpkN2o4ZjZFbkIya2xYUkRZdG91bjR1RXQ0N0lucDgzMjh3X25fOWF6VTBXQllyMlBoMmpNTHBFZXp3aV9PN0dGelRtYmtEazI4azZTMzJITkZjZXlYMFdHa3VicU9zb1ZJaV9XSXNRUmpOdk1fRHNoZFZKeHBsbGpmTXNIT3ZvcDY5ZWs?oc=5",
       "source": "retailbiz",
@@ -2719,15 +2602,6 @@
       "ts": 1783660796000,
       "topic": "AI",
       "query": "AI customer experience retail"
-    },
-    {
-      "title": "FSSAI pulls up alcohol makers over misleading ‘aged’ claims, flavour violations",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUJmRmdLckMzRlhsb2haV1FndmtVWXFBa1JJU212ek1OczRXLXBWeHdHdWYtcFBQcGowNm5hZ0VFY1I5a2tDeGQyWTlPRFhBajk5ZmFuUTQ2VkpLMUxhRFVuNVc0VmxzMGIwbnBxOGJoYkxqbEozN1NCdjY3TDg3eFVQVXI0bVhaTWFJbXhJcHlJbEliV1Frd2Y5cF94cnB5MEZ6OTVWVGJGUm4zTnVuNnB1X0xtMTRzVm1tWXJqUEMtX1g5WHN4Xzd5eTNIa194OUp4aEd6c0dOUTJY0gHiAUFVX3lxTE0xU244QlVqallGc2tUeWtoWVhtWlVUcGRwMXJoZzh1ZWlIb0lqbWVkQnBxbC0wRTRNOEttdkVuWF9BUkhWeGRPREUzdll1SFZuNDNyYTZqSFg5eEgtSVdhellHaUpQTTBQOWg2dWFxcHE4UHppVGgyVzNOSVhaNkZQd193N2U4TWt5OERWUzJnMlBwRU9rRnhQNmJrYTc4VW8zYW9SMTdHMkRCbFFSb085cW9SQm9GdGxEYzZzMk9yWjI2ZUJ1RUVsb3FfNzVMcU1mVElacWhnQ09IRF9IQV9iV0E?oc=5",
-      "source": "The Times of India",
-      "pubDate": "Fri, 10 Jul 2026 04:57:00 GMT",
-      "ts": 1783659420000,
-      "topic": "Compliance",
-      "query": "FSSAI new guidelines"
     },
     {
       "title": "ExtraMile, Nouria, Rutter’s once again are CSP and Intouch Insight's Mystery Shop finalists",
@@ -2892,6 +2766,15 @@
       "query": "AI trends"
     },
     {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnR6akNtWEtWUHVBZnhWV2M2UGtaVEZ1WW9SYTl3RFJQckNpaWtQOFNwaEtJTUY0UUdWS1lQVFoxTE4tYnV6aTNRbWw1S2RKNXc1Ym5BQVRFd1VJRU90NThtZXJwNFRTOGFyRkNVOFlXREhxbWVQQVVzdHA4RHJJT19KRWNIdw?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "ts": 1783494000000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
       "title": "Iran War Flare-Up Rattles Markets. Should You Buy The Dip Or Wait It Out?",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVNUTW1MWGdJVmFiZjJJZUVfT0dkVy0zWkQzWDE3SC11UGVSM0pfX1hkTV94Q096b0VzT05ueGFTZXZRT203eFM4Z2t5UmVIcTh0WGJ1dEM1cEF6Q05paWJhbDNBWUg4ZmJrTk82R1VNb3dKazI4eFc3c0RFcTZvMmdjZlRLY0xfSlBSVmFBdGtRYTBYQ0ZVT3FXVEZGSkZOMFg0ZGxFaldKWkFPaXZrSzB6eHVxbHPSAb8BQVVfeXFMTTZ6YlFCUElySDFua21ZTEd3cjNvc2dfNWVRM2N0WnlFelhVelIxcjlxM21oWWxhTGRrbWc1aUgwbVBKR2I4djhSNE5ZUVVKV3l0YlJjbnpQMXA5bWxnZ2lxYUJBQVRKd3UtQ3llS1NpZ25ydWVsSWJ1SFVoUjFxejhFeDNuZjdUZk15anlUcEc3S1NLdXplMmNYcjNxazg1czFxUVBLTDZHNU1TdFc4NVZ2MzBzR2JUaUEyOGlXY1U?oc=5",
       "source": "NDTV",
@@ -2982,15 +2865,6 @@
       "query": "market research industry"
     },
     {
-      "title": "India reviews ASEAN FTA amid widening trade gap | Business News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVlQSl9LT08xanE4RDdoWWw1NG9zejFsa0ZiZFdCSlZNUVJmaC1oVHlrSHRnWC1IN0oxWXhTZVJLU0pWSjJiQjJ5TDdoUUVudWJqMVVNakdCTHctbnB0cVFjVW44WEZsakZKdE01Z2FvdHFSZ19ia29ZaGNwTlVkRTE2blRCOWxjUkFkaDdPZDAwTXNnLW03ZkUybDI3MGYycFpYZjRCcWpSSXJh0gGyAUFVX3lxTE5kRDVIajJWRExlZkhCUEV3QXMtWGtvVEU3ZFNkampXcGtZeWowWWJwSW5mS0F2eWJzREJjZTM0VHNKMGd1a1NOUThoVHM5QkRIWlUwOUJ2VXJvaG10VGZPMTNWMjZKMG5PT2F5ZHFaMWRPZkxxS2JhVEp1SGV0QjZjQVlfYmFRNzVneU5kblNjNEFVSHkwN0VFSW55LXE5aFdXYUY0d3AwR09CaHZVS19waEE?oc=5",
-      "source": "Hindustan Times",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "ts": 1783407600000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
       "title": "FSSAI, Functions, Structure, Legislative Framework, Significance",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXWFRZVmlDWHdkVUdiV0NzZEF2MVVRNHh3MElaU1VTQS1nZWg5Wm5MbnBfMnNVV1BBdmFsdC1PeVllTXh1eVY5YVJHcnFjOWJvNXRTa25B?oc=5",
       "source": "Vajiram & Ravi",
@@ -3018,6 +2892,24 @@
       "query": "voice of customer"
     },
     {
+      "title": "E-commerce Market Size, Share | Industry Report, 2035",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdUotSTltd1pRdjVnYVFpMEhZZGktNllRb0U1TDZhLVFZUlVnTmNKc21Uc0ZqVjNQSFVOU3FMbTgzbGdaLVVUREdoZERBdjM0NERlYTQxbnBaS2k0QU9oSmFUanZNX2w0YXBELVNFTExzNDJ4bENZ?oc=5",
+      "source": "Market Research Future",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "ts": 1783321200000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "HEIR Launches Luxury Fragrance Brand in India with Five Eau de Parfum Collections",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0hyZXRWWHljZjZoVHh6OFZGZkU0UUJMN2ZfMlhYWVVnMjZNblIzdllOb0lXV0lLRjNmYlM4R0FnOThXQWFCaHh4MnRWTjdvNWsxdVI3QXVOMHlTVGlENFA4LUFRVzZBU3BkM1AydU1jYXV3NnNFVjdUa3F5OG1TMElIcXA5d2MxZ3U1czZaNE00b1oxOG11SkpDRXdVWGgtb1EtSG9ZQl9lSU1kN2c?oc=5",
+      "source": "Indian Retailer",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "ts": 1783321200000,
+      "topic": "Customer-Facing Industries",
+      "query": "luxury retail India"
+    },
+    {
       "title": "'Fresh Paneer' to '100% organic': FSSAI issues notices to multiple brands over misleading food claims",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQjJpa1Z4Mk5qOGJ1ZkJGbHpuSlh0T2tyVEx5d29NZ0pkYVY5dFJMXy04MWlqYm9xVHQ0ejd5bjhMM0g1Mmp0UHRyTkpmZjgtQWE1ZE9HQ1doTXN1Ym1MSzNLMnNqbUhncm0yVVBETC16ZXktSV9Tb09xc1VKYUpQY012TnF4NzJWSURwNDg0ZFNhWW1qSVl1RUVsdzJRQnhhbzlEVDg1eWNzYzJIZlBNZlhQajdKb2xhVjNRZlNYLTJlMGRrYjhLVTg4aDlMVUZxdTBXc2FBRDlOcEUxNEktRmFNNFZoVVBzM2NwWXlCU3E3dUZDdWs5VUlJbVl1MzdFd040emRPRnpVbXMzanfSAZMCQVVfeXFMUEk1ZXRpTXpzNkEtdHhjVHVfREtXZUVNMzJPRlgwVzlRU0FGcDFHRlpSWTViTHJ4emtYT2g2N25kell6bExfNzJTVUJDMXpYaFMzYkZqZ18wd0NJTGxpUlRvc0VYSm1GOVdVM0hXSFNFN2FjQThnVFNjcGVIcGRVd0hqal9QQlBZTVRsaERZQjUtWW54bHhxLWc3WWFOWjVma05Zd1NKNVZyR2xaNFdZOTdLNlExTkNTMGQtX25ScUVEY3JIVTBpU2VpOFVRRFRqTFg5bTBJa1NvcGlMT0RzNUVqdjV6SEJfdENXX2o0SWVldGIta3BRZ2tUamRJYXR3OXkzQ1NibE1uU3NiQUlLQ2VSa3c?oc=5",
       "source": "The Times of India",
@@ -3036,13 +2928,22 @@
       "query": "FDA food safety update"
     },
     {
-      "title": "Should the government own a piece of AI companies? | Business News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY1dwcXc0WjlaZ0dnYlRGU0lTMzBfXzNtRlVWYS00Y3UyUGtqelR2amVQVW1TUzZEbFFfd2duQnUzMjNKaHduek0xUnlkdzFPX0pERWNNSEhOLVdrSHpmQjYwV0E0LVVCZUNoSzdSVTFlR2xTR245d1AxTUlld3pYUERsaENqel9qVmQ2ekxXMTNFLXoxZ1lTZlkxNFBhX09LM1pXb01mbGdGYmJfVHhhSFM1VlRGMTdKNFZPVnlnYzlZQV9hd3hlUmhQR0TSAdIBQVVfeXFMTXRVYUZmYVdSTVZJQVYyS1AwVGNvV1FVNHZzRk1GaHBpdHk3R05zTmg5Q2NIbERWazZQU2pEaE9nZ3NPLW9MTElwR2wzSXZLZ2Z2OHkzSmJsNFlfVHh4cE00SWdRRUVucjJGenRjQjlpMGRsc0EtSDBla3pwS29NYTl1aEdrNF8tN3JoY2hPelZITHB2cktHMGlDTFFhN1BBT3E0N0Z3RHUxYWNrN2lrZkpLV0pmOXViVXQ2dFZxalJhQjBMQ3U4aG5hbFhYVG1RaHln?oc=5",
-      "source": "Hindustan Times",
-      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT",
-      "ts": 1783234800000,
+      "title": "India can become product nation of the world",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmtqazJ4TVNUZ3VHdkYwTEZkYmdyVlJ5Z1A1czg2U2VjMGpKN1VmYkUwMkhoeGpIc2NrSmlKSVpua3BFYy1QQm03cVdwVENfZ2xEZUF3WENSTkc2eEhSZGV3TWRZeHhZS0U4VGlhNVFIeS1FMzJDN0NKLVJCNEI0ZVdFNTVtUzY0Qy1hd2ZpcVczQ1RaTlBKWVp1UnN0ajRHUkowZlUzdS13RHVpLXfSAbQBQVVfeXFMUEpLU3VnSmNoRW8wTW9uamdrQ1RaUlUtbUhVT09vYmc5Qy1haGllRkRDczBGQjFBOHBRZWtwaGVSVE5rNXFnWXRPaHZwVWF3clFFa0dnMWk2OGVsRkx0bUNKX0JSMC1PaXVRMFRKSDJNUy15OW1XcnZTSzEwRVNPalkzLUVCSFQwWG11aVBGQkJMbnlOeGhFeXp6ZGJZMDhUSHZ6dHVIRmRmX2hISE5qT2lncEhm?oc=5",
+      "source": "BusinessLine",
+      "pubDate": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "ts": 1783148400000,
       "topic": "Business News",
       "query": "India business news"
+    },
+    {
+      "title": "Quick commerce no longer luxury service, becoming permanent structural shift in urban retail: Report",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSWZCeTNHWnBLYXFiWmloNUdKU2dIbDZJY21BUjFBVEtYNGIybzJ4aTVNRjV1OWNPNXVIaTU1WTZHTWRfYmRFSDFtT212Y09FYmxwN3R5ZjhtcU9QN3ZUeWllcTZSbHFYQWdaVVZhTkx4Y05kd3JGTklid0RZLU1hTWxRZUdKT0FRemVQLWZ0Y1k3UzZEZHdjWEpWakgtNWF0VlNHeVNVaUZNSHpvcVk5amNWUHp0bzMzdDhmUlZGSXAzanFJNm95eG5FS2FNMjFxeTdZTVBKMUc4cUJNN0ctX1BCa2hXTFZBTXVlekd1Z28yT3BhbmZzbVI4dEwxUmZRWlIyZVVjWC1sLTN4WmfSAZMCQVVfeXFMUDNTb0ZFNG1pR1ViTVQ2Q2dSUXRGV2pJR2tIUjhiRU5LOE52V1MyaWtJcHRHb3Y3MGZqXzR3U3VKdTdGMGNiWGloNC1qNUhwTGg0TjgtSXNMT24wS1NvcHMtNmFUQ3lzVkNDOV9CQllFWm43UWdjSF9kM0pxcWIwOHQ4eDdqaTEyLUwtQUN3Z0U1SFhjbUVoaWJQbUpaNno5akUxdGwzalROSEFQa2FrZHRKUlFQejYzaGowMlVxZ3RGRFZQUGZ3anlCclBPRVJlcm92NHdoN1EwMFFlSHdGQVdWVS0yT0l1bDU1aU9tVmk5dTdEbHBRNElObFd2TnN6bGtIdVRUblNaMHlEYjhlajJ1S1k?oc=5",
+      "source": "ET BrandEquity",
+      "pubDate": "Sat, 04 Jul 2026 06:12:01 GMT",
+      "ts": 1783145521000,
+      "topic": "Customer-Facing Industries",
+      "query": "luxury retail India"
     },
     {
       "title": "Best AI Voice Agents for Enterprise Automation in 2026",
@@ -3093,6 +2994,15 @@
       "title": "Union Bank of India shares drop 5% post Q1 business update, global business decline marginally on quarterl",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNG83MUI5Y0dJZEpERGUyQ24wLU55RFNtUk41Z2xLazkyRjhKWlhVS3FHeEN4aXhMdzlDM0ZnaVNHS3JKQlpVOXV1MzVNd1ZmdW1WMi1zMzJja3dfeGlQQzY3M3RLeHAxZlRSTG1iMklRUE5qVmZrVTJWXzFYZ3lsOWIwY0JyNjVYWmo4TDBhOGE5dFdXT2xZVWcxS2xrNUhNTkdUeF9IZElCbHUxaHlobWpyYVZHQkdxZFI4QXJXMjZxVmpGMDNkVldlR184QVR2czJ0VEp0VkdPVHY3TjctWFd1YWViQmZxRkloaXZrajUtZEJLOVQ1U2hWQk1HdllvU0NMNWNETmc5MnNwbnBMUWg3RdIBmAJBVV95cUxQTkd4Tk9iOU1XemR6WW9nYmptcUdWZGNwUFJhQVl4NEZYNHpSc0FwUFpoRjJSRy1jaUZQV2FXS2VHSVVkOEJ3TDNKcnF6VDRsVndxQjVKLVY0OFYxUDkxLUNEN0tJak1SWXY4dVd4V2VBWVZvSmZCMHl5Z1RsM0NwclY4X1JqenlSbnlnWUR1enZtQVVBNUdNQkhOWlg0OVFhUVdhMEhyd1BiRVdSMWZ3Tmc5OThtMGpMTE5vS3U3Y3RPLWZOeEpQeVNPbFpkYjZhckI0d0x5QUZBQ0xZT1o2UWs3dmhGNWhsZUpfbmNxejg2VTk2bFQ3bE9lQmdkWllOaFloZVNGeU9JeDF6T05iNjJuMFB3YVdY?oc=5",
       "source": "The Economic Times",
+      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "ts": 1783062000000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
+      "title": "Storage in India’s major reservoirs drops to 26% of capacity",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFRiZkZRRHFrZ1ZEUWNBM2ptU0JOV3NQNmxTcG1hdDlEZjlGanU0UHJmYWVSS1BoWjhDQWFCa0VtNEt4RVhEOTc1TkRRVWE3cVR4NUMzb055X01XbFhKMzNKd2Z3M2Y3MjFOZXJhcTFvbG1NcVVxUk9FLVA5bHM3MmF3VmxXbFFEZExvazYyeHJTMnIwU1ltU3NDZVZtTHROcldXVU9jMEJjc3J4eHBGOTRJSmtHWlZabTVoS3NfQ0QyTUk3S3BJd3NaUkRnaEMtSlBr0gHaAUFVX3lxTE9hVUZWUUR1ckF2RHplYUVkOEx1V3VabXJ5X0xheFNUbnF3QTFUVGZwN2hkd09KeTVCakxRRHNMSDdDYmo4cEFDMnE2TEtyc21nMXgxX1NpYXZMR3I0bnl5Y1BUZVl1bWhyVE1pMXpmemYyRkZuNDVsaFZva2JOVzJ2MzU0bmZxTnRQZXo0bklMVUNGN3R2d1FCNld1aGU0NjlWUklqYXNyR2VnLVFRaENLNjh0TEp6T3pfYzhwS3h6U1c0MEx2bkM2TnNOQnZYMFFnXzU4dW5KbzN3?oc=5",
+      "source": "BusinessLine",
       "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
       "ts": 1783062000000,
       "topic": "Business News",
@@ -3162,6 +3072,15 @@
       "query": "real estate customer experience India"
     },
     {
+      "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLXU5Z0NFWkk3QmFjUTJwQ2c0ZTJvOU9pX3VwSEdGbjNfZzR0SXVsOEJXYVBoeFRQcUU5ZjdhOVJWTjdkQU40OWpxR1E3S3BSMHRqelhhcTZFaHJZ?oc=5",
+      "source": "BBC",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "topic": "Business News",
+      "query": "world business news"
+    },
+    {
       "title": "FSMA Final Rule on Requirements for Additional Traceability Records for Certain Foods",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUpFeElsTVhoSmhiSmk3bDI3ZWJucWxHd05jN3FXRUNSTGtoSHB1VUpjMTd3aktFMlpsQWdNRF9hU1V2bU01Y1JoZWdWeXZNd05mLW9XX2s3Qk9vWGwtV0o3bm9EUXpFbXAzN3Nsb2VOSGtUNmJqa0dJTHJSalNSNnlxUDNZYzZKblcwMVEzcDY3b3pvb0hSUFdqNlBfN3BFZWlPVXIxdWJmcDQ5cmVKcnh0NERYLVF3RUlaNVBwdWlPYVF3QzhvUGtpeTFSSzA?oc=5",
       "source": "fda.gov",
@@ -3196,15 +3115,6 @@
       "ts": 1782923701000,
       "topic": "CX & Market Research",
       "query": "customer experience technology"
-    },
-    {
-      "title": "The asthma mystery of Tristan da Cunha: The world’s most isolated island with only two settlers created a",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPbms4aXVweUZlbGplZEtDNndsWWtyUE1XSUFmVEpyZkRpYmVQeWdMc1B2VVhsY1Y1UnJuWGRzcE1mUmVkVkktd3R4eUxyaWgzNTZzZkpzVU15S3lueTJSWjkyaVBDM1k2ZWFzS0ZfeWdRQUZyaXRlZ2ZUS01MOUpTdld4Nl9xZjg3VVpka1h4RTVXbVhSMXhmVzdJUzhFQnRBWFFsUVA5VWxSME1fOUR3WWplTFoxY1FYcDRoeFlpR3VsNTdZNWlpNWs1VTg5ZVZZR3VEVnYzem8xU3dWYnZkSkl5Vm16MnpnNkY2R3BuV1Y3cnJtcmZIQ1Jwc0g0amNFMUFMaC1wM2syRWtTM2VFOHE0N3M2UE1lQ3pLRlNvdENRTzl1Z2hkcjdBekFhOUF2Wlhz0gG4AkFVX3lxTE43S2x1aEs4M2REMU5qcGV5Z1AtaUdjN2YwUy1Lck9UcmZmdXloaEJJY3l5Mk5uQi1TZDhwdmFwR01EZmRQTjBCY2lacXV3dkszd1RSTTFGclpLRFo4Qzl4Z05kN2pqdWNEelRmcEZWTG1LU2pMUU1pT19wTVA3N2dTLW9FUXNIcWtLcjFKN2o0d2E0WmJiLUJKVTVhMjBRYWQxcjhTb0VLZmV0eW14NzhXWnRrcTA3dngtZ2VBN19CclA4NHBkVXBpUVA2ODNlVzB2YWJPMjFlV1I3aXJYSjR5VjZZMFV4M2JMaHprbUJLbl9SWkNFc0dfX3dCRzk0NExFblQxaVYzdkRpNWVQLXNtV3VnNnBWS0NVVEVyNVdDazN0MlZFb0k0YkdxMENNcnF6d3dwb2xGdg?oc=5",
-      "source": "The Times of India",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "ts": 1782889200000,
-      "topic": "Mystery Shopping",
-      "query": "mystery shopping India"
     },
     {
       "title": "Edge Computing Market Size, Trends, Industry Analysis | 2035",
@@ -3254,7 +3164,7 @@
     {
       "title": "Al Rostamani Trading Company launches the new Suzuki across SUV in the UAE market",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0FQcHZNTUEyWU53WnEyZUlxMjdvWFJtbVlGZXNkZnpTZXMxZWxnc3NDSDVseWJpVjdES0tVeDBOakhFcUREQzl0UTlRajN2NEdzTlRNME9YMVI2WWRPVHRMYWNzVmNqTWZSemZ1NzY5MzA5QjZMMDRmTzhHNFluQUFQem9QVHV3VnFRQ1hvaFdPZWpncEJ2MjlnamhjWUVhRTNqbzNDR012TTFTbkZGaFRLZzZXNmdlczkwQlpmWmk1V2IyTkdTNjEwdFlCRzBPUGJidTN1NkpSZXlq?oc=5",
-      "source": "ZAWYA",
+      "source": "Zawya",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "ts": 1782889200000,
       "topic": "Brand & Vendor Opportunities",
@@ -3264,15 +3174,6 @@
       "title": "AI in 2026: 3 trends",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HM3BqLU1NT0VNSmFubjlHTnRsZUhMdzBiOHRJWFlJZEFGY1Z1UUhMaFVNazdPTXVIZmgybDkwMHVCRWhJUWduQWdoUm4wVnU0RHBLRDFhX2M3a1lfOEtaUHVKTk1lUlhOR3hiZHVwZms2Rk1YcG4xLThxVVc?oc=5",
       "source": "a16z crypto",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "ts": 1782889200000,
-      "topic": "AI",
-      "query": "AI trends"
-    },
-    {
-      "title": "AI Powered Virtual Assistant: Working, Examples, and Trends",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92di1fYldJYjVZdmJVOWdWOFJFTFpqNHZ3eUFwQWJlM3pGaWw4dzBrVXhndlVFdGEyVFVYTmJnNFE4enNhX25zLVZINUpfSFowSG5ldEg4WmtCY1JVTi04N3Y4QW9Pell5dlV1bDRtd2xmdw?oc=5",
-      "source": "Simplilearn.com",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "ts": 1782889200000,
       "topic": "AI",
@@ -3351,24 +3252,6 @@
       "query": "India business news"
     },
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbHJhdG1RYkNIWmJTT0FHb3BJNzItaWo4a3F3R3hEMDFwMXhVZmN3RTIzTHRmMk5wUDVXMTBRakprNGJyNFdMUGs0czUxNDRTbmpIRDQ1NmZqQQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "ts": 1782889200000,
-      "topic": "Business News",
-      "query": "world business news"
-    },
-    {
-      "title": "Trump got $15,000 in FIFA tickets from Gianni Infantino. Next up: Presenting the World Cup trophy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTMtN3I4V1Q4cjZPdDBCMnFyLUdCZXFjRDNtWU1MUkdGTHo1T1BpUmZtMlRwZ1FEM2lHbWdudUMwSzA1dFI4UExXSGxPLVRtYkF4R2NzaHJWVEVUVmpxSl80UTdycVR1Mm00bHUtMk1LZHc2N0lOWDloZnhoRFBVZk9fTVY0VmVtam1DMkl6dDJGZ9IBlwFBVV95cUxPaXBqaVBwOXllUFQ3ZjJyWVh0UUlNOGswMXZUTXdaN2NaeV9MUjB1QkF3X3BUd3diSFdIR0dmVHZaLVZ5M1ctLTlrZ3dGSTdVRXFGTXUtRXd3enE5U1hnMk5PVXQyS01rNEwzN05NYUNRRTlHRHZlcHdUN0ludkswQi11a18wUDU1N0g4NXEyejRrRUdFVzRv?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "ts": 1782889200000,
-      "topic": "Business News",
-      "query": "world business news"
-    },
-    {
       "title": "Trump refuses to renew USMCA trade pact, toppling one of the last pillars of stability in global trade",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGY5NzNSVGpuUDYzdVhTdW52RTdQMTVQY0toc1ZQdjdsTEdsWHRoSHF3c191ZE9tU0t3TGdqTk80LWhRVS1HNzB5LW9aekVGNlN2YzB0dmdiX2N6ZEFlMWZoV1dCQzdRZGxJTEtLRFVXVEJJNFhfbmFsXzNOSVVQQXB4eHRORWVjbFlHZ3JB?oc=5",
       "source": "NBC News",
@@ -3394,15 +3277,6 @@
       "ts": 1782827510000,
       "topic": "Mystery Shopping",
       "query": "mystery shopping India"
-    },
-    {
-      "title": "Esomar Awards open for submissions, recognising excellence in insights and market research",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGQ4X1YwSGpsUHV1N0NJR1huYzJ5bUV6UnQwc3JBNG81X1RzZGZCYkJjS3J3cjRUX0c4QU56SjhNdkdITFBiSkhqWDd3dDJqczhSZUpidTZzYjlhdm5JNzN5dEhEbzZEQ3JmOTZUa0F3OERZeFRCU0NpcFU2RWZsbDc2S3BRY2lFTmx4dEl3QWlqOXNkcHdIelJYUmNvWFlMZUpZWnNtOE9HN3lCc2NiaTBHWQ?oc=5",
-      "source": "The National Law Review",
-      "pubDate": "Tue, 30 Jun 2026 13:47:11 GMT",
-      "ts": 1782827231000,
-      "topic": "CX & Market Research",
-      "query": "ESOMAR research"
     },
     {
       "title": "AI checkout speeds purchase time at MotoGP event",
@@ -3504,6 +3378,15 @@
       "query": "mystery shopping India"
     },
     {
+      "title": "Online Survey Software Market Size, Industry Share | Forecast 2034",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBxeGNDUXBDaUMtSWlBUFdQMVA0UjlpZ0NBa3J4LWhVc2d0eHRGUENBVmFpVXhORUF6SkJxWFpFSUNVMmJBazlCVTY0SkJSSGhwZzJIc0hqUXAtMmRoQ3U2cmhXS0xSV1BYNFlRdHVrdjVQVTVJZE1DNmFkQlRxODFR?oc=5",
+      "source": "Fortune Business Insights",
+      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "ts": 1782716400000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
       "title": "Big Data Technology Market Size & By End-use Industry [2034]",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWJaM19EcVhGODdOSFNOWHFFR19pblNlR3RoQmxXUnlRN0haaU9MVVpnWWNGX0hPQVBLRlNJbmhURnNqVXlraC0wWGFab1lBNmg3UnpNMkJEdEliRXlrM3dCV3ZSZUVaWmlNUlZ4NTA4UlJ6YWQ2cjdST2xuekM1R2Y1MW9WVFM3QUVPSXVmYXJnSXZa?oc=5",
       "source": "Fortune Business Insights",
@@ -3551,6 +3434,15 @@
     {
       "title": "Cloud Computing Market Size, Share & Growth Report, 2034",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYVpNaXRmWGhTSDRuRC11VTdZZHZSS1FDUGNxejM1WWVqZmtJVmVlRUhsSVJQNzFZSWdXSS1ZMkxuc1Ywa3NTTUl5bHhFQ2M3V1N6S09IZFJWbzl3UUtlblRtclRQbkZQMTFscVM1cDNqS2RHbHdWRQ?oc=5",
+      "source": "Fortune Business Insights",
+      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "ts": 1782716400000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Light Therapy Market Size, Industry Share | Forecast, 2034",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wS2tPQ3QxRENpMGRYX3llZDdHRFhyTUx3aWNCOXNQVmRxcVBuZ24wcFJHcUxHbl9feU45M0ZIY1pDNXR5NWs1V1lWd2EyRTMxUXNGSWltX3kxWUNReXJieDF2SFU4MlB2X1RPeU9HTkNTSlF0ZUE?oc=5",
       "source": "Fortune Business Insights",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
       "ts": 1782716400000,
@@ -3702,13 +3594,13 @@
       "query": "beauty brand launch India"
     },
     {
-      "title": "Inside 2-Day Trade Talks: India Wants Competitive Edge, Here's What US Seeks",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0c3RUNXSlMxTDhWSzdiUXBMZHVlZ1piWE05akJ2WjJ2MUk0SWtJekt6NEgwdTJoNDFPdzRwRXk4RUhvclNqUGF3ckVEdVB5ODc1Y3dWR1VTQ196VWlaMWNtWWd4LWw3eVY2THVWZW9uU3J3VjFIbDhWWlk0ejI0bFdSM1MzTUdTdUR0cmM5d2dNY0pwMWRYYkxPZVhGRkhtZUZ5WjhMSll5WTJrU3ZBRDg2TFFJb1JxbEHSAcIBQVVfeXFMTWNZMU5Udy1rTkgxeC1DbkQxRkVsUmwxVVFGX2drRWROU21JVHp4RE5ld0Q4NUMxNHB2N3c4bUlJeW8tNGJidDZKOUEzX0loaHJ0cVBRU3BkRVdTeV9BU3M5aG4wQ19rSGxuZWFGY2ZLaWhHaUdWMDlMNk1UbC1iSi0wbWhsbHJ3ZzFyR21oQkppaFJDeGdfVFR4SHhTNEJpRlpJbDQtUVJWOE8talN1bU5MNkVDcW9vcm1HTFdmakM5ZXc?oc=5",
-      "source": "NDTV",
+      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5",
+      "source": "CNBC",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "ts": 1782457200000,
-      "topic": "Business News",
-      "query": "India business news"
+      "topic": "AI",
+      "query": "new AI tools"
     },
     {
       "title": "Goldman Sachs hikes India’s GDP growth forecast",
@@ -3754,6 +3646,24 @@
       "ts": 1782370800000,
       "topic": "CX & Market Research",
       "query": "market research industry"
+    },
+    {
+      "title": "Restaurant Franchise News: Uppu Expands to Karjat with New South Indian Restaurant",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEJWM1ZzWVI3c19fWXNJZGJacEFZRjY5V2w0TGt0aGU3dHJ1eXlMQXNQeE5wRDdWZE9Jb05OaXJjXzZVcGVKTFotYXhMeVN0NmdqTGVNaHVCaFJCZE5mVGlMdEdUNHViUkFpZDhzYzJfak50VjJiQUJpeVk2WlNFdGVldUtETjcyNnFPSnVLZVRXRGw1bjVpWm5wWVVvVkdJNHBDSkZmaw?oc=5",
+      "source": "Indian Retailer",
+      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "ts": 1782370800000,
+      "topic": "Customer-Facing Industries",
+      "query": "new restaurant opening India"
+    },
+    {
+      "title": "Indian BFSI firms face CX execution gap as customer expectations outpace operational readiness",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSlVPdmw4NGN4RUJMZjF1QkVCd3B5ZkpQYmZWVjBYTU0zUE41UGhHNFBmcWNiS3h1V1BiSFptZnNfSkYxVGY4WVNKODVQRjBrOUFkX3B0ekZxaG1HdTlzRGhMeW1ZMTlRcUlvU19ieXFTM08wcFNTLTJFOGhBbmVBaEJXanY0X1Jpbl9mUWFNUjcxUHJCb2hZV1FPLWMwZHc5NlF4b0FPd0NCemRBc3Rta3NIcHV2WHNaZVBmR2o3ejE4Q3hGTy1CdE5lYmtPMlU?oc=5",
+      "source": "CRN Asia",
+      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "ts": 1782370800000,
+      "topic": "Customer-Facing Industries",
+      "query": "banking customer experience India"
     },
     {
       "title": "60% of Indian consumers want personal AI agents, says Adobe AI trends report",
@@ -3819,15 +3729,6 @@
       "query": "India business news"
     },
     {
-      "title": "Video. Latest news bulletin | June 25th, 2026 – Morning",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzBHQWRQc2dDZ3kzRGI2QVdPdlpZWjZJRldERTE2OXBBbFlrQzFxSjBEOERuSExaQmtwdGQ2eGM1QVJvV01KaW03ZnFmWmtsQ0pHcGxOZWUxbHl4SDNRbkk0ZEpQYlFJSGZ0dTE0ckgtQlVWM3RQbmw2djRSVzd3MEhYVDk5RFBubVh0UXBR?oc=5",
-      "source": "Euronews",
-      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "ts": 1782370800000,
-      "topic": "Business News",
-      "query": "world business news"
-    },
-    {
       "title": "How brands, retailers are using AI — and what they won’t let it touch",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzZoMnRQcFB3b1hlY0FzdEhDbEsyRmhFMGdaZU5zMGJ6Zm1IMlJzZG9OVllzRnA4UkFVWXgxM3B4WVd2aE8wUkZ4Y2R2ZjZkSnlNQ2NaVmx1Y0FOOHVKTWZueVpHRUtoMmhPQlVJQklhNTVzV3NJWDM1NjhoWkdZUTZyUEJweFAzcS1lT3R6cmNMdHNUSnBSUVFwYnJob0pCV0c5SnZaZ0M?oc=5",
       "source": "Modern Retail",
@@ -3844,6 +3745,15 @@
       "ts": 1782301194000,
       "topic": "Customer-Facing Industries",
       "query": "new hotel launch India"
+    },
+    {
+      "title": "‘Too risky’: Vic scraps undercover teen stings amid gang threats",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb3ZuNXVZcjZCVnhBV1Z4ZlV4OGN4dktFSGttMHZSa3F5cTF0bERic3JrYWxNeGQyeENFbVItQk1zSU82MVJlemUwNURLOHZJVEV1Ri1kMDdkZ1JKMV9RZU1HRE1WR3B1LTVPYllnOTB2Qkd6TERfdmpaZlRGNDVyTXc1VHpLVUtueDVhRDE1ZHFyQ21WT1BHMTY4LWJzZ183b0k4MDJkZXpWbFJHS21KbGpfeEk4eUtkMlpuOE5pVWxrQWF4a0hQZldHUFFzQ1NuU25hUjBOekdWUnJyempNMHlTZ3hYOWJsSEE2eTFXWGVOWGpwZFVUUDJ6MHpkZ9IBgwJBVV95cUxQcGgySWQxaTAzWS1EVjZ6ZkY3YVBFektpQVZpaGFlUjlrQVhsd3Vkci1YY1dUdHNWOGs2elFURzNRWjZwNDlDb05EaXNaU043dWh0YnFtUVo0OWNndVh4eV9TNjRXeGhZVjlrVEpZZFdESEVkZUE1SjBfR0VCRVNBcC0xbHpUVTlicTB0eXhsb3ROZU5UTG5vLWJqalJlYmYySlBzdEpHYjZzdTN4RG9UQTJ6bjAxZG81RkJPQU9URGNtX29JNG14NnF6UzdJQXp0NUpuUjJoQ0g3ZTRPR25ubzBDR0J1YWVYU0k1WEdtVmozTXhuX2xBYnFUTjhxWnlKM0FV?oc=5",
+      "source": "Herald Sun",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "ts": 1782284400000,
+      "topic": "Mystery Shopping",
+      "query": "mystery shopping"
     },
     {
       "title": "TTEC’s Latest Customer Strategist Journal Examines Seven Shifts Reshaping Customer Experience in the AI Era",
@@ -3909,6 +3819,15 @@
       "query": "new AI tools"
     },
     {
+      "title": "Zoom (ZM) Launches New AI Tools For Customer Service And Telehealth",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXNZU3RTU2ZaZl91RHNxdzlza3hkSDViLTVqYzl2WDBIY2VPLUk4NUNIMG40MkpaS1RHZ3Z0R2dxUnkyUWxlRzVkNHpNRTE4bWNkRVBfRmlXNmphcEFjWWR2MUFKaThGNHU1QWpfLUdEeFVmZTFYWFVERTdNOXROX1lRTEV1NEVWeHRkM2dWZGZHN1Vnd3g1VzQ3TjFaT3JmVzdfenZEdzhfbGRjX0hxZS1CNmVEYjhHbUpZZjFVd240XzVoaWIzNk5XRTNlUV9yRVHSAdcBQVVfeXFMT2RDQzE1ckE5aWhkUXNSaVd2eTRoankwUGhOdjIxcHNPQVVrZ0drd1BBZ3hKUzFPVmdDR090Ujc0TzZfVm8yMkdTQ2JwWTh1Si1yNHU0QXkzTzhSNzNPVDRYbDRVSmVLaXZ4Z0t0ZG9hZzduaUh4QUFQbkFfY2ZOMlRyd3ktV2FpZXFHRXo2UVZJUDN3LUlqX1FCMWlVLW82eHFLSVVFQVI4WERWUTVQRUtCLVkyUTZWbW5HRDVZTVQyTkh2bUFtWVY4LXl1Vkt3bEZGVVlEYUE?oc=5",
+      "source": "simplywall.st",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "ts": 1782284400000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
       "title": "AI in Ecommerce Statistics: 32 Stats Every Online Retailer Should Know in 2026",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51V1ZzRExsenBaUEJuMkFXVUd1dzZQRTVYNG5tXzByRlV3WnlvQm5Rbkp5Qjl5SGFXY1RMYWhhX0tBYklDM1N1SzRiOEdkcDE2U3ZzeHNIUzZOeEM0dWh0VlpfSEs0eDVybV80?oc=5",
       "source": "Triple Whale",
@@ -3936,15 +3855,6 @@
       "query": "India business news"
     },
     {
-      "title": "Stocks to Watch Today: Infosys, IRFC, Honasa Consumer, Rashi Peripherals, City Union Bank, Delhivery, Clay...",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNVdlNlRDUFl4ZjNfOXJ6RDRwbkQxblY1RGR1QWNJcGQ1RnlySGp2R3RrU1QxcUhUalNnSTFRWktieGh1YlJBT2RfNy1WT01xaFM1Wmw4aElmTnFmOGZJdmpPVGNoWEVNVlhxNUdUNEpnVlhMd1dVc0hpdUZlQTNaOS1GOERoNVZVeVNnMEdjN3RleFBWcUQ2SnpicVdtQ1BxbW9IVTFRMzFwS2o0ZTVJek1MOVNOeFpmcUxlcTRtaEJCN3N4NGNMZUs4SnB5cFFwNS14X2FPY2ZMUm5GZWc2bmQ0QkxaSVV5c1RXWXU2YU5YU3dBMFdNc2kwTEVZUUE3QkV4WmlfenJkUEtqa3ZBR3NOSjR3QmlpWGtBMUIycUt6d9IBpwJBVV95cUxNZm1GZTQ3bTdqUXhOdmtmVmp1UVkxeXlKZ2xfN3RObjBuQVNVa1VJQ0FzUDVQWGNlVjEtYkhSWks5NkdMUjdBenhJcU5YRndZMUtnYnBQb2pKdWtnb1V1azRzOVhaNlpTUlFWM2tTbHVCMjhfOGkwamJnUE1WTnNaQUl1QkVPMktqT3JkeGNBQVRtUEpMZ3hJSXJWZnpkbV92TnNYTDBKUzFMMGtNcXRtVFN2czJVVzdmcGxlSXJjSTN3QUV2MFVYLXp1SGl0Q3lJa3hweC0xMnVJVWFDdEwzU2FEWTVONmRzMlZZOHBYY0RENHFXY3NMRDFlcmp4RVl4MjBGakU4V1ROVGhPbGFXWEQ3cDFLSTFodVZaMUxYaTc3cldoTnJr?oc=5",
-      "source": "Moneycontrol.com",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "ts": 1782284400000,
-      "topic": "Business News",
-      "query": "India business news"
-    },
-    {
       "title": "Energy cooperation key pillar of India-US ties: official",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkdkSFZwX2gwYXNKcDM2TGpCWDRNN3VSY1dFVFpDdUhVVURzR1VDVmhhMkZuTkFEbkkzbUF3SE5rZWRFblBZVzgteno4dzg5b2x1ek5pUUtZWlpqbFBrZmJTSnVuWXdYcS05ekVuNHFxZll0Q3M5ZFFsR3NHUGVnUTVWZVJxVEx6c0JsSkZkUmtobDVYWkdwVWhWOERPai1waGRsNzhyaEV1NThy?oc=5",
       "source": "Awaz The Voice",
@@ -3963,18 +3873,18 @@
       "query": "India business news"
     },
     {
-      "title": "Fresh Blow To Nirav Modi: Bank Of India Wins Rs 100 Crore Battle In UK Court",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkhJbzJlWnV3cXI2RlFfZTlTQ05FZS15X3JyY2l4SHRRN05YRHR2U2p2aDd0aDJ4eWUtdVJCdkkxVzZVbGdTU01sRm1SeU1lX2hsMDBGZjJxb0pPSWxsSHJyLVNsTms4MHpTTUgtaXo1N0JzTEpCZjQwc2FGX3QyVHhaZ0d5U1FVeW5MWkI1dUlKc1Q3WVFOYjNQQTEtQzZTTVpodEhxNzRwRVIzSVR0NERmN21UYzJN0gHAAUFVX3lxTE13T0F5OUVWME5xYmk4SmtUZWI5bHFCYUZkVnM2am4ybjYzY3BlYVNHVW81SWk4bzNVWU9JVVVUMFZRWTZzZngxbGN3ZU1XbmE5eFRBaXdpWWtncmNaSGlITThwZU4tazVOWUZXTzhqNHVUaFUxUFJ2NkU4QjM4R3cwX0RKUVl1MTdROW5wQTFvbGJucmRGN2JqNnZ0UlhWWVM5VXY2NWViSnNqOGtKdUxmb3pqVnIwdnhKQW9TaDh0VA?oc=5",
-      "source": "NDTV",
+      "title": "Value of India's top 10 companies falls by Rs 11 lakh crore in 2026: Report",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEp0UTA4SmdzdmIzOS1HRGlucTQ4ZGppTTRsVlRrYThkWkVUSVdhT1hqMUZuSHQwUk5Gai0wQ1VIWDBvY1I0b2U5VHFfYXB1Y0N3MVdyVkZXczctOG1rWmxOMTdrUW13MzBScFkwU0ktZ0Y0Y3g3Wkp6NmpCVUk0M0h3ckRaUnN5d1JVY3BqN2wzSzM1N01ieEhMLU9qMFE5RnFHOFJqUjF1U2tFZXlnOUl0RkN6M00?oc=5",
+      "source": "Awaz The Voice",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "ts": 1782284400000,
       "topic": "Business News",
       "query": "India business news"
     },
     {
-      "title": "Value of India's top 10 companies falls by Rs 11 lakh crore in 2026: Report",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEp0UTA4SmdzdmIzOS1HRGlucTQ4ZGppTTRsVlRrYThkWkVUSVdhT1hqMUZuSHQwUk5Gai0wQ1VIWDBvY1I0b2U5VHFfYXB1Y0N3MVdyVkZXczctOG1rWmxOMTdrUW13MzBScFkwU0ktZ0Y0Y3g3Wkp6NmpCVUk0M0h3ckRaUnN5d1JVY3BqN2wzSzM1N01ieEhMLU9qMFE5RnFHOFJqUjF1U2tFZXlnOUl0RkN6M00?oc=5",
-      "source": "Awaz The Voice",
+      "title": "Fresh Blow To Nirav Modi: Bank Of India Wins Rs 100 Crore Battle In UK Court",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkhJbzJlWnV3cXI2RlFfZTlTQ05FZS15X3JyY2l4SHRRN05YRHR2U2p2aDd0aDJ4eWUtdVJCdkkxVzZVbGdTU01sRm1SeU1lX2hsMDBGZjJxb0pPSWxsSHJyLVNsTms4MHpTTUgtaXo1N0JzTEpCZjQwc2FGX3QyVHhaZ0d5U1FVeW5MWkI1dUlKc1Q3WVFOYjNQQTEtQzZTTVpodEhxNzRwRVIzSVR0NERmN21UYzJN0gHAAUFVX3lxTE13T0F5OUVWME5xYmk4SmtUZWI5bHFCYUZkVnM2am4ybjYzY3BlYVNHVW81SWk4bzNVWU9JVVVUMFZRWTZzZngxbGN3ZU1XbmE5eFRBaXdpWWtncmNaSGlITThwZU4tazVOWUZXTzhqNHVUaFUxUFJ2NkU4QjM4R3cwX0RKUVl1MTdROW5wQTFvbGJucmRGN2JqNnZ0UlhWWVM5VXY2NWViSnNqOGtKdUxmb3pqVnIwdnhKQW9TaDh0VA?oc=5",
+      "source": "NDTV",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "ts": 1782284400000,
       "topic": "Business News",
@@ -3993,6 +3903,24 @@
       "title": "Elon Musk loses trillionaire status as global tech rout hits SpaceX",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MbHEwMnZ4Y1M3aXlPUkdSQlA5QlVHZVlTMm05dVJWVS05NGpsODBGbnlFbHYyWDBpT1ZmODJGdUlDeGEtUks1V3o2M0FDUTZIalNJeHZEYWRQUQ?oc=5",
       "source": "BBC",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "ts": 1782284400000,
+      "topic": "Business News",
+      "query": "world business news"
+    },
+    {
+      "title": "Houston restaurants in East Downtown say business has improved as World Cup continues",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRFVXYWNIWGpEVG9hd05VYzYzSnVHdEIyVGMtY01FbkwxTHJ1b2Jrb193cTdhOWlWdDJQczgxMFlCUFllQlE3aGg0NDJxc3pnclRudVlOYzdqeE5pYUE3OVN3T2tYVzBLSlZGSlIydi1KTl9XNjVhTkVqY1d5RU1iUDZnZno1TkpuQmxlLWJfQ1Azb1hXWnBWTHBEVDY5RHNtRDlvYVFSOTdKWlFPVXpqTlBOdzNvRnBDQWE1R0pWSzdJRkdFQk95aV9wRW5RZS0yX2JCekdYQ2xWM3ZBZ1lOTldhRWxaQjjSAe8BQVVfeXFMTkdaZVJ3ckJ1SFFVR3dELXp6S3JYT0p2aExLZTM0TVhBczI2NDlieTlkM1FwLWRTT3JpcFhiQ0dYQkZxMXlReWw0UHVPbjZodDFHRG5vdGRWN2ozTktKWWxZcWttd1JaX2FDUXlVb1dYVGxzTlBtY1F6OGZZQkRVREFHbWdOaWh1dHlWYTl4eDYtS0NmRG13TElDRHlfMDNDMjVEeGwtR3p3RmNLdTRaNVVfMldiR0hlVEFHN1J2VVMxV2VpdUZSa3FMZ1lrZFllVjhmLVU1Q1dYUHBNNVpJeEpmanhZNi1DcXV6ck01YU0?oc=5",
+      "source": "Houston Public Media",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "ts": 1782284400000,
+      "topic": "Business News",
+      "query": "world business news"
+    },
+    {
+      "title": "SoCal businesses give customers a taste of the World Cup",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDZWdlg0dl9rSjdIcUN6RW1wSC1haHo3ZVJqbVJsbVJzS2lKbm5NSmV3Z1YxaXJzSzBWZHMwUFhrQS1lZXJDeUxTWDlLTFV2M05YMVlhQ0ZIN0dNU2ZBdjdmWGFwTUdsU0dxektpbWhfbHM4NmNFa1Myd19KZDZaTFE5YWVoS0ZMeXZkTkZMODlzams?oc=5",
+      "source": "Spectrum News",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "ts": 1782284400000,
       "topic": "Business News",
@@ -4035,6 +3963,15 @@
       "query": "banking customer experience India"
     },
     {
+      "title": "The Battle For India's 15 Million Kiranas, Why Meesho, Flipkart, Udaan And Walmart Want The Same Retail Network",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaVBvZHV2aV9ZQ0VBV05BYUd6SUk5em0td2R4cDk1WkN1Um84NWUwX2hwNGlCY3h5Z0s2aEV3Y2hyQXRqVGJ2S3NnUVp0TWFsbkhTV3psU3lWOGxDQVRBVlZBTXFBTHlVQ1FIdzNVMUp0d0p1NkdjSHhjYVRLdkc5OTJ4Ym04Qno4VlFUWXpxR2lEZ1BkSGpMcUVGN05ITURtam9CMHJkNXplVlRWcHVQMTlIbFhkY0ZjR004WGtwa2ZPc2hhZldkQTJ0b242WEZrNGlhVkZfc3NvMDQ?oc=5",
+      "source": "inventiva.co.in",
+      "pubDate": "Tue, 23 Jun 2026 07:54:57 GMT",
+      "ts": 1782201297000,
+      "topic": "Customer-Facing Industries",
+      "query": "retail trends India"
+    },
+    {
       "title": "Voices Launches Voices for Customer Experience",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUlo1QUQ2aUFQQzd4ZzczS3VRMXktTWtJVGV4eEw3SkJUR1dmNkpNbE1haHRzY29MMzBUcUFYMmJESHhuRGlZUVlfdkQ3N0ZwUVBFUnZJdDZXVWo0cjhhamRJTWRUekdVS3p1M045SFA4eHFaTXZuUWpBVzczXy1ZV1R1dzhUak40bEZYNXVZcGVjMl9uVFlEcmhVY1Q0ZzZkcWhIcHBKOHpMclc5ZktFTXVzSXVNQWh5bHQxd3k0d3RVNjlGNm1qQ0RxbDE0YkZPdndiMkotdlJsaF9leHdZM3JubHQ?oc=5",
       "source": "ACCESS Newswire",
@@ -4042,6 +3979,15 @@
       "ts": 1782198000000,
       "topic": "CX & Market Research",
       "query": "voice of customer"
+    },
+    {
+      "title": "Industrial IoT Market Size to Hit USD 2,430.21 Billion by 2035",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5POG82V1VLM1NGZkNoWUhJbHQ1THBQWXVIc283eUVkTE0ycVRXSFVBY0dlcDhxZ3E4OWtSMnZIdVJBbkhBQWZSeDl6SU1ydloxcWIwN25xeWo1cVF3c0MtZDlHMXlhTFU?oc=5",
+      "source": "Precedence Research",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "ts": 1782198000000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
     },
     {
       "title": "Hilton launches new hotels in Goa and Bengaluru",
@@ -4062,15 +4008,6 @@
       "query": "luxury retail India"
     },
     {
-      "title": "Flipkart Beauty eyes premium segment as next driver of growth; launches Global Beauty Luxe Store",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbklTU1Zva3A1d3hVVlhyTXYxaFAxUGxwbmZoeWVwVEI1d3pyZ1VBSVJ0TXloNm1GMHM5Z25vaUMyMkdjdm1KMlo1QzgtMDMycW9kNUk4ZnRBZGtWek4wZTlUUEFOVmpHNWs2QVMwQWQzZG42YW1CSXpTRVRlYTVJVktVclNNeTF3MW5qQ2NjVllta3VjS2JaMmprZHJCdW9XQXIwM1VuOUFITklFT3VRNlE5UzJjTWhhZDJIaHN2Uzc3VVNVQng5UnBaREFienBid0J6Q3RfZzNvM2VsNGVkWGlLYjJjZVhXX2RIZFl3eTFPTEFVZTBwMTlGT21JYVEwYnZJRFFIWFRQQdIBjwJBVV95cUxNYVloRTdsdE9iLUc3MGFaOUFETXFvSDNIMTM4MjdwZGNjOThlVkJsZ3VOdEp5dld1NnlkaExkNEtUaXp4ZFhXQTZUUFFLYmx0Qjd2VUxQZWd4OHlIVVFjN0lWejg1M0dhdXRxZnB2TzVGSWJpWjQxV2c4OVFicmtaamtESVRDb1dFSEFFMGo4VDZ2ZXFRbkU1YXVxeWUxWVpjekF4QVNoRld1VXdBN1NSWW11Mkp1NTctTGFSWU1jY2dSeUlfVVlKNy1TcFBGWVhYcmVJLVRKcWxGUzd5ZU9qdjRhTzlfZ0NTZXU5NVJuNnpvRnN0QnNndi1CSWtYOXBLdGVGUXdZUllNQm9qUGxR?oc=5",
-      "source": "ET BrandEquity",
-      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "ts": 1782198000000,
-      "topic": "Customer-Facing Industries",
-      "query": "beauty brand launch India"
-    },
-    {
       "title": "Within a Year of Launching in the UK with Space NK, Kay Beauty Wins a Prestigious Honour at the CEW UK Beauty Awards 2026",
       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPb1Z1ajFKTVVRU0hSQWNkcEZST2I5eml5ZGM2czdIRmZMeDhvYndHS1psMHBGMVl4YmFvOWNtNG5WMTBuNWdNRHRQYTZYX25sZENoZE5QVGJYb0NuYmZqTURyaDhBYlNWTm9XNGtZSGdnT2hLZmVfcm5rLUtmT3RmZmQtX0xOYmlmV3VqaXJDV2ZVQXk0amRXbkxHYjJDZllxYVdsakNTUTZpMlZNNkVhOFAtTVEzU3EyVGY0ZHd6WHZRVGFJN3BNd0hFY2lwdTh6ajQ5bUxZbDJEUC13NmtCTVNoSXNqSkI5TnpqWnUyVjNxQjZOcWFaYTkzRDhLUmtUNEFkalk0S2MyMFd2S2VfZHRuMlhqX19QVDFodVpWbFg2ckw4T2RjSdIBrgJBVV95cUxQYnNzeE1PM3dwTVlKUEl4Q2ZLQ2JvQkNtakJvUUtlTkV6YVZXWkNweERocFpEOEpwdW03dHg1VDgwM0taWVlRaWIxcWFEWWNyLVktbXBKMzhEZXFDV0ppOTN0SWhwSnloWTVYdUVJbGJVMjViSkZrZndXZ2tVNVNOUlQzYXN3Z1BIX0ZQRmI5bWxsSi1LS0hZdzVkakRPbHkwVzFYZ1FpUjRtX0ZqTi14Ukc3cDR0cnZGYWltLXdBdHRmRVMxWnR5YzFhUGlpTnY2SHI1MFcyUDlxNHN0a0ZLUFc1QTVKQ2JRUW1KVWxmUUlScjgtcDd6dGtveUtIVkNUVk1VanhkYU94YXpOS0dzSmxmcFNNekdHOG01YXE1dHRjSUxNWnFTc0hXRE53dw?oc=5",
       "source": "Business Standard",
@@ -4083,6 +4020,15 @@
       "title": "Myntra Beauty Strengthens K-Beauty Offering With New Launches",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3JqRzViNk9DSFhNb0d2Ukh3eVZuN0xXSGpfbFNqM25OSUltb0hEYmZoV2taX1VPbUppTWQxV0J5aUozSk50dm1aS0RfSVIzNUNLc21GRHhmQjZhanJGRjlvb255c09Na1pVZDEyQ0tmM0RJWnh2cVBuUnM2LXFiVnNGejJxMEZTb3lubkN5Qk44TEMzT2gyUGJiOFljaXpN0gGgAUFVX3lxTE5LcmpHNWI2T0NIWE1vR3ZSSHd5Vm43TFdIal9sU2ozbk5JSW1vSERiZmhXa1pfVU9tSmlNZDFXQnlpSjNKTnR2bVpLRF9JUjM1Q0tzbUZEeGZCNmFqckZGOW9vbnlzT01rWlVkMTJDS2YzRElaeHZxUG5SczYtcWJWc0Z6MnEwRlNveW5uQ3lCTjhMQzNPaDJQYmI4WWNpek0?oc=5",
       "source": "SMEStreet",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "ts": 1782198000000,
+      "topic": "Customer-Facing Industries",
+      "query": "beauty brand launch India"
+    },
+    {
+      "title": "Flipkart Beauty eyes premium segment as next driver of growth; launches Global Beauty Luxe Store",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbklTU1Zva3A1d3hVVlhyTXYxaFAxUGxwbmZoeWVwVEI1d3pyZ1VBSVJ0TXloNm1GMHM5Z25vaUMyMkdjdm1KMlo1QzgtMDMycW9kNUk4ZnRBZGtWek4wZTlUUEFOVmpHNWs2QVMwQWQzZG42YW1CSXpTRVRlYTVJVktVclNNeTF3MW5qQ2NjVllta3VjS2JaMmprZHJCdW9XQXIwM1VuOUFITklFT3VRNlE5UzJjTWhhZDJIaHN2Uzc3VVNVQng5UnBaREFienBid0J6Q3RfZzNvM2VsNGVkWGlLYjJjZVhXX2RIZFl3eTFPTEFVZTBwMTlGT21JYVEwYnZJRFFIWFRQQdIBjwJBVV95cUxNYVloRTdsdE9iLUc3MGFaOUFETXFvSDNIMTM4MjdwZGNjOThlVkJsZ3VOdEp5dld1NnlkaExkNEtUaXp4ZFhXQTZUUFFLYmx0Qjd2VUxQZWd4OHlIVVFjN0lWejg1M0dhdXRxZnB2TzVGSWJpWjQxV2c4OVFicmtaamtESVRDb1dFSEFFMGo4VDZ2ZXFRbkU1YXVxeWUxWVpjekF4QVNoRld1VXdBN1NSWW11Mkp1NTctTGFSWU1jY2dSeUlfVVlKNy1TcFBGWVhYcmVJLVRKcWxGUzd5ZU9qdjRhTzlfZ0NTZXU5NVJuNnpvRnN0QnNndi1CSWtYOXBLdGVGUXdZUllNQm9qUGxR?oc=5",
+      "source": "ET BrandEquity",
       "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
       "ts": 1782198000000,
       "topic": "Customer-Facing Industries",
@@ -4170,18 +4116,18 @@
       "query": "India business news"
     },
     {
-      "title": "Internet subscribers in India up 6.24% in March-26 quarter",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjNVMFNMU1VvN0NWZHNqbTNTYTFfelc1c0RSU244MGRnZGVzR1hjSXVHcklxQk1aYTM5cmpaUnhNODdhb3VxTENXTVpjSm9qaG44eW4xMkp0d3VLS2pqMTZmaUl2dFg5eFlYQzlKeE9URTBxYWZvcFdRUkYzN2kwVXRQNmhYcjg0YlFnT2tDS2ttOWlqa3B6RnJWZ3JMVHRtT19HYm9kQTU0MnZqY2tBcTJFYkE4OWp6R1FzNzJYNEd5Q0RaaEdHLVpBSTBtanpadlVKTDBn0gHbAUFVX3lxTE1IT1EzNTNGQ1VMQnlkYlBSRUF4alBlM2M3TWNQYWFpdFVOTDRiMkhuNjNvREwwUFpOcDRsOUxtU0pkQnVKbWw3c285NndzRXJlVEo2YXRNN2U3WGY0VW5pQ3lkRVJRY3BkZlp4czFYUDh5TWFoLS00cVltd0ZyU3I2VjJNWEYwOFdRYlBPX0dCT0dQbU1xcHo5NEhkM3pBa2o0TXBXZ0p4TG8wTEtTNG1XdjJHZC1vV1d0c29xbjN5cXlWR0doc0pySUNhVTFUMGh3NlNyd09aOEQ5dw?oc=5",
-      "source": "Business Standard",
+      "title": "India business activity slows to three-month low in June; optimism dips to six-month low",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTl6aHhGOXhja0c4aXcxSzd1Z1dSeWNrQzhHOFRvUWlhOHB1eFpZaVh0X3liNVJJNVMzSXo1c1dkV0trQTZ5dVdIamRqdFFmMk8zREZHSXVCQkdEVjF2WnpRZFBHMms2TGlJWV80UzI5X080ckVCNnJyTHd1TzZKRkhJQWI2eTRBbi1ONGdqc3loaGl2QWpJaU83MzVJRzVBaWdITXlxSm9abzU2aHRKY01ELVRjWHI1U21pUFpkWGdPaEp2d1dnc1VoOXljamItQjdxX1NmTFZseDk0VU9EZXFtZEZjSEnSAewBQVVfeXFMT3dtdHFBS00zdHpsVU0yclItUkFkaFBERUZiZ0ktSXUzRnZRaFluZW5Kc3o3dHhDN1BTZjVkU2otN2JiT3cyaXBlSGtCTTZPbGtaOHNSZnZxbXdHVmpDcHc4Z3Z1VHVmVExQdk53aERxWTBPRmNtZVBTN245RnpRVk9DM0xoa25TQVYxMEFvYks0RzMwZ21lamotbUlBZy1CalJLbHNxV2J0Vmg2TU1sYno2RldORDFwaDZXSFdHbmVYT3dfVFl6OU9Bc2FCamVrOW1kdW9ZendVeUVjNnB5MDN3Tm11Y1UwU1pGdnk?oc=5",
+      "source": "Moneycontrol.com",
       "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
       "ts": 1782198000000,
       "topic": "Business News",
       "query": "India business news"
     },
     {
-      "title": "India business activity slows to three-month low in June; optimism dips to six-month low",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTl6aHhGOXhja0c4aXcxSzd1Z1dSeWNrQzhHOFRvUWlhOHB1eFpZaVh0X3liNVJJNVMzSXo1c1dkV0trQTZ5dVdIamRqdFFmMk8zREZHSXVCQkdEVjF2WnpRZFBHMms2TGlJWV80UzI5X080ckVCNnJyTHd1TzZKRkhJQWI2eTRBbi1ONGdqc3loaGl2QWpJaU83MzVJRzVBaWdITXlxSm9abzU2aHRKY01ELVRjWHI1U21pUFpkWGdPaEp2d1dnc1VoOXljamItQjdxX1NmTFZseDk0VU9EZXFtZEZjSEnSAewBQVVfeXFMT3dtdHFBS00zdHpsVU0yclItUkFkaFBERUZiZ0ktSXUzRnZRaFluZW5Kc3o3dHhDN1BTZjVkU2otN2JiT3cyaXBlSGtCTTZPbGtaOHNSZnZxbXdHVmpDcHc4Z3Z1VHVmVExQdk53aERxWTBPRmNtZVBTN245RnpRVk9DM0xoa25TQVYxMEFvYks0RzMwZ21lamotbUlBZy1CalJLbHNxV2J0Vmg2TU1sYno2RldORDFwaDZXSFdHbmVYT3dfVFl6OU9Bc2FCamVrOW1kdW9ZendVeUVjNnB5MDN3Tm11Y1UwU1pGdnk?oc=5",
-      "source": "Moneycontrol.com",
+      "title": "India's private sector growth slows in June as demand and hiring moderate",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa1R1MWJWMkQ0YUVxWTZDMkNVOXlINVFEM3JKcHZSOUhObkhkLXkwNjBLYkc1YjU4VUJTQ1h0el9nWHhERGsxMWtSNFZKOFVhNzNSWE5raFB1aDNYVVRKYlA2X3pYZkpqamNXQTV4MkhHV1N3U3NRcFM5Zy13MVZjaUo2X3BUaGZIVmN0dXRUc3VmdWQ5WnpUekVqeXh3dG1uUXJfNmltMjlLVXM0TmRKbFFpMVg4dXRjd2hBd052WWlMYkFQcEVZQWk0dlhnUl9wVG1NYzM1dzFzaURYTmhyUDB0Y0FUd0w4MzlF0gHwAUFVX3lxTE9XYmpfVlRwb1dCSGxkb3RfRmMybjBmbm5JOEJ5Y2NOOEhJb21GM2haVUJET1FMeTF0aGVMQl9MVnFSS0U0Nmt3Vy1WNk42VENZeEoyTDFKQURJdmpGaEJqd0tkT1lHVGNkemlhTzNUdUYzMlBkMmhpX1RfTXoyTk5CODRjWUxDZFB5ZFRmNEx3YkRKZGFiQnRNYVJ5NVRpdWVhRFdIM0dqRmozSzBZaWE1T1dYaUNIeWg3NUtQSjNRTGIzLUtORUZvcTBiVlNwcU54SzlZbEYyQ3dxYThsTGRQNDFjNDBDTnhCejZfMTZJYw?oc=5",
+      "source": "Business Standard",
       "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
       "ts": 1782198000000,
       "topic": "Business News",
@@ -4197,9 +4143,27 @@
       "query": "India business news"
     },
     {
+      "title": "Retail investors fuel India’s market resilience as SIP flows jump 48%: JP Morgan",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU05Ic1JiV2xpem01aXdRX3BDS3NYN2VKU0ZHME9uYU9UcU1CRkYzUGttTmhGZVBsNEVvTkhfX2NkTTQxamhtVEtRbmNJUlhaN1RfUTVUREJ0akkxYWpzTktQSHhLZWVQdm1DM2VlSmVDLU9aS2Y2RE1tTktxZE9idlBEbGdPZ0wtalRXZFZ0Qnh6d2toWHVfcDM0SmRrV3Z1d3JVR0xWb1Q2TVREQk5HSXl4cnJNLUJLRy1KdlNkNXdqZTVF0gHKAUFVX3lxTE03dnBHQUpJWnBzMU10MlJpVHhUekpoNF9Uanp3UXNGUEN1YTU1U29rbDVocjh0S28wQTJQLXY0TDBPbTFlaE8wWUczSDNHUk5fcHB0Wi1sd2tHVXFlSmJ3RTRqcWRLUHd2YTBNMnNTR3htY2t6UXBDeFhOZkRSNVFNMWVQWFNabkhaM0RkYTN4eC1fdl9rZmpoTkN1dzhPOVFPN0I3bThQb3VORjlJLV95TTRrWVN1ZW0xNFpJYWw2VDVsVXlNNUx2d3c?oc=5",
+      "source": "Firstpost",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "ts": 1782198000000,
+      "topic": "Business News",
+      "query": "India business news"
+    },
+    {
       "title": "2026 News items - DDG Nordquist highlights role of trade remedies amid global trade challenges at Seoul Forum",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Xc1pld3FNaTBNUGxmYmFKQjFJUUdRLVNfSFFjZUNqdVdBZHJ4S3hNZXEzX0dEbWQyZGl0OXRwOTFlNl96UEY4ZWwtUFd6Uk00dW13ZGJVT1ptTFFOX1hleFROZE5BOEx3aDNzWndLejRQMzQ0S2c?oc=5",
       "source": "World Trade Organization",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "ts": 1782198000000,
+      "topic": "Business News",
+      "query": "world business news"
+    },
+    {
+      "title": "Climate Resilience Awards for Business 2026",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PMEFLZUlEc0lSUU16dHVpRERITFAxcEpGcTdLNXNEeXJQZ3Zyb1F0d09JQ1hVcFJLV1hHU3k0NVpua2tMUEkyR3Q1bVA0TXpFMi1wUHhqV29kaFFfbkkyNUl6Uk0zcmFFTlprOEFBdVQtdTNtWDZzLVdrUQ?oc=5",
+      "source": "The World Business Council for Sustainable Development (WBCSD)",
       "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
       "ts": 1782198000000,
       "topic": "Business News",
@@ -4278,15 +4242,6 @@
       "query": "mystery shopping trends"
     },
     {
-      "title": "Aldi Launches ‘Blind Boxes’ Today—as Grocery Prices Rise",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalFiaDZyRTJaNWFGcThnLWNseVllaEYzcW03N2xLdFlNUVNjSjM0UmhHQzRlVHVtNE1WclVxQ2lVb3NGck55M3JsUXQ1eXRvTUNqZkk3UmJYWUV3cExXM291Nm5TX2dlam9HanF1bDhfQWFIZTNtSHFKSFRPckNjeGpoaEFFNnQxeV9tTGl3?oc=5",
-      "source": "Newsweek",
-      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "topic": "Mystery Shopping",
-      "query": "mystery shopping trends"
-    },
-    {
       "title": "Why customer experience and culture outlast trends",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05RGd3bjlIWmlMSWVrVjFTTlZqbXF0UGU3d3pWRnlDVlVGc21qSXNHN2N3ZFROMDJwYzV3QmtsMXpyd1l5QnVHQmVVeEtHRjZzSFBrV0tPbW9DcjZPbFBCM1VJZTFlOFEyZ25STWQtRGxPVF9RTXpzSnVFRGY0WUk?oc=5",
       "source": "Campaign Middle East",
@@ -4332,6 +4287,24 @@
       "query": "voice of customer"
     },
     {
+      "title": "Honey Market Size, Share, Analysis, Industry Trends, 2034",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXdRNGZQZVcxRjZ6WVFJZFBERFBIYV9DbnNNNlJPUUkxdTNKMHVqR3oza2dDWGlZOEdESG8zS2VWRE9HMkJsTm5CVklzT2lPaEZmYTBYeDk3UG9FMmgzRmZMdktyWFVyb0lvUWtJVmY5VDJoTzJCYy1TSEswTzZuUFBn?oc=5",
+      "source": "Fortune Business Insights",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
+      "title": "Software Market Size, Share, Trend, Forecast, 2026-2034",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43ZThmdXRvRGt4NFRwRUFvdHhkZklvNGhJaWtLSXB4UGNBT1VtWEhaSmxiVnhheF9jaXV5R01mci1VQlJfMlNXSngzUGRLamh2SjVtN0toSnpjYzlMcVVzR0FRREhrZUJta09LeHZITQ?oc=5",
+      "source": "Fortune Business Insights",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "topic": "CX & Market Research",
+      "query": "market research industry"
+    },
+    {
       "title": "The most anticipated new Phoenix restaurants opening this summer",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3A4M0hOMjFiNm9iV3VpQnBEWkxnNlZHU1ptQk5BM2FPelJWdk9QUk93SXR3VmVXbnZ0OVU4eEU3b0VkVThodGR3NXYyWFAzRHByb1VrZE9xbjVRMEQ1ekp0M3h4S3lrYWZmb2pBZ25udGF2U0VXS3ktTjZIbm9mQzZfUkNyd20zeDVQX0xjQjBoWVBHaXUzV0hQa2V1YXJmZm1KMHd3SFI2TDBQakI2c202QQ?oc=5",
       "source": "Phoenix New Times",
@@ -4368,6 +4341,15 @@
       "query": "AI trends"
     },
     {
+      "title": "Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMExTejZnVFR3X19uQUl1RlozVFEwdXRXTmlReW5PeEJBam1IZk9jbzdJeGlHaXhkM1R6R29hMWppSHJ0dlhWUFQybG0td3l6YVRtU3k3MlBZQlgtSUxPbktRWGVEUmdlT3BNb3JUSWZ2bzU5Ylo5V1ZRU21LRkxxTUphZw?oc=5",
+      "source": "Variety",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "topic": "AI",
+      "query": "new AI tools"
+    },
+    {
       "title": "From gut feel to ground truth: How AI is reshaping the in-store experience",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVFsN282dEhkbnpRWjR5WUYwaE1LRE5zRE44MHlGSWkxQ211dE83Vk5yWmh2bUtNZW1qY3ZmUDRQa1RKbTJlcmRUTjJ6Y0tIZmllQkRMOTY5RjZVbG94MWU4TktsbjAzU0V1WTFUM0h5Y0t6dGlndW1EdWNDQVlmend4LVp3ZzBTYWtaQ0taY1BmMTlGN1FibTZHV3Q1TlpMZFVKeE9lOHVSbDU5N21kcUJGM0Fma25uTWNIblNn?oc=5",
       "source": "Retail Customer Experience",
@@ -4377,18 +4359,18 @@
       "query": "AI customer experience retail"
     },
     {
-      "title": "India restarts the world’s two oldest nuclear reactors",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjNyNUpyZVU4WmVheUhTZmNES1RCaVd0X0R6VUVOb2I1bmJXaVRISjhCektRUHg2bzhmZHF0MTRBT3pJNW5yY2pTNVljblRGTDlzaC1UaVJLMGFGRFFweVRZOVB5LUJ6OC15YlFqT25OQzh0anBZa0R1RW1LU3QxUXg3ZHR5VjF6WE8xUXZiMlpGNHY4N0VENFR0My1uQQ?oc=5",
-      "source": "Eurasia Business News",
+      "title": "Stock to buy today: Godfrey Phillips India (₹2,281.25)",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVnN2TTc1dEZURnZjV3A2czVhRTFxTjI2NnB4dmNiNkFqeHJTUjRzdmp0X0lwR3pod0FnTlpselk5RzV1Zzk0S0xHb3lFczhBcXFOTU5hX01wLUpiRjVvRHpxcnBRVktUZElPLTB5NUtQd3VfcnZWZDNCQTRpZlR5WEt0d254aFRVdjRieEpRek9pdW8wdElKc3lkNFcwbmRIdDVGOXo3R3lURGtvcEphalMzTDNuZ3p4Z1VVSHRObEtiV1h3OFHSAcwBQVVfeXFMUGlRYkc1NmVFclpsTFp1UzZtNllsMUFDbHphNl9CNHk2N0ZmOE5zUUN0VlVnaDFHWW9Lb2hJXzQ3NUtCbDJhSGEtMFdXc1oyam1jQjBBZlVDRnJoODZvODR6UHh4aFlMTEc2X2QzTHI3NkEtWTdMczFXZm8zbjhYbnpyTV85Sm5ySjFLUFYtZEc4M2ZOV1BFNXBLbi1tT1JFSXhxZm9rSXRQRS0yMTh6U1oxYzZ6TFJPOEhudzZlWGtSUVB4SDVqR2pOQW83?oc=5",
+      "source": "BusinessLine",
       "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "topic": "Business News",
       "query": "India business news"
     },
     {
-      "title": "Stock to buy today: Godfrey Phillips India (₹2,281.25)",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVnN2TTc1dEZURnZjV3A2czVhRTFxTjI2NnB4dmNiNkFqeHJTUjRzdmp0X0lwR3pod0FnTlpselk5RzV1Zzk0S0xHb3lFczhBcXFOTU5hX01wLUpiRjVvRHpxcnBRVktUZElPLTB5NUtQd3VfcnZWZDNCQTRpZlR5WEt0d254aFRVdjRieEpRek9pdW8wdElKc3lkNFcwbmRIdDVGOXo3R3lURGtvcEphalMzTDNuZ3p4Z1VVSHRObEtiV1h3OFHSAcwBQVVfeXFMUGlRYkc1NmVFclpsTFp1UzZtNllsMUFDbHphNl9CNHk2N0ZmOE5zUUN0VlVnaDFHWW9Lb2hJXzQ3NUtCbDJhSGEtMFdXc1oyam1jQjBBZlVDRnJoODZvODR6UHh4aFlMTEc2X2QzTHI3NkEtWTdMczFXZm8zbjhYbnpyTV85Sm5ySjFLUFYtZEc4M2ZOV1BFNXBLbi1tT1JFSXhxZm9rSXRQRS0yMTh6U1oxYzZ6TFJPOEhudzZlWGtSUVB4SDVqR2pOQW83?oc=5",
-      "source": "BusinessLine",
+      "title": "India restarts the world’s two oldest nuclear reactors",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjNyNUpyZVU4WmVheUhTZmNES1RCaVd0X0R6VUVOb2I1bmJXaVRISjhCektRUHg2bzhmZHF0MTRBT3pJNW5yY2pTNVljblRGTDlzaC1UaVJLMGFGRFFweVRZOVB5LUJ6OC15YlFqT25OQzh0anBZa0R1RW1LU3QxUXg3ZHR5VjF6WE8xUXZiMlpGNHY4N0VENFR0My1uQQ?oc=5",
+      "source": "Eurasia Business News",
       "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "topic": "Business News",
@@ -4411,6 +4393,15 @@
       "ts": 1782111600000,
       "topic": "Compliance",
       "query": "FSSAI new guidelines"
+    },
+    {
+      "title": "Bristol taxi mystery shopping reveals badge display failures despite strong overall standards",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3BjcE1zUFQ0RVhtdFJuODdkYXVqd2IxT3NIc05zUlN2dmZYY1V0Y0lVQVBKdGdKUXdsYWp2NGg3REJSZTlzSkRWVDlFcEJOUUgzZHVxcGEwMHFPYU9tUXZHU1FsUmFUVGJSOWJqVXk0MTNkdXFpN04zRDFtOTFNQWhSaWgyeFNsUXRxM2dadnJWVlJ5dEpnQnpGX3VkbzZ1b3M3WGJGM0xrTktIdDZWT2tQY19SR0ZPMGVfalpaQTgxd3YxVEE?oc=5",
+      "source": "taxi-point.co.uk",
+      "pubDate": "Sun, 21 Jun 2026 07:24:34 GMT",
+      "ts": 1782026674000,
+      "topic": "Mystery Shopping",
+      "query": "mystery shopping"
     },
     {
       "title": "World Music Day: Inside luxe retail’s music strategy",
@@ -4456,24 +4447,6 @@
       "ts": 1781938800000,
       "topic": "Customer-Facing Industries",
       "query": "luxury retail India"
-    },
-    {
-      "title": "These Beauty Brands Took Over My Vanity And I’m Not Complaining",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGlDS2NfdE51M3Nrcll6Zl9ySEkwVHZSZk94cVB2N0RPc3BmVGxIXy1jczdyMWxkb2NwSGR5VEJnNnFObWdrUmpaUnpIVmgxM1RLSmRhSW9qMFlTV0JVbS1HaDdCaWhQelFicnZtbC1FQnR0ZkhnVFkwMUtaUHJNd2hhS0JYZGd3blNnX2dJcm9sdHliNXJnOEF3?oc=5",
-      "source": "Elle India",
-      "pubDate": "Sat, 20 Jun 2026 07:00:00 GMT",
-      "ts": 1781938800000,
-      "topic": "Customer-Facing Industries",
-      "query": "beauty brand launch India"
-    },
-    {
-      "title": "India needs greater self-reliance, lower dependence on foreign capital, defence, energy and tech: Kotak",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbzlGemZPOWRXVjVycHQtUEFkRXNHRTRuZk1XM3hrckZSbGVuOTBibjFfc0pUWWdWSXJXelVyQ0VDV0JGc0pEMGdxdi15WnBuSmxjU0hxcF9jV1BwQTAwZ2Z6VmViRWhXMXAtWlQ0Wk8tbzNwZG9laExCRmtJYVVWcFJXQU9TWmY0Mko4Z2l1T0NxaV9IQng3VGMyWkI0NVRxcW91YXJtNk9YY2M0cm82dTFnbFFYVTItaFhGS2ZSVFJKdF85WmJJZ1ljd1BhTG93SEVfM1JWVVA0RWRzM0pEc1ZvdnZxRWc1VndLYUNTUmdfTmJJRnp30gH8AUFVX3lxTFBZQkNOQnNZSUNmYVR3cnZHNUp0TjMxTWtVNndvT28zZ2R5N1pMUDY4Z2d1VWtpRVhuRllWcDFMaG5tSXFsZmJmOUFuU3VZaDEwOXc2Zk5FVmhwNDBDYldXVGRDNXVXaENKamx5QW5PQlQyTHNRcEpadTlMNlVRZTFHUDZvblQtWjFhVF9JSXFXNTVXQ2VNbXA3TWdmSHl5WXpxb1lZZUcwT1ZBak13TmpWcHBiU1Q2eFV4NUJYT1pSZEJnMjZoSmxxOVJsS3RzTkdmZFZuaGstVlRScEt6dGdrOEdhbUZrQXlxSkFTUVdHYjV1TURiN2FXVUJyQg?oc=5",
-      "source": "Moneycontrol.com",
-      "pubDate": "Sat, 20 Jun 2026 07:00:00 GMT",
-      "ts": 1781938800000,
-      "topic": "Business News",
-      "query": "India business news"
     },
     {
       "title": "FSSAI issues notices to Marico, Ferrero, Bikanervala among 14 entities over misleading claims",
@@ -4546,15 +4519,6 @@
       "ts": 1781852400000,
       "topic": "Customer-Facing Industries",
       "query": "real estate customer experience India"
-    },
-    {
-      "title": "Publix Bakery Unveils $5 Sprinkle Crunch Shortcake Inspired by Viral Dot Cakes",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGhNbGplOVhYOWRoUzhRTGVJREYxSV9kTC1HN3ZYSllUZm5OWDBsMjZ3c080Y1FCbHBzYmlPUHVDWUZUazlURWZFcU5zN2ZJVWd5MXEyOFdKc1Fzam5RcTRNX05jZmZNVzJmVWpWeVF6bUJNV1hmNUprdVBmeU9kUFhn?oc=5",
-      "source": "AOL.com",
-      "pubDate": "Thu, 18 Jun 2026 23:41:34 GMT",
-      "ts": 1781826094000,
-      "topic": "Mystery Shopping",
-      "query": "mystery shopping trends"
     }
   ]
 }
